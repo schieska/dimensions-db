@@ -1,0 +1,232 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://extrabold.tools/schemas/dist-item.schema.json",
+    "title": "Distribution Item",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "id",
+        "type",
+        "name",
+        "brand",
+        "inner_size_mm"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "minLength": 2,
+            "maxLength": 120
+        },
+        "type": {
+            "type": "string"
+        },
+        "origin": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "name": {
+            "type": "string"
+        },
+        "brand": {
+            "type": "string"
+        },
+        "inner_size_mm": {
+            "description": "Inner dimensions in millimeters (source of truth).",
+            "anyOf": [
+                {
+                    "$ref": "common.schema.json#/$defs/size"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "inner_size_in": {
+            "description": "Inner dimensions in inches (generated from mm).",
+            "anyOf": [
+                {
+                    "$ref": "common.schema.json#/$defs/size"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "outer_size_mm": {
+            "description": "Outer dimensions in millimeters.",
+            "anyOf": [
+                {
+                    "$ref": "common.schema.json#/$defs/size"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "outer_size_in": {
+            "description": "Outer dimensions in inches (generated from mm).",
+            "anyOf": [
+                {
+                    "$ref": "common.schema.json#/$defs/size"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "visibility": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "uniqueItems": true
+                }
+            ]
+        },
+        "materials": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            ]
+        },
+        "features": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            ]
+        },
+        "referenced_by_count": {
+            "anyOf": [
+                {
+                    "type": "integer",
+                    "minimum": 0
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "added_by": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "status": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "accuracy": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "identifiers": {
+            "anyOf": [
+                {
+                    "type": "object"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "parts": {
+            "description": "Parent -> children relation with quantity.",
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "ref",
+                            "qty"
+                        ],
+                        "properties": {
+                            "ref": {
+                                "type": "string"
+                            },
+                            "qty": {
+                                "type": "integer",
+                                "minimum": 1
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "images": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": [
+                            "kind",
+                            "url"
+                        ],
+                        "properties": {
+                            "kind": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string",
+                                "format": "uri"
+                            },
+                            "note": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

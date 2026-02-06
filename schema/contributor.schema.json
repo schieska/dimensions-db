@@ -1,0 +1,59 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://extrabold.tools/schemas/contributor.schema.json",
+    "title": "Contributor",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "id",
+        "handle",
+        "display_name"
+    ],
+    "properties": {
+        "id": {
+            "$ref": "common.schema.json#/$defs/contributorId"
+        },
+        "handle": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+        },
+        "display_name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80
+        },
+        "bio": {
+            "type": "string",
+            "maxLength": 280
+        },
+        "links": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "github": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "gitlab": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "website": {
+                    "type": "string",
+                    "format": "uri"
+                }
+            }
+        },
+        "i18n": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "common.schema.json#/$defs/i18nMap"
+                }
+            ]
+        }
+    }
+}

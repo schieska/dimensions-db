@@ -1,0 +1,49 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_micke_drawer_unit_white",
+    "type": "furniture",
+    "name": "MICKE Drawer unit on castors, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "outer_size": {
+        "x": 350,
+        "y": 500,
+        "z": 750
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "parts": [
+        {
+            "ref": "ikea_micke_drawer_white",
+            "qty": 4
+        }
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/micke-drawer-unit-on-castors-white-90213078/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06"
+        }
+    ],
+    "identifiers": {
+        "mpn": [
+            "902.130.78"
+        ]
+    },
+    "images": [
+        {
+            "kind": "product",
+            "url": "https://www.ikea.com/nl/en/images/products/micke-drawer-unit-on-castors-white__0627113_pe693172_s5.jpg"
+        }
+    ]
+}

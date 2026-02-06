@@ -1,0 +1,123 @@
+{
+    "$schema": "../../../schema/item.schema.json",
+    "id": "ikea_samla_5l_clear",
+    "type": "container",
+    "origin": "retail",
+    "name": "SAMLA Box 5L",
+    "description": "Clear plastic storage box with optional lid. Part of IKEA's popular SAMLA series. Great for organizing small items.",
+    "brand": "IKEA",
+    "translations": {
+        "de": {
+            "name": "SAMLA Box 5L",
+            "description": "Durchsichtige Kunststoffbox mit optionalem Deckel."
+        },
+        "sv": {
+            "name": "SAMLA Låda 5L",
+            "description": "Genomskinlig plastlåda med valfritt lock."
+        }
+    },
+    "inner_size": {
+        "x": 235,
+        "y": 155,
+        "z": 120,
+        "corner_radius": 12
+    },
+    "outer_size": {
+        "x": 280,
+        "y": 200,
+        "z": 140
+    },
+    "visibility": [
+        "standalone"
+    ],
+    "materials": [
+        "plastic",
+        "pp"
+    ],
+    "features": [
+        "stackable",
+        "transparent",
+        "lid-optional",
+        "rounded-corners"
+    ],
+    "parts": null,
+    "added_by": "gh:gijs",
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/us/en/p/samla-box-clear-70102972/",
+            "regions": [
+                "US"
+            ],
+            "langs": [
+                "en"
+            ],
+            "note": "Official IKEA US product page"
+        },
+        {
+            "kind": "community",
+            "url": "https://www.youtube.com/watch?v=example_review",
+            "note": "Community measurement video"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:gijs",
+            "type": "initial",
+            "method": "manual",
+            "tool": "caliper",
+            "protocol": "inner_at_bottom",
+            "date": "2026-02-01",
+            "notes": "Measured at bottom of container, EU model."
+        },
+        {
+            "by": "gh:other_contributor",
+            "type": "verification",
+            "method": "manual",
+            "tool": "tape",
+            "date": "2026-02-05",
+            "notes": "Confirmed dimensions on US model, within ±2mm."
+        }
+    ],
+    "tolerance_mm": {
+        "x": 2,
+        "y": 2,
+        "z": 1
+    },
+    "accuracy": "high",
+    "status": "verified",
+    "identifiers": {
+        "sku": [
+            "701.029.72"
+        ],
+        "ean": [
+            "7312572229274"
+        ],
+        "upc": [],
+        "asin": [
+            "B07XYZ1234"
+        ],
+        "mpn": [
+            "SAMLA-5L"
+        ]
+    },
+    "variant_of": null,
+    "variant": {
+        "color": "clear",
+        "region": "EU",
+        "revision": "2024"
+    },
+    "images": [
+        {
+            "url": "https://www.ikea.com/images/samla-box-clear.jpg",
+            "kind": "product"
+        },
+        {
+            "url": "https://example.com/samla-dimensions.png",
+            "kind": "other"
+        }
+    ],
+    "deprecated": false,
+    "replaced_by": null,
+    "updated_at": "2026-02-06"
+}

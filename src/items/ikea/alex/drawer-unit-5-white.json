@@ -1,0 +1,52 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_alex_drawer_unit_5_white",
+    "type": "furniture",
+    "name": "ALEX Drawer unit, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "A clean look that’s easy to like and mix with other styles, either supporting a desk or standing alone. Includes 2 small and 3 large drawers.",
+    "outer_size": {
+        "x": 360,
+        "y": 580,
+        "z": 700
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "parts": [
+        {
+            "ref": "ikea_alex_drawer_small_white",
+            "qty": 2
+        },
+        {
+            "ref": "ikea_alex_drawer_large_white",
+            "qty": 3
+        }
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-white-00473546"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06",
+            "notes": "Measurements from IKEA product page."
+        }
+    ],
+    "identifiers": {
+        "mpn": [
+            "594.222.20",
+            "605.888.94",
+            "804.735.47",
+            "004.735.46"
+        ]
+    }
+}

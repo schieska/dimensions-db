@@ -1,0 +1,54 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_alex_storage_unit_white",
+    "type": "furniture",
+    "name": "ALEX Storage unit, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "outer_size": {
+        "x": 360,
+        "y": 580,
+        "z": 700
+    },
+    "inner_size": {
+        "x": 312,
+        "y": 560,
+        "z": 644
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "parts": [
+        {
+            "ref": "ikea_alex_storage_shelf_white",
+            "qty": 1
+        }
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/alex-storage-unit-white-50563752/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06"
+        }
+    ],
+    "identifiers": {
+        "mpn": [
+            "505.637.52"
+        ]
+    },
+    "images": [
+        {
+            "kind": "product",
+            "url": "https://www.ikea.com/nl/en/images/products/alex-storage-unit-white__1209817_pe909458_s5.jpg"
+        }
+    ]
+}

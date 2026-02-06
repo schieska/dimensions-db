@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_friidrott_drawer_white",
+    "type": "drawer",
+    "name": "FRIIDROTT Drawer, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "outer_size": null,
+    "visibility": [
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/friidrott-drawer-unit-on-castors-white-60609071/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06",
+            "notes": "Internal depth 34cm verified via IKEA. Width/height not explicitly documented for this specific drawer unit sub-component; set to 0 pending physical verification."
+        }
+    ]
+}

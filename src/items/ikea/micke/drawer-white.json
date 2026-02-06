@@ -1,0 +1,28 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_micke_drawer_white",
+    "type": "drawer",
+    "name": "MICKE Drawer, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "outer_size": null,
+    "visibility": [
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/micke-drawer-unit-on-castors-white-90213078/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06",
+            "notes": "Internal depth 36cm verified via IKEA. Width/height not explicitly documented for this specific drawer unit sub-component; set to 0 pending physical verification."
+        }
+    ]
+}

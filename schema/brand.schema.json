@@ -1,0 +1,71 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://extrabold.tools/schemas/brand.schema.json",
+    "title": "Dimensions DB - Brand",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "id",
+        "name"
+    ],
+    "properties": {
+        "$schema": {
+            "type": "string"
+        },
+        "id": {
+            "type": "string",
+            "description": "Unique brand identifier, matches folder name.",
+            "pattern": "^[a-z0-9][a-z0-9\\-]*[a-z0-9]$"
+        },
+        "name": {
+            "type": "string",
+            "description": "Display name of the brand.",
+            "minLength": 1,
+            "maxLength": 100
+        },
+        "description": {
+            "type": "string",
+            "maxLength": 500
+        },
+        "website": {
+            "type": "string",
+            "format": "uri"
+        },
+        "country": {
+            "$ref": "common.schema.json#/$defs/regionCode"
+        },
+        "type": {
+            "type": "string",
+            "enum": [
+                "manufacturer",
+                "retailer",
+                "community",
+                "diy"
+            ]
+        },
+        "translations": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "common.schema.json#/$defs/i18nMap"
+                }
+            ]
+        },
+        "identifier_types": {
+            "type": "array",
+            "description": "Recommended identifier types for products of this brand.",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "ean",
+                    "upc",
+                    "asin",
+                    "mpn",
+                    "sku"
+                ]
+            }
+        }
+    }
+}

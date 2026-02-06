@@ -1,0 +1,122 @@
+{
+    "$schema": "../../../schema/item.schema.json",
+    "id": "example_advanced_shapes",
+    "type": "container",
+    "name": "Hybrid Volume Example",
+    "brand": "community",
+    "description": "This file demonstrates how to combine simple xyz dimensions with advanced polygons and lofts.",
+    "inner_size": {
+        "x": 86.6,
+        "y": 100,
+        "z": 40,
+        "polygon": [
+            [
+                0,
+                50,
+                10
+            ],
+            [
+                43.3,
+                25,
+                10
+            ],
+            [
+                43.3,
+                -25,
+                10
+            ],
+            [
+                0,
+                -50,
+                10
+            ],
+            [
+                -43.3,
+                -25,
+                10
+            ],
+            [
+                -43.3,
+                25,
+                10
+            ]
+        ],
+        "corner_radius": 5
+    },
+    "outer_size": {
+        "x": 100,
+        "y": 100,
+        "z": 120,
+        "levels": [
+            {
+                "z": 0,
+                "polygon": [
+                    [
+                        0,
+                        0,
+                        5
+                    ],
+                    [
+                        100,
+                        0,
+                        5
+                    ],
+                    [
+                        100,
+                        80,
+                        5
+                    ],
+                    [
+                        0,
+                        80,
+                        5
+                    ]
+                ]
+            },
+            {
+                "z": 120,
+                "polygon": [
+                    [
+                        -10,
+                        -10,
+                        2
+                    ],
+                    [
+                        110,
+                        -10,
+                        2
+                    ],
+                    [
+                        110,
+                        90,
+                        2
+                    ],
+                    [
+                        -10,
+                        90,
+                        2
+                    ]
+                ]
+            }
+        ]
+    },
+    "visibility": [
+        "standalone"
+    ],
+    "sources": [
+        {
+            "kind": "community",
+            "url": "https://example.com"
+        }
+    ],
+    "added_by": "gh:antigravity",
+    "measurements": [
+        {
+            "by": "gh:antigravity",
+            "type": "initial",
+            "method": "manual",
+            "tool": "unknown",
+            "date": "2026-02-06"
+        }
+    ]
+}

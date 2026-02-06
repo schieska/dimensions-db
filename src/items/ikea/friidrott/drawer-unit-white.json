@@ -1,0 +1,49 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_friidrott_drawer_unit_white",
+    "type": "furniture",
+    "name": "FRIIDROTT Drawer unit on castors, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "outer_size": {
+        "x": 350,
+        "y": 400,
+        "z": 560
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "parts": [
+        {
+            "ref": "ikea_friidrott_drawer_white",
+            "qty": 4
+        }
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/friidrott-drawer-unit-on-castors-white-60609071/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06"
+        }
+    ],
+    "identifiers": {
+        "mpn": [
+            "606.090.71"
+        ]
+    },
+    "images": [
+        {
+            "kind": "product",
+            "url": "https://www.ikea.com/nl/en/images/products/friidrott-drawer-unit-on-castors-white__1480198_pe1000154_s5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_alex_drawer_unit_castors_white",
+    "type": "furniture",
+    "name": "ALEX Drawer unit on castors, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "outer_size": {
+        "x": 670,
+        "y": 480,
+        "z": 660
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "parts": [
+        {
+            "ref": "ikea_alex_drawer_castors_white",
+            "qty": 3
+        }
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-on-castors-white-80485423/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06"
+        }
+    ],
+    "identifiers": {
+        "mpn": [
+            "804.854.23"
+        ]
+    },
+    "images": [
+        {
+            "kind": "product",
+            "url": "https://www.ikea.com/nl/en/images/products/alex-drawer-unit-on-castors-white__0977785_pe813769_s5.jpg"
+        }
+    ]
+}

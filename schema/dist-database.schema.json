@@ -1,0 +1,30 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://extrabold.tools/schemas/dist-database.schema.json",
+    "title": "Full Distribution Database",
+    "description": "Complete collection of all item data in a single file.",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "version",
+        "generated_at",
+        "items"
+    ],
+    "properties": {
+        "version": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+        },
+        "generated_at": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "items": {
+            "type": "array",
+            "items": {
+                "$ref": "dist-item.schema.json"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "dimensions-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build.js",
+    "create": "node scripts/create-item.js",
+    "validate": "node scripts/validate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "glob": "^13.0.1",
+    "prompts": "^2.4.2"
+  }
+}

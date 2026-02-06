@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "ikea",
+    "name": "IKEA",
+    "website": "https://www.ikea.com",
+    "type": "manufacturer",
+    "identifier_types": [
+        "mpn",
+        "sku"
+    ]
+}

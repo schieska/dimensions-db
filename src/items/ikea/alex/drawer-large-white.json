@@ -1,0 +1,39 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_alex_drawer_large_white",
+    "type": "drawer",
+    "name": "ALEX Drawer (Large), white",
+    "brand": "ikea",
+    "description": "Large drawer for the ALEX unit.",
+    "inner_size": {
+        "x": 292,
+        "y": 520,
+        "z": 146
+    },
+    "outer_size": {
+        "x": 315,
+        "y": 540,
+        "z": 190
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-white-00473546"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-02-06",
+            "notes": "Estimated from unit dimensions and known ALEX specs."
+        }
+    ],
+    "identifiers": {}
+}
