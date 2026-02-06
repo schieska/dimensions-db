@@ -1,0 +1,30 @@
+{
+  "id": "ikea_alex_storage_shelf_white",
+  "type": "tray",
+  "name": "ALEX Storage unit shelf, white",
+  "brand": "ikea",
+  "origin": null,
+  "inner_size_mm": {
+    "x": 312,
+    "y": 560,
+    "z": 16
+  },
+  "inner_size_in": {
+    "x": 12.283,
+    "y": 22.047,
+    "z": 0.63
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": null,
+  "accuracy": null,
+  "identifiers": null
+}

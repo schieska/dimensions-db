@@ -1,0 +1,22 @@
+{
+  "id": "ikea_friidrott_drawer_white",
+  "type": "drawer",
+  "name": "FRIIDROTT Drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": null,
+  "accuracy": null,
+  "identifiers": null
+}

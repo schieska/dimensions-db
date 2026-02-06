@@ -1,0 +1,39 @@
+{
+  "id": "ikea_alex_drawer_small_white",
+  "type": "drawer",
+  "name": "ALEX Drawer (Small), white",
+  "brand": "ikea",
+  "origin": null,
+  "inner_size_mm": {
+    "x": 292,
+    "y": 520,
+    "z": 48
+  },
+  "inner_size_in": {
+    "x": 11.496,
+    "y": 20.472,
+    "z": 1.89
+  },
+  "outer_size_mm": {
+    "x": 315,
+    "y": 540,
+    "z": 95
+  },
+  "outer_size_in": {
+    "x": 12.402,
+    "y": 21.26,
+    "z": 3.74
+  },
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "referenced_by_count": 1,
+  "added_by": null,
+  "status": null,
+  "accuracy": null,
+  "identifiers": {}
+}

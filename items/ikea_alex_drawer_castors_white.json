@@ -1,0 +1,38 @@
+{
+  "id": "ikea_alex_drawer_castors_white",
+  "type": "drawer",
+  "name": "ALEX Drawer (for unit on castors), white",
+  "brand": "ikea",
+  "origin": null,
+  "inner_size_mm": {
+    "x": 600,
+    "y": 420,
+    "z": 70
+  },
+  "inner_size_in": {
+    "x": 23.622,
+    "y": 16.535,
+    "z": 2.756
+  },
+  "outer_size_mm": {
+    "x": 625,
+    "y": 420,
+    "z": 100
+  },
+  "outer_size_in": {
+    "x": 24.606,
+    "y": 16.535,
+    "z": 3.937
+  },
+  "visibility": [
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": null,
+  "accuracy": null,
+  "identifiers": null
+}

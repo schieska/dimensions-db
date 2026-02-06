@@ -1,0 +1,30 @@
+{
+  "id": "ikea_helmer_drawer_black",
+  "type": "drawer",
+  "name": "HELMER Drawer, black",
+  "brand": "ikea",
+  "origin": null,
+  "inner_size_mm": {
+    "x": 235,
+    "y": 390,
+    "z": 100
+  },
+  "inner_size_in": {
+    "x": 9.252,
+    "y": 15.354,
+    "z": 3.937
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": null,
+  "accuracy": null,
+  "identifiers": null
+}

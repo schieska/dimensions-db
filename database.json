@@ -1,0 +1,481 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-02-06T17:21:35.955Z",
+  "items": [
+    {
+      "id": "ikea_micke_drawer_white",
+      "type": "drawer",
+      "name": "MICKE Drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": null
+    },
+    {
+      "id": "ikea_micke_drawer_unit_white",
+      "type": "furniture",
+      "name": "MICKE Drawer unit on castors, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 350,
+        "y": 500,
+        "z": 750
+      },
+      "outer_size_in": {
+        "x": 13.78,
+        "y": 19.685,
+        "z": 29.528
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "ikea_micke_drawer_white",
+          "qty": 4
+        }
+      ],
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": {
+        "mpn": [
+          "902.130.78"
+        ]
+      }
+    },
+    {
+      "id": "ikea_helmer_drawer_unit_black",
+      "type": "furniture",
+      "name": "HELMER Drawer unit on castors, black",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 280,
+        "y": 440,
+        "z": 690
+      },
+      "outer_size_in": {
+        "x": 11.024,
+        "y": 17.323,
+        "z": 27.165
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "ikea_helmer_drawer_black",
+          "qty": 6
+        }
+      ],
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": {
+        "mpn": [
+          "203.419.70"
+        ]
+      }
+    },
+    {
+      "id": "ikea_helmer_drawer_black",
+      "type": "drawer",
+      "name": "HELMER Drawer, black",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": {
+        "x": 235,
+        "y": 390,
+        "z": 100
+      },
+      "inner_size_in": {
+        "x": 9.252,
+        "y": 15.354,
+        "z": 3.937
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": null
+    },
+    {
+      "id": "ikea_friidrott_drawer_white",
+      "type": "drawer",
+      "name": "FRIIDROTT Drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": null
+    },
+    {
+      "id": "ikea_friidrott_drawer_unit_white",
+      "type": "furniture",
+      "name": "FRIIDROTT Drawer unit on castors, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 350,
+        "y": 400,
+        "z": 560
+      },
+      "outer_size_in": {
+        "x": 13.78,
+        "y": 15.748,
+        "z": 22.047
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "ikea_friidrott_drawer_white",
+          "qty": 4
+        }
+      ],
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": {
+        "mpn": [
+          "606.090.71"
+        ]
+      }
+    },
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "type": "furniture",
+      "name": "ALEX Storage unit, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": {
+        "x": 312,
+        "y": 560,
+        "z": 644
+      },
+      "inner_size_in": {
+        "x": 12.283,
+        "y": 22.047,
+        "z": 25.354
+      },
+      "outer_size_mm": {
+        "x": 360,
+        "y": 580,
+        "z": 700
+      },
+      "outer_size_in": {
+        "x": 14.173,
+        "y": 22.835,
+        "z": 27.559
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "ikea_alex_storage_shelf_white",
+          "qty": 1
+        }
+      ],
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": {
+        "mpn": [
+          "505.637.52"
+        ]
+      }
+    },
+    {
+      "id": "ikea_alex_storage_shelf_white",
+      "type": "tray",
+      "name": "ALEX Storage unit shelf, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": {
+        "x": 312,
+        "y": 560,
+        "z": 16
+      },
+      "inner_size_in": {
+        "x": 12.283,
+        "y": 22.047,
+        "z": 0.63
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": null
+    },
+    {
+      "id": "ikea_alex_drawer_unit_castors_white",
+      "type": "furniture",
+      "name": "ALEX Drawer unit on castors, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 670,
+        "y": 480,
+        "z": 660
+      },
+      "outer_size_in": {
+        "x": 26.378,
+        "y": 18.898,
+        "z": 25.984
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "ikea_alex_drawer_castors_white",
+          "qty": 3
+        }
+      ],
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": {
+        "mpn": [
+          "804.854.23"
+        ]
+      }
+    },
+    {
+      "id": "ikea_alex_drawer_unit_5_white",
+      "type": "furniture",
+      "name": "ALEX Drawer unit, white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 360,
+        "y": 580,
+        "z": 700
+      },
+      "outer_size_in": {
+        "x": 14.173,
+        "y": 22.835,
+        "z": 27.559
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "ikea_alex_drawer_small_white",
+          "qty": 2
+        },
+        {
+          "ref": "ikea_alex_drawer_large_white",
+          "qty": 3
+        }
+      ],
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": {
+        "mpn": [
+          "594.222.20",
+          "605.888.94",
+          "804.735.47",
+          "004.735.46"
+        ]
+      }
+    },
+    {
+      "id": "ikea_alex_drawer_small_white",
+      "type": "drawer",
+      "name": "ALEX Drawer (Small), white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": {
+        "x": 292,
+        "y": 520,
+        "z": 48
+      },
+      "inner_size_in": {
+        "x": 11.496,
+        "y": 20.472,
+        "z": 1.89
+      },
+      "outer_size_mm": {
+        "x": 315,
+        "y": 540,
+        "z": 95
+      },
+      "outer_size_in": {
+        "x": 12.402,
+        "y": 21.26,
+        "z": 3.74
+      },
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": null,
+      "status": null,
+      "accuracy": null,
+      "identifiers": {}
+    },
+    {
+      "id": "ikea_alex_drawer_large_white",
+      "type": "drawer",
+      "name": "ALEX Drawer (Large), white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": {
+        "x": 292,
+        "y": 520,
+        "z": 146
+      },
+      "inner_size_in": {
+        "x": 11.496,
+        "y": 20.472,
+        "z": 5.748
+      },
+      "outer_size_mm": {
+        "x": 315,
+        "y": 540,
+        "z": 190
+      },
+      "outer_size_in": {
+        "x": 12.402,
+        "y": 21.26,
+        "z": 7.48
+      },
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": null,
+      "status": null,
+      "accuracy": null,
+      "identifiers": {}
+    },
+    {
+      "id": "ikea_alex_drawer_castors_white",
+      "type": "drawer",
+      "name": "ALEX Drawer (for unit on castors), white",
+      "brand": "ikea",
+      "origin": null,
+      "inner_size_mm": {
+        "x": 600,
+        "y": 420,
+        "z": 70
+      },
+      "inner_size_in": {
+        "x": 23.622,
+        "y": 16.535,
+        "z": 2.756
+      },
+      "outer_size_mm": {
+        "x": 625,
+        "y": 420,
+        "z": 100
+      },
+      "outer_size_in": {
+        "x": 24.606,
+        "y": 16.535,
+        "z": 3.937
+      },
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": null,
+      "accuracy": null,
+      "identifiers": null
+    }
+  ]
+}

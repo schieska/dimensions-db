@@ -1,0 +1,47 @@
+{
+  "id": "ikea_alex_drawer_unit_5_white",
+  "type": "furniture",
+  "name": "ALEX Drawer unit, white",
+  "brand": "ikea",
+  "origin": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 360,
+    "y": 580,
+    "z": 700
+  },
+  "outer_size_in": {
+    "x": 14.173,
+    "y": 22.835,
+    "z": 27.559
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": [
+    {
+      "ref": "ikea_alex_drawer_small_white",
+      "qty": 2
+    },
+    {
+      "ref": "ikea_alex_drawer_large_white",
+      "qty": 3
+    }
+  ],
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": null,
+  "accuracy": null,
+  "identifiers": {
+    "mpn": [
+      "594.222.20",
+      "605.888.94",
+      "804.735.47",
+      "004.735.46"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-02-06T17:21:35.955Z",
+  "items": [
+    {
+      "id": "ikea_micke_drawer_white",
+      "type": "drawer",
+      "name": "MICKE Drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_micke_drawer_white.json"
+    },
+    {
+      "id": "ikea_micke_drawer_unit_white",
+      "type": "furniture",
+      "name": "MICKE Drawer unit on castors, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_micke_drawer_unit_white.json"
+    },
+    {
+      "id": "ikea_helmer_drawer_unit_black",
+      "type": "furniture",
+      "name": "HELMER Drawer unit on castors, black",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_helmer_drawer_unit_black.json"
+    },
+    {
+      "id": "ikea_helmer_drawer_black",
+      "type": "drawer",
+      "name": "HELMER Drawer, black",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_helmer_drawer_black.json"
+    },
+    {
+      "id": "ikea_friidrott_drawer_white",
+      "type": "drawer",
+      "name": "FRIIDROTT Drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_friidrott_drawer_white.json"
+    },
+    {
+      "id": "ikea_friidrott_drawer_unit_white",
+      "type": "furniture",
+      "name": "FRIIDROTT Drawer unit on castors, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_friidrott_drawer_unit_white.json"
+    },
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "type": "furniture",
+      "name": "ALEX Storage unit, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_alex_storage_unit_white.json"
+    },
+    {
+      "id": "ikea_alex_storage_shelf_white",
+      "type": "tray",
+      "name": "ALEX Storage unit shelf, white",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_alex_storage_shelf_white.json"
+    },
+    {
+      "id": "ikea_alex_drawer_unit_castors_white",
+      "type": "furniture",
+      "name": "ALEX Drawer unit on castors, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_alex_drawer_unit_castors_white.json"
+    },
+    {
+      "id": "ikea_alex_drawer_unit_5_white",
+      "type": "furniture",
+      "name": "ALEX Drawer unit, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_alex_drawer_unit_5_white.json"
+    },
+    {
+      "id": "ikea_alex_drawer_small_white",
+      "type": "drawer",
+      "name": "ALEX Drawer (Small), white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_alex_drawer_small_white.json"
+    },
+    {
+      "id": "ikea_alex_drawer_large_white",
+      "type": "drawer",
+      "name": "ALEX Drawer (Large), white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_alex_drawer_large_white.json"
+    },
+    {
+      "id": "ikea_alex_drawer_castors_white",
+      "type": "drawer",
+      "name": "ALEX Drawer (for unit on castors), white",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_alex_drawer_castors_white.json"
+    }
+  ]
+}
