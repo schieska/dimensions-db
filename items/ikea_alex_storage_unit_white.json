@@ -4,6 +4,8 @@
   "name": "ALEX Storage unit, white",
   "brand": "ikea",
   "origin": null,
+  "description": null,
+  "translations": null,
   "inner_size_mm": {
     "x": 312,
     "y": 560,
@@ -36,6 +38,22 @@
       "qty": 1
     }
   ],
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/nl/en/p/alex-storage-unit-white-50563752/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-02-06"
+    }
+  ],
+  "tolerance_mm": null,
   "referenced_by_count": 0,
   "added_by": "gh:schieska",
   "status": null,
@@ -44,5 +62,16 @@
     "mpn": [
       "505.637.52"
     ]
-  }
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": [
+    {
+      "kind": "product",
+      "url": "https://www.ikea.com/nl/en/images/products/alex-storage-unit-white__1209817_pe909458_s5.jpg"
+    }
+  ],
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": null
 }

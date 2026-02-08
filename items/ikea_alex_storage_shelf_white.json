@@ -4,6 +4,8 @@
   "name": "ALEX Storage unit shelf, white",
   "brand": "ikea",
   "origin": null,
+  "description": null,
+  "translations": null,
   "inner_size_mm": {
     "x": 312,
     "y": 560,
@@ -22,9 +24,32 @@
   "materials": null,
   "features": null,
   "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/nl/en/p/alex-storage-unit-white-50563752/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-02-06",
+      "notes": "Internal width and depth corroborated by community measurements (Reddit/IKEAaddict)."
+    }
+  ],
+  "tolerance_mm": null,
   "referenced_by_count": 1,
   "added_by": "gh:schieska",
   "status": null,
   "accuracy": null,
-  "identifiers": null
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": null
 }

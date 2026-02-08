@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-06T17:21:35.955Z",
+  "generated_at": "2026-02-08T15:57:31.179Z",
   "items": [
     {
       "id": "ikea_micke_drawer_white",
@@ -21,7 +21,8 @@
         "product",
         "standalone"
       ],
-      "path": "items/ikea_micke_drawer_unit_white.json"
+      "path": "items/ikea_micke_drawer_unit_white.json",
+      "image": "https://www.ikea.com/nl/en/images/products/micke-drawer-unit-on-castors-white__0627113_pe693172_s5.jpg"
     },
     {
       "id": "ikea_helmer_drawer_unit_black",
@@ -32,7 +33,8 @@
         "product",
         "standalone"
       ],
-      "path": "items/ikea_helmer_drawer_unit_black.json"
+      "path": "items/ikea_helmer_drawer_unit_black.json",
+      "image": "https://www.ikea.com/nl/en/images/products/helmer-drawer-unit-on-castors-black__0490648_pe624587_s5.jpg"
     },
     {
       "id": "ikea_helmer_drawer_black",
@@ -63,7 +65,8 @@
         "product",
         "standalone"
       ],
-      "path": "items/ikea_friidrott_drawer_unit_white.json"
+      "path": "items/ikea_friidrott_drawer_unit_white.json",
+      "image": "https://www.ikea.com/nl/en/images/products/friidrott-drawer-unit-on-castors-white__1480198_pe1000154_s5.jpg"
     },
     {
       "id": "ikea_alex_storage_unit_white",
@@ -74,7 +77,8 @@
         "product",
         "standalone"
       ],
-      "path": "items/ikea_alex_storage_unit_white.json"
+      "path": "items/ikea_alex_storage_unit_white.json",
+      "image": "https://www.ikea.com/nl/en/images/products/alex-storage-unit-white__1209817_pe909458_s5.jpg"
     },
     {
       "id": "ikea_alex_storage_shelf_white",
@@ -95,7 +99,8 @@
         "product",
         "standalone"
       ],
-      "path": "items/ikea_alex_drawer_unit_castors_white.json"
+      "path": "items/ikea_alex_drawer_unit_castors_white.json",
+      "image": "https://www.ikea.com/nl/en/images/products/alex-drawer-unit-on-castors-white__0977785_pe813769_s5.jpg"
     },
     {
       "id": "ikea_alex_drawer_unit_5_white",

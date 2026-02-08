@@ -4,6 +4,8 @@
   "name": "ALEX Drawer (for unit on castors), white",
   "brand": "ikea",
   "origin": null,
+  "description": null,
+  "translations": null,
   "inner_size_mm": {
     "x": 600,
     "y": 420,
@@ -30,9 +32,32 @@
   "materials": null,
   "features": null,
   "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-on-castors-white-80485423/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-02-06",
+      "notes": "Inner dimensions 60x42x7cm corroborated via IKEA product specs and community listings."
+    }
+  ],
+  "tolerance_mm": null,
   "referenced_by_count": 1,
   "added_by": "gh:schieska",
   "status": null,
   "accuracy": null,
-  "identifiers": null
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": null
 }

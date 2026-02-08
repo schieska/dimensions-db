@@ -4,6 +4,8 @@
   "name": "HELMER Drawer, black",
   "brand": "ikea",
   "origin": null,
+  "description": null,
+  "translations": null,
   "inner_size_mm": {
     "x": 235,
     "y": 390,
@@ -22,9 +24,32 @@
   "materials": null,
   "features": null,
   "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/nl/en/p/helmer-drawer-unit-on-castors-black-20341970/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-02-06",
+      "notes": "Inner dimensions 23.5x39x10cm corroborated via IKEA product specs and community measurements."
+    }
+  ],
+  "tolerance_mm": null,
   "referenced_by_count": 1,
   "added_by": "gh:schieska",
   "status": null,
   "accuracy": null,
-  "identifiers": null
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": null
 }

@@ -4,6 +4,8 @@
   "name": "HELMER Drawer unit on castors, black",
   "brand": "ikea",
   "origin": null,
+  "description": null,
+  "translations": null,
   "inner_size_mm": null,
   "inner_size_in": null,
   "outer_size_mm": {
@@ -28,6 +30,22 @@
       "qty": 6
     }
   ],
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/nl/en/p/helmer-drawer-unit-on-castors-black-20341970/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-02-06"
+    }
+  ],
+  "tolerance_mm": null,
   "referenced_by_count": 0,
   "added_by": "gh:schieska",
   "status": null,
@@ -36,5 +54,16 @@
     "mpn": [
       "203.419.70"
     ]
-  }
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": [
+    {
+      "kind": "product",
+      "url": "https://www.ikea.com/nl/en/images/products/helmer-drawer-unit-on-castors-black__0490648_pe624587_s5.jpg"
+    }
+  ],
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": null
 }

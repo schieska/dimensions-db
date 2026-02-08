@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-06T17:21:35.955Z",
+  "generated_at": "2026-02-08T15:57:31.179Z",
   "items": [
     {
       "id": "ikea_micke_drawer_white",
@@ -8,6 +8,8 @@
       "name": "MICKE Drawer, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": null,
@@ -18,11 +20,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/micke-drawer-unit-on-castors-white-90213078/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Internal depth 36cm verified via IKEA. Width/height not explicitly documented for this specific drawer unit sub-component; set to 0 pending physical verification."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
-      "identifiers": null
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_micke_drawer_unit_white",
@@ -30,6 +55,8 @@
       "name": "MICKE Drawer unit on castors, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": {
@@ -54,6 +81,22 @@
           "qty": 4
         }
       ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/micke-drawer-unit-on-castors-white-90213078/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06"
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 0,
       "added_by": "gh:schieska",
       "status": null,
@@ -62,7 +105,18 @@
         "mpn": [
           "902.130.78"
         ]
-      }
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": [
+        {
+          "kind": "product",
+          "url": "https://www.ikea.com/nl/en/images/products/micke-drawer-unit-on-castors-white__0627113_pe693172_s5.jpg"
+        }
+      ],
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_helmer_drawer_unit_black",
@@ -70,6 +124,8 @@
       "name": "HELMER Drawer unit on castors, black",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": {
@@ -94,6 +150,22 @@
           "qty": 6
         }
       ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/helmer-drawer-unit-on-castors-black-20341970/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06"
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 0,
       "added_by": "gh:schieska",
       "status": null,
@@ -102,7 +174,18 @@
         "mpn": [
           "203.419.70"
         ]
-      }
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": [
+        {
+          "kind": "product",
+          "url": "https://www.ikea.com/nl/en/images/products/helmer-drawer-unit-on-castors-black__0490648_pe624587_s5.jpg"
+        }
+      ],
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_helmer_drawer_black",
@@ -110,6 +193,8 @@
       "name": "HELMER Drawer, black",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": {
         "x": 235,
         "y": 390,
@@ -128,11 +213,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/helmer-drawer-unit-on-castors-black-20341970/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Inner dimensions 23.5x39x10cm corroborated via IKEA product specs and community measurements."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
-      "identifiers": null
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_friidrott_drawer_white",
@@ -140,6 +248,8 @@
       "name": "FRIIDROTT Drawer, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": null,
@@ -150,11 +260,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/friidrott-drawer-unit-on-castors-white-60609071/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Internal depth 34cm verified via IKEA. Width/height not explicitly documented for this specific drawer unit sub-component; set to 0 pending physical verification."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
-      "identifiers": null
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_friidrott_drawer_unit_white",
@@ -162,6 +295,8 @@
       "name": "FRIIDROTT Drawer unit on castors, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": {
@@ -186,6 +321,22 @@
           "qty": 4
         }
       ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/friidrott-drawer-unit-on-castors-white-60609071/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06"
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 0,
       "added_by": "gh:schieska",
       "status": null,
@@ -194,7 +345,18 @@
         "mpn": [
           "606.090.71"
         ]
-      }
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": [
+        {
+          "kind": "product",
+          "url": "https://www.ikea.com/nl/en/images/products/friidrott-drawer-unit-on-castors-white__1480198_pe1000154_s5.jpg"
+        }
+      ],
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_storage_unit_white",
@@ -202,6 +364,8 @@
       "name": "ALEX Storage unit, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": {
         "x": 312,
         "y": 560,
@@ -234,6 +398,22 @@
           "qty": 1
         }
       ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-storage-unit-white-50563752/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06"
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 0,
       "added_by": "gh:schieska",
       "status": null,
@@ -242,7 +422,18 @@
         "mpn": [
           "505.637.52"
         ]
-      }
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": [
+        {
+          "kind": "product",
+          "url": "https://www.ikea.com/nl/en/images/products/alex-storage-unit-white__1209817_pe909458_s5.jpg"
+        }
+      ],
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_storage_shelf_white",
@@ -250,6 +441,8 @@
       "name": "ALEX Storage unit shelf, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": {
         "x": 312,
         "y": 560,
@@ -268,11 +461,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-storage-unit-white-50563752/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Internal width and depth corroborated by community measurements (Reddit/IKEAaddict)."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
-      "identifiers": null
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_drawer_unit_castors_white",
@@ -280,6 +496,8 @@
       "name": "ALEX Drawer unit on castors, white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": {
@@ -304,6 +522,22 @@
           "qty": 3
         }
       ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-on-castors-white-80485423/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06"
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 0,
       "added_by": "gh:schieska",
       "status": null,
@@ -312,7 +546,18 @@
         "mpn": [
           "804.854.23"
         ]
-      }
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": [
+        {
+          "kind": "product",
+          "url": "https://www.ikea.com/nl/en/images/products/alex-drawer-unit-on-castors-white__0977785_pe813769_s5.jpg"
+        }
+      ],
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_drawer_unit_5_white",
@@ -320,6 +565,8 @@
       "name": "ALEX Drawer unit, white",
       "brand": "ikea",
       "origin": null,
+      "description": "A clean look that’s easy to like and mix with other styles, either supporting a desk or standing alone. Includes 2 small and 3 large drawers.",
+      "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
       "outer_size_mm": {
@@ -348,6 +595,23 @@
           "qty": 3
         }
       ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-white-00473546"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Measurements from IKEA product page."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 0,
       "added_by": "gh:schieska",
       "status": null,
@@ -359,7 +623,13 @@
           "804.735.47",
           "004.735.46"
         ]
-      }
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_drawer_small_white",
@@ -367,6 +637,8 @@
       "name": "ALEX Drawer (Small), white",
       "brand": "ikea",
       "origin": null,
+      "description": "Small/shallow drawer for the ALEX unit.",
+      "translations": null,
       "inner_size_mm": {
         "x": 292,
         "y": 520,
@@ -394,11 +666,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-white-00473546"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Estimated from unit dimensions."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": null,
       "status": null,
       "accuracy": null,
-      "identifiers": {}
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_drawer_large_white",
@@ -406,6 +701,8 @@
       "name": "ALEX Drawer (Large), white",
       "brand": "ikea",
       "origin": null,
+      "description": "Large drawer for the ALEX unit.",
+      "translations": null,
       "inner_size_mm": {
         "x": 292,
         "y": 520,
@@ -433,11 +730,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-white-00473546"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Estimated from unit dimensions and known ALEX specs."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": null,
       "status": null,
       "accuracy": null,
-      "identifiers": {}
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     },
     {
       "id": "ikea_alex_drawer_castors_white",
@@ -445,6 +765,8 @@
       "name": "ALEX Drawer (for unit on castors), white",
       "brand": "ikea",
       "origin": null,
+      "description": null,
+      "translations": null,
       "inner_size_mm": {
         "x": 600,
         "y": 420,
@@ -471,11 +793,34 @@
       "materials": null,
       "features": null,
       "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-on-castors-white-80485423/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-02-06",
+          "notes": "Inner dimensions 60x42x7cm corroborated via IKEA product specs and community listings."
+        }
+      ],
+      "tolerance_mm": null,
       "referenced_by_count": 1,
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
-      "identifiers": null
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": null
     }
   ]
 }

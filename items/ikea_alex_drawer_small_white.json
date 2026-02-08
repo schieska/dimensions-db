@@ -4,6 +4,8 @@
   "name": "ALEX Drawer (Small), white",
   "brand": "ikea",
   "origin": null,
+  "description": "Small/shallow drawer for the ALEX unit.",
+  "translations": null,
   "inner_size_mm": {
     "x": 292,
     "y": 520,
@@ -31,9 +33,32 @@
   "materials": null,
   "features": null,
   "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-white-00473546"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-02-06",
+      "notes": "Estimated from unit dimensions."
+    }
+  ],
+  "tolerance_mm": null,
   "referenced_by_count": 1,
   "added_by": null,
   "status": null,
   "accuracy": null,
-  "identifiers": {}
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": null
 }
