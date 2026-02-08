@@ -118,6 +118,8 @@ for (const file of files) {
         name: content.name,
         brand: content.brand,
         origin: content.origin || null,
+        description: content.description ?? null,
+        translations: content.translations ?? null,
         inner_size_mm: content.inner_size || null,
         inner_size_in: convertSizeToInches(content.inner_size),
         outer_size_mm: content.outer_size || null,
@@ -126,11 +128,20 @@ for (const file of files) {
         materials: content.materials || null,
         features: content.features || null,
         parts: content.parts || null,
+        sources: content.sources ?? null,
+        measurements: content.measurements ?? null,
+        tolerance_mm: content.tolerance_mm ?? null,
         referenced_by_count: 0,
         added_by: content.added_by || null,
         status: content.status || null,
         accuracy: content.accuracy || null,
-        identifiers: content.identifiers || null
+        identifiers: content.identifiers || null,
+        variant_of: content.variant_of ?? null,
+        variant: content.variant ?? null,
+        images: content.images ?? null,
+        deprecated: content.deprecated ?? null,
+        replaced_by: content.replaced_by ?? null,
+        updated_at: content.updated_at ?? null
     };
 
     fullItems.push(distItem);
@@ -162,15 +173,19 @@ for (const distItem of fullItems) {
         JSON.stringify(distItem, null, 2)
     );
 
-    // Add lightweight entry to index
-    indexItems.push({
+    // Add lightweight entry to index (include primary image URL if available)
+    const indexEntry = {
         id: distItem.id,
         type: distItem.type,
         name: distItem.name,
         brand: distItem.brand,
         visibility: distItem.visibility,
         path: `items/${distItem.id}.json`
-    });
+    };
+    if (distItem.images && distItem.images.length > 0 && distItem.images[0].url) {
+        indexEntry.image = distItem.images[0].url;
+    }
+    indexItems.push(indexEntry);
 }
 
 const index = {
