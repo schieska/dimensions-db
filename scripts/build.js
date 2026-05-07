@@ -6,7 +6,14 @@ const addFormats = require('ajv-formats');
 
 const SCHEMAS_DIR = path.join(__dirname, '../schema');
 const SRC_DIR = path.join(__dirname, '../src/items');
+const INDEX_SRC_DIR = path.join(__dirname, '../src/index');
 const DIST_DIR = path.join(__dirname, '../dist');
+const {
+    resolveGithubRepo,
+    loadBrandMap,
+    buildCardAndPage,
+    finalizeSimilarPages
+} = require('./lib/storage-export');
 
 // Ensure dist dir exists
 if (!fs.existsSync(DIST_DIR)) {
@@ -27,6 +34,12 @@ const brandSchema = JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'brand.sch
 // const contributorSchema = JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'contributor.schema.json'), 'utf8'));
 const distIndexSchema = JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'dist-index.schema.json'), 'utf8'));
 const distItemSchema = JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'dist-item.schema.json'), 'utf8'));
+const distStorageIndexSchema = JSON.parse(
+    fs.readFileSync(path.join(SCHEMAS_DIR, 'dist-storage-index.schema.json'), 'utf8')
+);
+const distStoragePageSchema = JSON.parse(
+    fs.readFileSync(path.join(SCHEMAS_DIR, 'dist-storage-page.schema.json'), 'utf8')
+);
 
 // Add schemas to AJV
 ajv.addSchema(commonSchema);
@@ -37,6 +50,8 @@ ajv.addSchema(itemSchema);
 const validateItem = ajv.compile(itemSchema);
 const validateDistItem = ajv.compile(distItemSchema);
 const validateDistIndex = ajv.compile(distIndexSchema);
+const validateDistStorageIndex = ajv.compile(distStorageIndexSchema);
+const validateDistStoragePage = ajv.compile(distStoragePageSchema);
 
 function toInches(mm) {
     return parseFloat((mm / 25.4).toFixed(3));
@@ -69,6 +84,7 @@ function convertSizeToInches(sizeObj) {
 // Main Build Process
 const indexItems = [];
 const fullItems = [];
+const openRecords = [];
 const files = glob.sync('**/*.json', { cwd: SRC_DIR });
 const DIST_ITEMS_DIR = path.join(DIST_DIR, 'items');
 
@@ -149,6 +165,12 @@ for (const file of files) {
     };
 
     fullItems.push(distItem);
+
+    openRecords.push({
+        id: content.id,
+        repoRelPath: `src/items/${file.replace(/\\/g, '/')}`,
+        raw: content
+    });
 }
 
 // Calculate reference counts
@@ -215,11 +237,119 @@ const database = {
 };
 fs.writeFileSync(path.join(DIST_DIR, 'database.json'), JSON.stringify(database, null, 2));
 
+// --- Storage Index union export (open DB + src/index) ---
+const brandMap = loadBrandMap(SRC_DIR);
+const ghRepo = resolveGithubRepo();
+const ghBranch = 'main';
+
+const storageCards = [];
+const pagesById = {};
+const openIdSet = new Set(openRecords.map(r => r.id));
+
+for (const rec of openRecords) {
+    const { card, page } = buildCardAndPage({
+        record: rec.raw,
+        inOpenDatabase: true,
+        sourceLayer: 'open_database',
+        repoRelativePath: rec.repoRelPath,
+        brandMap,
+        repo: ghRepo,
+        branch: ghBranch
+    });
+    storageCards.push(card);
+    pagesById[card.id] = page;
+}
+
+const indexRecords = [];
+if (fs.existsSync(INDEX_SRC_DIR)) {
+    const idxFiles = glob.sync('**/*.json', { cwd: INDEX_SRC_DIR });
+    for (const file of idxFiles) {
+        const filePath = path.join(INDEX_SRC_DIR, file);
+        let idxContent;
+        try {
+            idxContent = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        } catch (e) {
+            console.error(`Error parsing index file: ${file}`, e);
+            process.exit(1);
+        }
+        const parts = file.split(path.sep).map(p => p.replace('.json', ''));
+        const derivedIdxId = parts.join('_').replace(/\\/g, '_').toLowerCase();
+        if (!idxContent.id) {
+            idxContent.id = derivedIdxId;
+        }
+        if (openIdSet.has(idxContent.id)) {
+            console.error(
+                `Build aborted: id "${idxContent.id}" exists in both src/items and src/index (${file})`
+            );
+            process.exit(1);
+        }
+        indexRecords.push({
+            id: idxContent.id,
+            repoRelPath: `src/index/${file.replace(/\\/g, '/')}`,
+            raw: idxContent
+        });
+    }
+}
+
+for (const rec of indexRecords) {
+    const { card, page } = buildCardAndPage({
+        record: rec.raw,
+        inOpenDatabase: false,
+        sourceLayer: 'storage_index',
+        repoRelativePath: rec.repoRelPath,
+        brandMap,
+        repo: ghRepo,
+        branch: ghBranch
+    });
+    storageCards.push(card);
+    pagesById[card.id] = page;
+}
+
+finalizeSimilarPages(storageCards, pagesById);
+
+const STORAGE_PAGES_DIR = path.join(DIST_DIR, 'storage-pages');
+if (!fs.existsSync(STORAGE_PAGES_DIR)) {
+    fs.mkdirSync(STORAGE_PAGES_DIR, { recursive: true });
+}
+
+for (const [pageId, pagePayload] of Object.entries(pagesById)) {
+    fs.writeFileSync(
+        path.join(STORAGE_PAGES_DIR, `${pageId}.json`),
+        JSON.stringify(pagePayload, null, 2)
+    );
+}
+
+const storageIndexExport = {
+    version: '1.1.0',
+    generated_at: index.generated_at,
+    items: storageCards.sort((a, b) => a.id.localeCompare(b.id))
+};
+
+fs.writeFileSync(
+    path.join(DIST_DIR, 'storage-index.json'),
+    JSON.stringify(storageIndexExport, null, 2)
+);
+
+if (!validateDistStorageIndex(storageIndexExport)) {
+    console.error('dist/storage-index.json failed schema validation:', validateDistStorageIndex.errors);
+    process.exit(1);
+}
+
+for (const [pageId, pagePayload] of Object.entries(pagesById)) {
+    if (!validateDistStoragePage(pagePayload)) {
+        console.error(`dist/storage-pages/${pageId}.json failed schema validation:`, validateDistStoragePage.errors);
+        process.exit(1);
+    }
+}
+
 // Write Meta (for quick cache checking)
 const meta = {
-    version: "1.0.0",
+    version: '1.0.0',
     generated_at: index.generated_at,
-    item_count: indexItems.length
+    item_count: indexItems.length,
+    open_database_item_count: indexItems.length,
+    storage_index_union_count: storageCards.length,
+    storage_index_only_count: indexRecords.length
 };
 fs.writeFileSync(path.join(DIST_DIR, 'meta.json'), JSON.stringify(meta, null, 2));
 
@@ -227,4 +357,6 @@ console.log(`Build complete. Generated:
 - dist/meta.json (Cache check)
 - dist/index.json (Lightweight index, ${indexItems.length} items)
 - dist/database.json (Full database)
-- dist/items/ (*.json individual files)`);
+- dist/items/ (*.json individual files)
+- dist/storage-index.json (union UI index, ${storageCards.length} items)
+- dist/storage-pages/ (${Object.keys(pagesById).length} page payloads)`);

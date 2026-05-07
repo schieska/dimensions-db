@@ -1,0 +1,4 @@
+# Replace handles with real maintainers before enforcing branch protection.
+/schema/** @schieska
+/scripts/** @schieska
+/.github/** @schieska

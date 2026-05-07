@@ -1,0 +1,135 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://extrabold.tools/schemas/dist-storage-index.schema.json",
+    "title": "Storage Index union export (UI cards)",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "version",
+        "generated_at",
+        "items"
+    ],
+    "properties": {
+        "version": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+        },
+        "generated_at": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "items": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "id",
+                    "name",
+                    "brand_id",
+                    "brand_name",
+                    "type",
+                    "in_open_database",
+                    "derived_state",
+                    "verification_status",
+                    "completeness_score",
+                    "completeness_class",
+                    "fit_readiness",
+                    "has_outer_size",
+                    "has_inner_size",
+                    "badges",
+                    "missing",
+                    "page_path",
+                    "actions"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "brand_id": {
+                        "type": "string"
+                    },
+                    "brand_name": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "in_open_database": {
+                        "type": "boolean"
+                    },
+                    "derived_state": {
+                        "type": "string"
+                    },
+                    "verification_status": {
+                        "type": "string"
+                    },
+                    "completeness_score": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 100
+                    },
+                    "completeness_class": {
+                        "type": "string"
+                    },
+                    "fit_readiness": {
+                        "type": "string"
+                    },
+                    "has_outer_size": {
+                        "type": "boolean"
+                    },
+                    "has_inner_size": {
+                        "type": "boolean"
+                    },
+                    "image": {
+                        "anyOf": [
+                            {
+                                "type": "null"
+                            },
+                            {
+                                "type": "string",
+                                "format": "uri"
+                            }
+                        ]
+                    },
+                    "page_path": {
+                        "type": "string"
+                    },
+                    "badges": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "missing": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "actions": {
+                        "type": "object",
+                        "additionalProperties": {
+                            "type": "string",
+                            "format": "uri"
+                        }
+                    },
+                    "source_layer": {
+                        "type": "string",
+                        "enum": [
+                            "open_database",
+                            "storage_index"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

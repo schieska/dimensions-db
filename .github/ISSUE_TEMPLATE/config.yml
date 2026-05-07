@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/schieska/dimensions-db/blob/main/contributing.md
+    about: How to add items and sources before filing an issue.

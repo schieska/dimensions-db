@@ -2,13 +2,18 @@
   "name": "dimensions-db",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schieska/dimensions-db.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node scripts/build.js",
     "create": "node scripts/create-item.js",
     "validate": "node scripts/validate.js",
-    "validate:duplicates": "node scripts/duplicate-warn.js --strict"
+    "validate:duplicates": "node scripts/duplicate-warn.js --strict",
+    "validate:ci": "npm run validate && npm run validate:duplicates && npm run build"
   },
   "keywords": [],
   "author": "",

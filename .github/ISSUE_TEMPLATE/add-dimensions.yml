@@ -1,0 +1,36 @@
+name: Add dimensions
+description: Propose measured inner/outer dimensions for a catalogue or open-database item
+title: "[dimensions] "
+labels:
+  - contribution
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help enrich **dimensions-db**. Prefer caliper/tape measurements with photos or manufacturer specs.
+        Reference the item **`id`** from `dist/storage-index.json` or the JSON path under `src/items/` / `src/index/`.
+  - type: input
+    id: item_id
+    attributes:
+      label: Item id
+      description: e.g. ikea_samla_box_11l_clear
+      placeholder: ikea_
+    validations:
+      required: true
+  - type: textarea
+    id: geometry
+    attributes:
+      label: Dimensions (mm)
+      description: Inner and outer x/y/z; note which axis is height/opening.
+      placeholder: |
+        outer: x=… y=… z=…
+        inner: …
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence & method
+      description: Link photos, official URLs, or SKU/EAN. Describe how you measured.
+    validations:
+      required: true

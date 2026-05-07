@@ -1,0 +1,38 @@
+{
+    "$schema": "../../../../schema/index-item.schema.json",
+    "id": "ikea_samla_box_11l_clear",
+    "slug": "ikea-samla-box-11l-clear",
+    "type": "container",
+    "name": "SAMLA Box with lid, transparent, 11 l",
+    "brand": "ikea",
+    "description": "Storage Index stub: identity + official link only; dimensions can be promoted into src/items after verification.",
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/us/en/p/samla-box-with-lid-transparent-80587207/",
+            "note": "Official IKEA US product page"
+        }
+    ],
+    "provenance": {
+        "batch_id": "storage-index-bootstrap",
+        "method": "manual",
+        "source_name": "Dimensions DB maintainers",
+        "source_url": "https://www.ikea.com/",
+        "retrieved_at": "2026-05-07T12:00:00Z",
+        "transform_version": "manual-entry@1",
+        "licence_note": "Minimal identity metadata and outbound links only; no bulk marketing copy."
+    },
+    "images": [
+        {
+            "kind": "product",
+            "url": "https://www.ikea.com/global/assets/range-categorisation/images/product/images/pe805872/pe805872.jpg"
+        }
+    ],
+    "identifiers": null,
+    "inner_size": null,
+    "outer_size": null,
+    "measurements": null,
+    "evidence": null,
+    "verification_state": "pending",
+    "updated_at": "2026-05-07"
+}

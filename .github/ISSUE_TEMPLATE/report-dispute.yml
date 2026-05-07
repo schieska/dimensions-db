@@ -1,0 +1,24 @@
+name: Report dispute
+description: Challenge dimensions, identifiers, or sources for an item
+title: "[dispute] "
+labels:
+  - dispute
+body:
+  - type: input
+    id: item_id
+    attributes:
+      label: Item id
+    validations:
+      required: true
+  - type: textarea
+    id: fields
+    attributes:
+      label: Affected areas (inner size, outer size, sources, identifiers, …)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What is wrong and what evidence supports your view?
+    validations:
+      required: true

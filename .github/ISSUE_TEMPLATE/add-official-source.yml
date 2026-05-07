@@ -1,0 +1,23 @@
+name: Add official source
+description: Link or correct manufacturer / retailer product pages for an item
+title: "[source] "
+labels:
+  - contribution
+body:
+  - type: input
+    id: item_id
+    attributes:
+      label: Item id
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical product URL (https)
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Region-specific listings, packaging variants, etc.

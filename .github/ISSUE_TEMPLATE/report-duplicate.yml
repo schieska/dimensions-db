@@ -1,0 +1,24 @@
+name: Report duplicate
+description: Two records appear to describe the same product
+title: "[duplicate] "
+labels:
+  - duplicate
+body:
+  - type: input
+    id: id_a
+    attributes:
+      label: First item id
+    validations:
+      required: true
+  - type: input
+    id: id_b
+    attributes:
+      label: Second item id
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why these are duplicates
+    validations:
+      required: true
