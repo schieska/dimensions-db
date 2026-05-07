@@ -5,6 +5,7 @@
     "name": "ALEX Drawer (for unit on castors), white",
     "brand": "ikea",
     "added_by": "gh:schieska",
+    "description": "Wide drawer for ALEX on castors. Nested inside ikea_alex_drawer_unit_castors_white (parent lists this id in parts with qty 3).",
     "inner_size": {
         "x": 600,
         "y": 420,

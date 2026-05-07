@@ -4,7 +4,7 @@
     "type": "drawer",
     "name": "ALEX Drawer (Large), white",
     "brand": "ikea",
-    "description": "Large drawer for the ALEX unit.",
+    "description": "Large drawer for the ALEX unit. Nested inside ikea_alex_drawer_unit_5_white (parent lists this id in parts with qty 3).",
     "inner_size": {
         "x": 292,
         "y": 520,

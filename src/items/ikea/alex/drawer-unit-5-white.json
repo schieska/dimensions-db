@@ -5,7 +5,7 @@
     "name": "ALEX Drawer unit, white",
     "brand": "ikea",
     "added_by": "gh:schieska",
-    "description": "A clean look that’s easy to like and mix with other styles, either supporting a desk or standing alone. Includes 2 small and 3 large drawers.",
+    "description": "ALEX cabinet (drawer unit): outer shell with five drawers as nested components. Children are linked via parts — 2× ikea_alex_drawer_small_white and 3× ikea_alex_drawer_large_white — so tools can resolve the full hierarchy from this record.",
     "outer_size": {
         "x": 360,
         "y": 580,

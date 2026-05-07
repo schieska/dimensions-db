@@ -1,0 +1,8 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "test",
+    "name": "Test Fixtures",
+    "description": "Synthetic items for UI/build nesting and hierarchy tests—not real retail products.",
+    "type": "community",
+    "website": "https://example.org/dimensions-db-test-fixtures"
+}

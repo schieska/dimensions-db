@@ -1,0 +1,41 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "test_nesting_modular_bin_small",
+    "type": "container",
+    "name": "Test modular bin (small)",
+    "description": "Fixture: smallest tray in the nested test hierarchy.",
+    "brand": "test",
+    "visibility": ["standalone", "component"],
+    "inner_size": {
+        "x": 200,
+        "y": 150,
+        "z": 100
+    },
+    "outer_size": {
+        "x": 220,
+        "y": 170,
+        "z": 110
+    },
+    "materials": ["plastic"],
+    "sources": [
+        {
+            "kind": "other",
+            "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-small",
+            "note": "Synthetic dimensions for automated and manual UI tests."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:test-fixtures",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Not measured; placeholder geometry for nesting tests."
+        }
+    ],
+    "identifiers": {},
+    "status": "draft",
+    "accuracy": "low",
+    "updated_at": "2026-05-07"
+}

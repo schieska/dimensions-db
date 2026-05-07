@@ -1,0 +1,45 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "test_nesting_modular_storage_unit",
+    "type": "furniture",
+    "name": "Test modular storage unit (nested parts)",
+    "description": "Fixture parent: bundles two small bins and one medium bin via parts[].refs for hierarchy testing.",
+    "brand": "test",
+    "outer_size": {
+        "x": 340,
+        "y": 420,
+        "z": 920
+    },
+    "visibility": ["product", "standalone"],
+    "parts": [
+        {
+            "ref": "test_nesting_modular_bin_small",
+            "qty": 2
+        },
+        {
+            "ref": "test_nesting_modular_bin_medium",
+            "qty": 1
+        }
+    ],
+    "sources": [
+        {
+            "kind": "other",
+            "url": "https://example.org/dimensions-db-test-fixtures/modular-storage-unit",
+            "note": "Synthetic assembly for nested product tests."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:test-fixtures",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Outer shell only; child bins listed in parts."
+        }
+    ],
+    "identifiers": {},
+    "status": "draft",
+    "accuracy": "low",
+    "updated_at": "2026-05-07"
+}

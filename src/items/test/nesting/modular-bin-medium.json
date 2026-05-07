@@ -1,0 +1,41 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "test_nesting_modular_bin_medium",
+    "type": "container",
+    "name": "Test modular bin (medium)",
+    "description": "Fixture: medium tray used beside two small bins in the parent unit.",
+    "brand": "test",
+    "visibility": ["standalone", "component"],
+    "inner_size": {
+        "x": 300,
+        "y": 200,
+        "z": 120
+    },
+    "outer_size": {
+        "x": 320,
+        "y": 220,
+        "z": 132
+    },
+    "materials": ["plastic"],
+    "sources": [
+        {
+            "kind": "other",
+            "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-medium",
+            "note": "Synthetic dimensions for automated and manual UI tests."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:test-fixtures",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Not measured; placeholder geometry for nesting tests."
+        }
+    ],
+    "identifiers": {},
+    "status": "draft",
+    "accuracy": "low",
+    "updated_at": "2026-05-07"
+}
