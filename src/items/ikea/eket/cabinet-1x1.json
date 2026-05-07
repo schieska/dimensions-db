@@ -1,0 +1,47 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_eket_cabinet_1x1",
+    "type": "furniture",
+    "name": "EKET cabinet 35×25 cm",
+    "description": "EKET 1×1 cube compartment footprint (Box Compatibility).",
+    "brand": "ikea",
+    "inner_size": {
+        "x": 310,
+        "y": 230,
+        "z": 310
+    },
+    "outer_size": {
+        "x": 350,
+        "y": 250,
+        "z": 350
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/de/de/p/eket-schrank-weiss-70332124/"
+        },
+        {
+            "kind": "other",
+            "url": "https://github.com/orglikea-pro/box-compatibility",
+            "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:box-compat-import",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Imported from Box Compatibility. Z axis conventional."
+        }
+    ],
+    "accuracy": "low",
+    "status": "community",
+    "identifiers": {},
+    "updated_at": "2026-05-07"
+}

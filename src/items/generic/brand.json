@@ -1,0 +1,7 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "generic",
+    "name": "Generic",
+    "type": "manufacturer",
+    "description": "Non-brand-specific or community sizing templates."
+}

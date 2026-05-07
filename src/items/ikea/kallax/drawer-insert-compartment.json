@@ -1,0 +1,47 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_kallax_drawer_insert_compartment",
+    "type": "drawer",
+    "name": "KALLAX insert with 2 drawers (drawer compartment)",
+    "description": "Single drawer cavity plan footprint inside KALLAX drawer insert (Box Compatibility).",
+    "brand": "ikea",
+    "inner_size": {
+        "x": 305,
+        "y": 275,
+        "z": 305
+    },
+    "outer_size": {
+        "x": 410,
+        "y": 390,
+        "z": 410
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/de/de/p/kallax-einsatz-mit-2-schubladen-weiss-70286645/"
+        },
+        {
+            "kind": "other",
+            "url": "https://github.com/orglikea-pro/box-compatibility",
+            "note": "Inner drawer XY from data.json; outer is insert outer XY; Z = max(X,Y) convention."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:box-compat-import",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Imported from Box Compatibility. Outer box pairs KALLAX cube outer from same dataset."
+        }
+    ],
+    "accuracy": "low",
+    "status": "community",
+    "identifiers": {},
+    "updated_at": "2026-05-07"
+}

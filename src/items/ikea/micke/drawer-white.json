@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../schema/item.schema.json",
     "id": "ikea_micke_drawer_white",
-    "type": "drawer",
+    "type": "component",
     "name": "MICKE Drawer, white",
     "brand": "ikea",
     "added_by": "gh:schieska",

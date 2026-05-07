@@ -1,0 +1,47 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_kallax_cube_1x1",
+    "type": "furniture",
+    "name": "KALLAX shelving unit 1×1 cube",
+    "description": "KALLAX single cube opening footprint (Box Compatibility).",
+    "brand": "ikea",
+    "inner_size": {
+        "x": 335,
+        "y": 390,
+        "z": 390
+    },
+    "outer_size": {
+        "x": 410,
+        "y": 390,
+        "z": 410
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/de/de/p/kallax-regal-weiss-90301555/"
+        },
+        {
+            "kind": "other",
+            "url": "https://github.com/orglikea-pro/box-compatibility",
+            "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:box-compat-import",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Imported from Box Compatibility. Z axis conventional."
+        }
+    ],
+    "accuracy": "low",
+    "status": "community",
+    "identifiers": {},
+    "updated_at": "2026-05-07"
+}

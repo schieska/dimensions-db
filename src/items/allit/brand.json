@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "allit",
+    "name": "Allit",
+    "website": "https://www.allit.de",
+    "type": "manufacturer",
+    "identifier_types": [
+        "mpn",
+        "sku"
+    ]
+}

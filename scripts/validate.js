@@ -6,6 +6,7 @@ const addFormats = require('ajv-formats');
 
 const SCHEMAS_DIR = path.join(__dirname, '../schema');
 const SRC_DIR = path.join(__dirname, '../src/items');
+const { checkItemPolicy } = require('./lib/data-policy');
 
 // Initialize AJV
 const ajv = new Ajv({
@@ -56,7 +57,14 @@ for (const filePath of filesToCheck) {
             });
             errorCount++;
         } else {
-            if (args.length > 0) console.log(`\u2705 Valid: ${relativePath}`);
+            const policyErrors = checkItemPolicy(validationContent, relativePath);
+            if (policyErrors.length > 0) {
+                console.error(`\u274C Policy: ${relativePath}`);
+                policyErrors.forEach(msg => console.error(`   - ${msg}`));
+                errorCount++;
+            } else if (args.length > 0) {
+                console.log(`\u2705 Valid: ${relativePath}`);
+            }
         }
     } catch (e) {
         console.error(`\u274C Error parsing ${relativePath}: ${e.message}`);
@@ -68,5 +76,11 @@ if (errorCount > 0) {
     console.error(`\nValidation failed with ${errorCount} errors.`);
     process.exit(1);
 } else {
-    console.log(`\nAll ${filesToCheck.length - (args.length === 0 ? 0 : 0)} files passed validation.`);
+    const checked =
+        args.length === 0
+            ? filesToCheck.filter(
+                  f => !f.includes('_examples') && !f.includes('brand.json')
+              ).length
+            : filesToCheck.length;
+    console.log(`\nAll ${checked} files passed validation.`);
 }

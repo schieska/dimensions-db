@@ -1,0 +1,47 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_alex_drawer_insert_compartment_plan",
+    "type": "drawer",
+    "name": "ALEX drawer insert compartment (plan footprint)",
+    "description": "Plan footprint from Box Compatibility for ALEX drawer cavity sizing. Distinct from full ALEX drawer SKUs in this repo.",
+    "brand": "ikea",
+    "inner_size": {
+        "x": 525,
+        "y": 297,
+        "z": 525
+    },
+    "outer_size": {
+        "x": 580,
+        "y": 360,
+        "z": 580
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/de/de/p/alex-schubladenelement-weiss-00473546/"
+        },
+        {
+            "kind": "other",
+            "url": "https://github.com/orglikea-pro/box-compatibility",
+            "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:box-compat-import",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Imported from Box Compatibility. Compare with ikea_alex_drawer_large_white for full 3D manufacturer-style dims."
+        }
+    ],
+    "accuracy": "low",
+    "status": "community",
+    "identifiers": {},
+    "updated_at": "2026-05-07"
+}

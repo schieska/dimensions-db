@@ -25,5 +25,8 @@ jobs:
       - name: Validate Items
         run: npm run validate
 
+      - name: Duplicate checks
+        run: npm run validate:duplicates
+
       - name: Test Build
         run: npm run build

@@ -1,0 +1,50 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_pappis_box_lidded",
+    "type": "container",
+    "name": "PAPPIS box with lid",
+    "description": "IKEA PAPPIS cardboard box footprint (Box Compatibility).",
+    "brand": "ikea",
+    "inner_size": {
+        "x": 335,
+        "y": 250,
+        "z": 335
+    },
+    "outer_size": {
+        "x": 340,
+        "y": 260,
+        "z": 340
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "cardboard"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/de/de/p/pappis-box-mit-deckel-braun-00100467/"
+        },
+        {
+            "kind": "other",
+            "url": "https://github.com/orglikea-pro/box-compatibility",
+            "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:box-compat-import",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Imported from Box Compatibility. Height with lid may differ; Z is conventional."
+        }
+    ],
+    "accuracy": "low",
+    "status": "community",
+    "identifiers": {},
+    "updated_at": "2026-05-07"
+}

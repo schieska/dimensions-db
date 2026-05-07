@@ -1,0 +1,47 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "generic_general_systainer_footprint",
+    "type": "container",
+    "name": "Systainer (generic footprint)",
+    "description": "Representative Systainer plan footprint from Box Compatibility.",
+    "brand": "generic",
+    "inner_size": {
+        "x": 356,
+        "y": 262,
+        "z": 356
+    },
+    "outer_size": {
+        "x": 395,
+        "y": 295,
+        "z": 395
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://systainer.com/"
+        },
+        {
+            "kind": "other",
+            "url": "https://github.com/orglikea-pro/box-compatibility",
+            "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gl:box-compat-import",
+            "type": "initial",
+            "method": "calculated",
+            "tool": "unknown",
+            "date": "2026-05-07",
+            "notes": "Imported from Box Compatibility. Systainer heights vary by model; Z is conventional."
+        }
+    ],
+    "accuracy": "low",
+    "status": "community",
+    "identifiers": {},
+    "updated_at": "2026-05-07"
+}

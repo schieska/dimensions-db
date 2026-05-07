@@ -331,6 +331,65 @@
                     "type": "null"
                 }
             ]
+        },
+        "slug": {
+            "description": "Optional stable public slug (kebab-case), aligned with contribution PRD.",
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 120,
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "verification_state": {
+            "description": "Workflow verification label (separate from legacy status).",
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "string",
+                    "enum": [
+                        "pending",
+                        "community_submitted",
+                        "community_verified",
+                        "official_verified",
+                        "disputed",
+                        "deprecated",
+                        "merged_duplicate",
+                        "rejected"
+                    ]
+                }
+            ]
+        },
+        "confidence": {
+            "description": "Overall confidence in stored dimensions (optional).",
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "string",
+                    "enum": [
+                        "low",
+                        "medium",
+                        "high"
+                    ]
+                }
+            ]
+        },
+        "evidence": {
+            "description": "Structured evidence backing measurements.",
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {
+                        "$ref": "#/$defs/evidenceEntry"
+                    }
+                }
+            ]
         }
     },
     "allOf": [
@@ -481,6 +540,38 @@
                     },
                     "minItems": 1,
                     "uniqueItems": true
+                },
+                "note": {
+                    "type": "string",
+                    "maxLength": 200
+                }
+            }
+        },
+        "evidenceEntry": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "kind"
+            ],
+            "properties": {
+                "kind": {
+                    "type": "string",
+                    "enum": [
+                        "manufacturer_url",
+                        "manual",
+                        "photo",
+                        "caliper_photo",
+                        "retailer_page",
+                        "video",
+                        "community_confirmation"
+                    ]
+                },
+                "url": {
+                    "$ref": "common.schema.json#/$defs/url"
+                },
+                "description": {
+                    "type": "string",
+                    "maxLength": 500
                 },
                 "note": {
                     "type": "string",

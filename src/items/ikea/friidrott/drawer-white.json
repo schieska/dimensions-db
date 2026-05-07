@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../schema/item.schema.json",
     "id": "ikea_friidrott_drawer_white",
-    "type": "drawer",
+    "type": "component",
     "name": "FRIIDROTT Drawer, white",
     "brand": "ikea",
     "added_by": "gh:schieska",
