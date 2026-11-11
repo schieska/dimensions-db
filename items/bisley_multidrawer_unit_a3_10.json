@@ -1,0 +1,71 @@
+{
+  "id": "bisley_multidrawer_unit_a3_10",
+  "type": "furniture",
+  "name": "A3 Series MultiDrawer, 10 drawer",
+  "brand": "bisley",
+  "origin": null,
+  "description": null,
+  "translations": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 349,
+    "y": 432,
+    "z": 670
+  },
+  "outer_size_in": {
+    "x": 13.74,
+    "y": 17.008,
+    "z": 26.378
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": [
+    {
+      "ref": "bisley_multidrawer_drawer_a3_47",
+      "qty": 10
+    }
+  ],
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-10-drawer"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Outer cabinet dimensions from Bisley shop product page."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "116SPM"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

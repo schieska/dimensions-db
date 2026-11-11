@@ -1,0 +1,71 @@
+{
+  "id": "bisley_multidrawer_unit_12_series_5",
+  "type": "furniture",
+  "name": "12 Series MultiDrawer, 5 drawer",
+  "brand": "bisley",
+  "origin": null,
+  "description": null,
+  "translations": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 279,
+    "y": 380,
+    "z": 325
+  },
+  "outer_size_in": {
+    "x": 10.984,
+    "y": 14.961,
+    "z": 12.795
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": [
+    {
+      "ref": "bisley_multidrawer_drawer_a4_47",
+      "qty": 5
+    }
+  ],
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-5-drawer"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Outer cabinet dimensions from Bisley shop product page."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "H125NL"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

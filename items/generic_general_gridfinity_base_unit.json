@@ -1,0 +1,73 @@
+{
+  "id": "generic_general_gridfinity_base_unit",
+  "type": "container",
+  "name": "Gridfinity base unit (1×1)",
+  "brand": "generic",
+  "origin": null,
+  "description": "Single Gridfinity base cell footprint from Box Compatibility dataset.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 40,
+    "y": 40,
+    "z": 40
+  },
+  "inner_size_in": {
+    "x": 1.575,
+    "y": 1.575,
+    "z": 1.575
+  },
+  "outer_size_mm": {
+    "x": 41,
+    "y": 41,
+    "z": 41
+  },
+  "outer_size_in": {
+    "x": 1.614,
+    "y": 1.614,
+    "z": 1.614
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://gridfinity.xyz"
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Real Gridfinity stack height varies by bin; XY are the listed cell sizes."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

@@ -1,10 +1,208 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-08T15:57:31.179Z",
+  "generated_at": "2026-11-11T13:29:33.348Z",
   "items": [
     {
-      "id": "ikea_micke_drawer_white",
+      "id": "wurth_pro-8-4_trolley",
+      "type": "furniture",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley",
+      "brand": "wurth",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/wurth_pro-8-4_trolley.json"
+    },
+    {
+      "id": "wurth_pro-8-4_drawer_standard",
       "type": "drawer",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley, standard drawer",
+      "brand": "wurth",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/wurth_pro-8-4_drawer_standard.json"
+    },
+    {
+      "id": "wurth_pro-8-4_drawer_large",
+      "type": "drawer",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley, large drawer",
+      "brand": "wurth",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/wurth_pro-8-4_drawer_large.json"
+    },
+    {
+      "id": "wurth_basic-8-8_trolley",
+      "type": "furniture",
+      "name": "BASIC 8.8 system workshop trolley",
+      "brand": "wurth",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/wurth_basic-8-8_trolley.json"
+    },
+    {
+      "id": "wurth_basic-8-8_drawer_standard",
+      "type": "drawer",
+      "name": "BASIC 8.8 system workshop trolley, standard drawer",
+      "brand": "wurth",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/wurth_basic-8-8_drawer_standard.json"
+    },
+    {
+      "id": "wurth_basic-8-8_drawer_large",
+      "type": "drawer",
+      "name": "BASIC 8.8 system workshop trolley, large drawer",
+      "brand": "wurth",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/wurth_basic-8-8_drawer_large.json"
+    },
+    {
+      "id": "us-general_44-inch_roller_cabinet",
+      "type": "furniture",
+      "name": "44″ double-bank roller cabinet",
+      "brand": "us-general",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/us-general_44-inch_roller_cabinet.json"
+    },
+    {
+      "id": "us-general_44-inch_drawer_top",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, top drawer",
+      "brand": "us-general",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/us-general_44-inch_drawer_top.json"
+    },
+    {
+      "id": "us-general_44-inch_drawer_right_shallow",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, right shallow drawer",
+      "brand": "us-general",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/us-general_44-inch_drawer_right_shallow.json"
+    },
+    {
+      "id": "us-general_44-inch_drawer_right_deep",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, bottom-right deep drawer",
+      "brand": "us-general",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/us-general_44-inch_drawer_right_deep.json"
+    },
+    {
+      "id": "us-general_44-inch_drawer_left_shallow",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, left shallow drawer",
+      "brand": "us-general",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/us-general_44-inch_drawer_left_shallow.json"
+    },
+    {
+      "id": "us-general_44-inch_drawer_left_deep",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, bottom-left deep drawer",
+      "brand": "us-general",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/us-general_44-inch_drawer_left_deep.json"
+    },
+    {
+      "id": "test_nesting_modular_storage_unit",
+      "type": "furniture",
+      "name": "Test modular storage unit (nested parts)",
+      "brand": "test",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/test_nesting_modular_storage_unit.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_small",
+      "type": "container",
+      "name": "Test modular bin (small)",
+      "brand": "test",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/test_nesting_modular_bin_small.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_medium",
+      "type": "container",
+      "name": "Test modular bin (medium)",
+      "brand": "test",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/test_nesting_modular_bin_medium.json"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "type": "container",
+      "name": "RENSARE clothes bag, small",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_rensare_bag_small.json"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "type": "container",
+      "name": "RENSARE clothes bag, large",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_rensare_bag_large.json"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "type": "container",
+      "name": "PAPPIS box with lid",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_pappis_box_lidded.json"
+    },
+    {
+      "id": "ikea_micke_drawer_white",
+      "type": "component",
       "name": "MICKE Drawer, white",
       "brand": "ikea",
       "visibility": [
@@ -23,6 +221,61 @@
       ],
       "path": "items/ikea_micke_drawer_unit_white.json",
       "image": "https://www.ikea.com/nl/en/images/products/micke-drawer-unit-on-castors-white__0627113_pe693172_s5.jpg"
+    },
+    {
+      "id": "ikea_kallax_drawer_insert_compartment",
+      "type": "drawer",
+      "name": "KALLAX insert with 2 drawers (drawer compartment)",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_kallax_drawer_insert_compartment.json"
+    },
+    {
+      "id": "ikea_kallax_cube_1x1",
+      "type": "furniture",
+      "name": "KALLAX shelving unit 1×1 cube",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_kallax_cube_1x1.json"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x50",
+      "type": "furniture",
+      "name": "IVAR shelf section 80×50 cm",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_ivar_shelf_80x50.json"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x50_extended",
+      "type": "furniture",
+      "name": "IVAR shelf section 80×50 cm (extended depth)",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_ivar_shelf_80x50_extended.json"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x30",
+      "type": "furniture",
+      "name": "IVAR shelf section 80×30 cm",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_ivar_shelf_80x30.json"
     },
     {
       "id": "ikea_helmer_drawer_unit_black",
@@ -48,7 +301,7 @@
     },
     {
       "id": "ikea_friidrott_drawer_white",
-      "type": "drawer",
+      "type": "component",
       "name": "FRIIDROTT Drawer, white",
       "brand": "ikea",
       "visibility": [
@@ -67,6 +320,28 @@
       ],
       "path": "items/ikea_friidrott_drawer_unit_white.json",
       "image": "https://www.ikea.com/nl/en/images/products/friidrott-drawer-unit-on-castors-white__1480198_pe1000154_s5.jpg"
+    },
+    {
+      "id": "ikea_eket_cabinet_1x1",
+      "type": "furniture",
+      "name": "EKET cabinet 35×25 cm",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_eket_cabinet_1x1.json"
+    },
+    {
+      "id": "ikea_billy_bookcase_compartment",
+      "type": "furniture",
+      "name": "BILLY bookcase shelf compartment",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ikea_billy_bookcase_compartment.json"
     },
     {
       "id": "ikea_alex_storage_unit_white",
@@ -136,6 +411,17 @@
       "path": "items/ikea_alex_drawer_large_white.json"
     },
     {
+      "id": "ikea_alex_drawer_insert_compartment_plan",
+      "type": "drawer",
+      "name": "ALEX drawer insert compartment (plan footprint)",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_alex_drawer_insert_compartment_plan.json"
+    },
+    {
       "id": "ikea_alex_drawer_castors_white",
       "type": "drawer",
       "name": "ALEX Drawer (for unit on castors), white",
@@ -144,6 +430,259 @@
         "component"
       ],
       "path": "items/ikea_alex_drawer_castors_white.json"
+    },
+    {
+      "id": "generic_general_systainer_footprint",
+      "type": "container",
+      "name": "Systainer (generic footprint)",
+      "brand": "generic",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/generic_general_systainer_footprint.json"
+    },
+    {
+      "id": "generic_general_orgpro_cell",
+      "type": "container",
+      "name": "OrgPro cell",
+      "brand": "generic",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/generic_general_orgpro_cell.json"
+    },
+    {
+      "id": "generic_general_gridfinity_base_unit",
+      "type": "container",
+      "name": "Gridfinity base unit (1×1)",
+      "brand": "generic",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/generic_general_gridfinity_base_unit.json"
+    },
+    {
+      "id": "generic_general_eurobox_60x40",
+      "type": "container",
+      "name": "EuroBox 60×40",
+      "brand": "generic",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/generic_general_eurobox_60x40.json"
+    },
+    {
+      "id": "generic_general_eurobox_40x30",
+      "type": "container",
+      "name": "Eurobox 40×30",
+      "brand": "generic",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/generic_general_eurobox_40x30.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_9",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 9 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_a3_9.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_6",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 6 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_a3_6.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_15",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 15 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_a3_15.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_10",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 10 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_a3_10.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_39_series_9",
+      "type": "furniture",
+      "name": "39 Series MultiDrawer, 9 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_39_series_9.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_39_series_15",
+      "type": "furniture",
+      "name": "39 Series MultiDrawer, 15 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_39_series_15.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_8",
+      "type": "furniture",
+      "name": "29 Series MultiDrawer, 8 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_29_series_8.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_6",
+      "type": "furniture",
+      "name": "29 Series MultiDrawer, 6 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_29_series_6.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_10",
+      "type": "furniture",
+      "name": "29 Series MultiDrawer, 10 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_29_series_10.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_12_series_5",
+      "type": "furniture",
+      "name": "12 Series MultiDrawer, 5 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_12_series_5.json"
+    },
+    {
+      "id": "bisley_multidrawer_unit_12_series_3",
+      "type": "furniture",
+      "name": "12 Series MultiDrawer, 3 drawer",
+      "brand": "bisley",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/bisley_multidrawer_unit_12_series_3.json"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_98",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 98 mm",
+      "brand": "bisley",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/bisley_multidrawer_drawer_a4_98.json"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_83",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 83 mm",
+      "brand": "bisley",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/bisley_multidrawer_drawer_a4_83.json"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_47",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 47 mm",
+      "brand": "bisley",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/bisley_multidrawer_drawer_a4_47.json"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_22",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 22 mm",
+      "brand": "bisley",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/bisley_multidrawer_drawer_a4_22.json"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a3_83",
+      "type": "drawer",
+      "name": "MultiDrawer A3 drawer, 83 mm",
+      "brand": "bisley",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/bisley_multidrawer_drawer_a3_83.json"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a3_47",
+      "type": "drawer",
+      "name": "MultiDrawer A3 drawer, 47 mm",
+      "brand": "bisley",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/bisley_multidrawer_drawer_a3_47.json"
+    },
+    {
+      "id": "allit_europlus_europlus_flex",
+      "type": "container",
+      "name": "EuroPlus Flex",
+      "brand": "allit",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/allit_europlus_europlus_flex.json"
     }
   ]
 }

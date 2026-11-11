@@ -1,0 +1,62 @@
+{
+  "id": "bisley_multidrawer_drawer_a3_83",
+  "type": "drawer",
+  "name": "MultiDrawer A3 drawer, 83 mm",
+  "brand": "bisley",
+  "origin": null,
+  "description": "Shared A3 MultiDrawer interior (305 × 430 mm plan). Nested by Bisley A3 MultiDrawer furniture units via parts.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 305,
+    "y": 430,
+    "z": 83
+  },
+  "inner_size_in": {
+    "x": 12.008,
+    "y": 16.929,
+    "z": 3.268
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-6-drawer"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "A3 MultiDrawer large drawer height from Bisley shop specification."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 2,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

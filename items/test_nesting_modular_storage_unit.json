@@ -1,0 +1,70 @@
+{
+  "id": "test_nesting_modular_storage_unit",
+  "type": "furniture",
+  "name": "Test modular storage unit (nested parts)",
+  "brand": "test",
+  "origin": null,
+  "description": "Fixture parent: bundles two small bins and one medium bin via parts[].refs for hierarchy testing.",
+  "translations": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 340,
+    "y": 420,
+    "z": 920
+  },
+  "outer_size_in": {
+    "x": 13.386,
+    "y": 16.535,
+    "z": 36.22
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": [
+    {
+      "ref": "test_nesting_modular_bin_small",
+      "qty": 2
+    },
+    {
+      "ref": "test_nesting_modular_bin_medium",
+      "qty": 1
+    }
+  ],
+  "sources": [
+    {
+      "kind": "other",
+      "url": "https://example.org/dimensions-db-test-fixtures/modular-storage-unit",
+      "note": "Synthetic assembly for nested product tests."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:test-fixtures",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Outer shell only; child bins listed in parts."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "draft",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "wurth_basic-8-8_drawer_large",
+  "type": "drawer",
+  "name": "BASIC 8.8 system workshop trolley, large drawer",
+  "brand": "wurth",
+  "origin": null,
+  "description": "Large drawer for Würth BASIC 8.8 system workshop trolley. Nested inside wurth_basic-8-8_trolley.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 674,
+    "y": 463,
+    "z": 156
+  },
+  "inner_size_in": {
+    "x": 26.535,
+    "y": 18.228,
+    "z": 6.142
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://eshop.wuerth.de/BASIC-88-system-workshop-trolley-WRKSHPTRLY-BASIC-88-8DR-RAL7047/0962642082.sku/en/US/EUR/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Würth eShop drawer design: W 674 × D 463 × H 156 mm (labelled alongside internal system dimensions 8.8)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

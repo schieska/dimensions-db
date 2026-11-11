@@ -50,6 +50,10 @@
   "added_by": "gh:schieska",
   "status": null,
   "accuracy": null,
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
   "identifiers": {
     "mpn": [
       "902.130.78"

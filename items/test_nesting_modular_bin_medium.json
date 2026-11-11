@@ -1,0 +1,71 @@
+{
+  "id": "test_nesting_modular_bin_medium",
+  "type": "container",
+  "name": "Test modular bin (medium)",
+  "brand": "test",
+  "origin": null,
+  "description": "Fixture: medium tray used beside two small bins in the parent unit.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 300,
+    "y": 200,
+    "z": 120
+  },
+  "inner_size_in": {
+    "x": 11.811,
+    "y": 7.874,
+    "z": 4.724
+  },
+  "outer_size_mm": {
+    "x": 320,
+    "y": 220,
+    "z": 132
+  },
+  "outer_size_in": {
+    "x": 12.598,
+    "y": 8.661,
+    "z": 5.197
+  },
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "plastic"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "other",
+      "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-medium",
+      "note": "Synthetic dimensions for automated and manual UI tests."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:test-fixtures",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Not measured; placeholder geometry for nesting tests."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 1,
+  "added_by": null,
+  "status": "draft",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

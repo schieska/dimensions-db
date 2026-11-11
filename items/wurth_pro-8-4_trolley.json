@@ -1,0 +1,75 @@
+{
+  "id": "wurth_pro-8-4_trolley",
+  "type": "furniture",
+  "name": "PRO/ULTIMATE 8.4 system workshop trolley",
+  "brand": "wurth",
+  "origin": null,
+  "description": "Würth PRO/ULTIMATE 8.4 system workshop trolley. The 7 standard + 1 large drawer mix is specific to equipped listing 0962612056 (ULTIMATE 8.4 built on PRO 8.4); other PRO 8.4 SKUs may differ.",
+  "translations": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 684,
+    "y": 406,
+    "z": 1060
+  },
+  "outer_size_in": {
+    "x": 26.929,
+    "y": 15.984,
+    "z": 41.732
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": [
+    {
+      "ref": "wurth_pro-8-4_drawer_standard",
+      "qty": 7
+    },
+    {
+      "ref": "wurth_pro-8-4_drawer_large",
+      "qty": 1
+    }
+  ],
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Outer dimensions from Würth eShop 0962612056. Drawer mix (7× standard + 1× large) is specific to this equipped listing."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "0962612056"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

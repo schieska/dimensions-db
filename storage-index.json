@@ -1,0 +1,2341 @@
+{
+  "version": "1.1.0",
+  "generated_at": "2026-11-11T13:29:33.348Z",
+  "items": [
+    {
+      "id": "allit_europlus_europlus_flex",
+      "slug": "allit-europlus-europlus-flex",
+      "name": "EuroPlus Flex",
+      "brand_id": "allit",
+      "brand_name": "Allit",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/allit_europlus_europlus_flex.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Ballit_europlus_europlus_flex%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Ballit_europlus_europlus_flex%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Ballit_europlus_europlus_flex%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Ballit_europlus_europlus_flex%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/allit/europlus/europlus-flex.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/allit/europlus/europlus-flex.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a3_47",
+      "slug": "bisley-multidrawer-drawer-a3-47",
+      "name": "MultiDrawer A3 drawer, 47 mm",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_drawer_a3_47.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_drawer_a3_47%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_drawer_a3_47%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_drawer_a3_47%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_drawer_a3_47%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/drawer-a3-47.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/drawer-a3-47.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a3_83",
+      "slug": "bisley-multidrawer-drawer-a3-83",
+      "name": "MultiDrawer A3 drawer, 83 mm",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_drawer_a3_83.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_drawer_a3_83%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_drawer_a3_83%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_drawer_a3_83%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_drawer_a3_83%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/drawer-a3-83.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/drawer-a3-83.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_22",
+      "slug": "bisley-multidrawer-drawer-a4-22",
+      "name": "MultiDrawer A4 drawer, 22 mm",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_drawer_a4_22.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_drawer_a4_22%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_drawer_a4_22%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_drawer_a4_22%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_drawer_a4_22%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/drawer-a4-22.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/drawer-a4-22.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_47",
+      "slug": "bisley-multidrawer-drawer-a4-47",
+      "name": "MultiDrawer A4 drawer, 47 mm",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_drawer_a4_47.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_drawer_a4_47%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_drawer_a4_47%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_drawer_a4_47%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_drawer_a4_47%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/drawer-a4-47.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/drawer-a4-47.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_83",
+      "slug": "bisley-multidrawer-drawer-a4-83",
+      "name": "MultiDrawer A4 drawer, 83 mm",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_drawer_a4_83.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_drawer_a4_83%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_drawer_a4_83%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_drawer_a4_83%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_drawer_a4_83%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/drawer-a4-83.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/drawer-a4-83.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_98",
+      "slug": "bisley-multidrawer-drawer-a4-98",
+      "name": "MultiDrawer A4 drawer, 98 mm",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_drawer_a4_98.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_drawer_a4_98%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_drawer_a4_98%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_drawer_a4_98%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_drawer_a4_98%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/drawer-a4-98.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/drawer-a4-98.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_12_series_3",
+      "slug": "bisley-multidrawer-unit-12-series-3",
+      "name": "12 Series MultiDrawer, 3 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_12_series_3.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_12_series_3%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_12_series_3%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_12_series_3%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_12_series_3%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-12-series-3.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-12-series-3.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_12_series_5",
+      "slug": "bisley-multidrawer-unit-12-series-5",
+      "name": "12 Series MultiDrawer, 5 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_12_series_5.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_12_series_5%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_12_series_5%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_12_series_5%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_12_series_5%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-12-series-5.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-12-series-5.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_10",
+      "slug": "bisley-multidrawer-unit-29-series-10",
+      "name": "29 Series MultiDrawer, 10 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_29_series_10.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_29_series_10%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_29_series_10%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_29_series_10%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_29_series_10%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-29-series-10.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-29-series-10.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_6",
+      "slug": "bisley-multidrawer-unit-29-series-6",
+      "name": "29 Series MultiDrawer, 6 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_29_series_6.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-29-series-6.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-29-series-6.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_8",
+      "slug": "bisley-multidrawer-unit-29-series-8",
+      "name": "29 Series MultiDrawer, 8 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_29_series_8.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_29_series_8%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_29_series_8%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_29_series_8%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_29_series_8%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-29-series-8.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-29-series-8.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_39_series_15",
+      "slug": "bisley-multidrawer-unit-39-series-15",
+      "name": "39 Series MultiDrawer, 15 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_39_series_15.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_39_series_15%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_39_series_15%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_39_series_15%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_39_series_15%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-39-series-15.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-39-series-15.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_39_series_9",
+      "slug": "bisley-multidrawer-unit-39-series-9",
+      "name": "39 Series MultiDrawer, 9 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_39_series_9.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_39_series_9%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_39_series_9%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_39_series_9%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_39_series_9%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-39-series-9.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-39-series-9.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_10",
+      "slug": "bisley-multidrawer-unit-a3-10",
+      "name": "A3 Series MultiDrawer, 10 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_a3_10.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_a3_10%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_a3_10%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_a3_10%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_a3_10%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-a3-10.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-a3-10.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_15",
+      "slug": "bisley-multidrawer-unit-a3-15",
+      "name": "A3 Series MultiDrawer, 15 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_a3_15.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_a3_15%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_a3_15%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_a3_15%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_a3_15%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-a3-15.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-a3-15.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_6",
+      "slug": "bisley-multidrawer-unit-a3-6",
+      "name": "A3 Series MultiDrawer, 6 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_a3_6.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_a3_6%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_a3_6%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_a3_6%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_a3_6%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-a3-6.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-a3-6.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_9",
+      "slug": "bisley-multidrawer-unit-a3-9",
+      "name": "A3 Series MultiDrawer, 9 drawer",
+      "brand_id": "bisley",
+      "brand_name": "Bisley",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/bisley_multidrawer_unit_a3_9.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_a3_9%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_a3_9%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_a3_9%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_a3_9%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-a3-9.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-a3-9.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "generic_general_eurobox_40x30",
+      "slug": "generic-general-eurobox-40x30",
+      "name": "Eurobox 40×30",
+      "brand_id": "generic",
+      "brand_name": "Generic",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/generic_general_eurobox_40x30.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bgeneric_general_eurobox_40x30%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bgeneric_general_eurobox_40x30%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bgeneric_general_eurobox_40x30%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bgeneric_general_eurobox_40x30%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/generic/general/eurobox-40x30.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/generic/general/eurobox-40x30.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "generic_general_eurobox_60x40",
+      "slug": "generic-general-eurobox-60x40",
+      "name": "EuroBox 60×40",
+      "brand_id": "generic",
+      "brand_name": "Generic",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/generic_general_eurobox_60x40.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bgeneric_general_eurobox_60x40%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bgeneric_general_eurobox_60x40%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bgeneric_general_eurobox_60x40%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bgeneric_general_eurobox_60x40%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/generic/general/eurobox-60x40.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/generic/general/eurobox-60x40.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "generic_general_gridfinity_base_unit",
+      "slug": "generic-general-gridfinity-base-unit",
+      "name": "Gridfinity base unit (1×1)",
+      "brand_id": "generic",
+      "brand_name": "Generic",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/generic_general_gridfinity_base_unit.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bgeneric_general_gridfinity_base_unit%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bgeneric_general_gridfinity_base_unit%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bgeneric_general_gridfinity_base_unit%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bgeneric_general_gridfinity_base_unit%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/generic/general/gridfinity-base-unit.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/generic/general/gridfinity-base-unit.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "generic_general_orgpro_cell",
+      "slug": "generic-general-orgpro-cell",
+      "name": "OrgPro cell",
+      "brand_id": "generic",
+      "brand_name": "Generic",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/generic_general_orgpro_cell.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bgeneric_general_orgpro_cell%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bgeneric_general_orgpro_cell%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bgeneric_general_orgpro_cell%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bgeneric_general_orgpro_cell%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/generic/general/orgpro-cell.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/generic/general/orgpro-cell.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "generic_general_systainer_footprint",
+      "slug": "generic-general-systainer-footprint",
+      "name": "Systainer (generic footprint)",
+      "brand_id": "generic",
+      "brand_name": "Generic",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/generic_general_systainer_footprint.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bgeneric_general_systainer_footprint%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bgeneric_general_systainer_footprint%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bgeneric_general_systainer_footprint%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bgeneric_general_systainer_footprint%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/generic/general/systainer-footprint.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/generic/general/systainer-footprint.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_drawer_castors_white",
+      "slug": "ikea-alex-drawer-castors-white",
+      "name": "ALEX Drawer (for unit on castors), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_alex_drawer_castors_white.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_castors_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_castors_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_castors_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_castors_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-castors-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-castors-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_drawer_insert_compartment_plan",
+      "slug": "ikea-alex-drawer-insert-compartment-plan",
+      "name": "ALEX drawer insert compartment (plan footprint)",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_alex_drawer_insert_compartment_plan.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_insert_compartment_plan%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_insert_compartment_plan%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_insert_compartment_plan%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_insert_compartment_plan%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-insert-compartment-plan.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-insert-compartment-plan.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_drawer_large_white",
+      "slug": "ikea-alex-drawer-large-white",
+      "name": "ALEX Drawer (Large), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_alex_drawer_large_white.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_large_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_large_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_large_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_large_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-large-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-large-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_drawer_small_white",
+      "slug": "ikea-alex-drawer-small-white",
+      "name": "ALEX Drawer (Small), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_alex_drawer_small_white.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_small_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_small_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_small_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_small_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-small-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-small-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_drawer_unit_5_white",
+      "slug": "ikea-alex-drawer-unit-5-white",
+      "name": "ALEX Drawer unit, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/ikea_alex_drawer_unit_5_white.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_unit_5_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_unit_5_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_unit_5_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_unit_5_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-unit-5-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-unit-5-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_drawer_unit_castors_white",
+      "slug": "ikea-alex-drawer-unit-castors-white",
+      "name": "ALEX Drawer unit on castors, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": "https://www.ikea.com/nl/en/images/products/alex-drawer-unit-on-castors-white__0977785_pe813769_s5.jpg",
+      "page_path": "storage-pages/ikea_alex_drawer_unit_castors_white.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-unit-castors-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-unit-castors-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_storage_shelf_white",
+      "slug": "ikea-alex-storage-shelf-white",
+      "name": "ALEX Storage unit shelf, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "tray",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_alex_storage_shelf_white.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_storage_shelf_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_storage_shelf_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_storage_shelf_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_storage_shelf_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/storage-shelf-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/storage-shelf-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "slug": "ikea-alex-storage-unit-white",
+      "name": "ALEX Storage unit, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": "https://www.ikea.com/nl/en/images/products/alex-storage-unit-white__1209817_pe909458_s5.jpg",
+      "page_path": "storage-pages/ikea_alex_storage_unit_white.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_storage_unit_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_storage_unit_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_storage_unit_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_storage_unit_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/storage-unit-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/storage-unit-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_billy_bookcase_compartment",
+      "slug": "ikea-billy-bookcase-compartment",
+      "name": "BILLY bookcase shelf compartment",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_billy_bookcase_compartment.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_billy_bookcase_compartment%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_billy_bookcase_compartment%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_billy_bookcase_compartment%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_billy_bookcase_compartment%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/billy/bookcase-compartment.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/billy/bookcase-compartment.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_eket_cabinet_1x1",
+      "slug": "ikea-eket-cabinet-1x1",
+      "name": "EKET cabinet 35×25 cm",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_eket_cabinet_1x1.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_eket_cabinet_1x1%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_eket_cabinet_1x1%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_eket_cabinet_1x1%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_eket_cabinet_1x1%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/eket/cabinet-1x1.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/eket/cabinet-1x1.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_friidrott_drawer_unit_white",
+      "slug": "ikea-friidrott-drawer-unit-white",
+      "name": "FRIIDROTT Drawer unit on castors, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": "https://www.ikea.com/nl/en/images/products/friidrott-drawer-unit-on-castors-white__1480198_pe1000154_s5.jpg",
+      "page_path": "storage-pages/ikea_friidrott_drawer_unit_white.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_friidrott_drawer_unit_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_friidrott_drawer_unit_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_friidrott_drawer_unit_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_friidrott_drawer_unit_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/friidrott/drawer-unit-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/friidrott/drawer-unit-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_friidrott_drawer_white",
+      "slug": "ikea-friidrott-drawer-white",
+      "name": "FRIIDROTT Drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "component",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 32,
+      "completeness_class": "basic_metadata",
+      "fit_readiness": "browse_only",
+      "has_outer_size": false,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/ikea_friidrott_drawer_white.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_friidrott_drawer_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_friidrott_drawer_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_friidrott_drawer_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_friidrott_drawer_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/friidrott/drawer-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/friidrott/drawer-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_helmer_drawer_black",
+      "slug": "ikea-helmer-drawer-black",
+      "name": "HELMER Drawer, black",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_helmer_drawer_black.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_helmer_drawer_black%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_helmer_drawer_black%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_helmer_drawer_black%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_helmer_drawer_black%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/helmer/drawer-black.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/helmer/drawer-black.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_helmer_drawer_unit_black",
+      "slug": "ikea-helmer-drawer-unit-black",
+      "name": "HELMER Drawer unit on castors, black",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": "https://www.ikea.com/nl/en/images/products/helmer-drawer-unit-on-castors-black__0490648_pe624587_s5.jpg",
+      "page_path": "storage-pages/ikea_helmer_drawer_unit_black.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_helmer_drawer_unit_black%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_helmer_drawer_unit_black%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_helmer_drawer_unit_black%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_helmer_drawer_unit_black%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/helmer/drawer-unit-black.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/helmer/drawer-unit-black.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x30",
+      "slug": "ikea-ivar-shelf-80x30",
+      "name": "IVAR shelf section 80×30 cm",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_ivar_shelf_80x30.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_ivar_shelf_80x30%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_ivar_shelf_80x30%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_ivar_shelf_80x30%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_ivar_shelf_80x30%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/ivar/shelf-80x30.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/ivar/shelf-80x30.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x50",
+      "slug": "ikea-ivar-shelf-80x50",
+      "name": "IVAR shelf section 80×50 cm",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_ivar_shelf_80x50.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_ivar_shelf_80x50%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_ivar_shelf_80x50%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_ivar_shelf_80x50%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_ivar_shelf_80x50%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/ivar/shelf-80x50.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/ivar/shelf-80x50.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x50_extended",
+      "slug": "ikea-ivar-shelf-80x50-extended",
+      "name": "IVAR shelf section 80×50 cm (extended depth)",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_ivar_shelf_80x50_extended.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_ivar_shelf_80x50_extended%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_ivar_shelf_80x50_extended%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_ivar_shelf_80x50_extended%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_ivar_shelf_80x50_extended%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/ivar/shelf-80x50-extended.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/ivar/shelf-80x50-extended.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_kallax_cube_1x1",
+      "slug": "ikea-kallax-cube-1x1",
+      "name": "KALLAX shelving unit 1×1 cube",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_kallax_cube_1x1.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_kallax_cube_1x1%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_kallax_cube_1x1%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_kallax_cube_1x1%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_kallax_cube_1x1%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/kallax/cube-1x1.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/kallax/cube-1x1.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_kallax_drawer_insert_compartment",
+      "slug": "ikea-kallax-drawer-insert-compartment",
+      "name": "KALLAX insert with 2 drawers (drawer compartment)",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_kallax_drawer_insert_compartment.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_kallax_drawer_insert_compartment%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_kallax_drawer_insert_compartment%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_kallax_drawer_insert_compartment%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_kallax_drawer_insert_compartment%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/kallax/drawer-insert-compartment.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/kallax/drawer-insert-compartment.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_micke_drawer_unit_white",
+      "slug": "ikea-micke-drawer-unit-white",
+      "name": "MICKE Drawer unit on castors, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": "https://www.ikea.com/nl/en/images/products/micke-drawer-unit-on-castors-white__0627113_pe693172_s5.jpg",
+      "page_path": "storage-pages/ikea_micke_drawer_unit_white.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_micke_drawer_unit_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_micke_drawer_unit_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_micke_drawer_unit_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_micke_drawer_unit_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/micke/drawer-unit-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/micke/drawer-unit-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_micke_drawer_white",
+      "slug": "ikea-micke-drawer-white",
+      "name": "MICKE Drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "component",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 32,
+      "completeness_class": "basic_metadata",
+      "fit_readiness": "browse_only",
+      "has_outer_size": false,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/ikea_micke_drawer_white.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_micke_drawer_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_micke_drawer_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_micke_drawer_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_micke_drawer_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/micke/drawer-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/micke/drawer-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "slug": "ikea-pappis-box-lidded",
+      "name": "PAPPIS box with lid",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_pappis_box_lidded.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_pappis_box_lidded%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_pappis_box_lidded%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_pappis_box_lidded%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_pappis_box_lidded%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/pappis/box-lidded.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/pappis/box-lidded.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "slug": "ikea-rensare-bag-large",
+      "name": "RENSARE clothes bag, large",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_rensare_bag_large.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_rensare_bag_large%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_rensare_bag_large%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_rensare_bag_large%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_rensare_bag_large%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/rensare/bag-large.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/rensare/bag-large.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "slug": "ikea-rensare-bag-small",
+      "name": "RENSARE clothes bag, small",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_rensare_bag_small.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_rensare_bag_small%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_rensare_bag_small%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_rensare_bag_small%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_rensare_bag_small%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/rensare/bag-small.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/rensare/bag-small.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_samla_box_11l_clear",
+      "slug": "ikea-samla-box-11l-clear",
+      "name": "SAMLA Box with lid, transparent, 11 l",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "container",
+      "in_open_database": false,
+      "derived_state": "known_product",
+      "verification_status": "pending",
+      "completeness_score": 30,
+      "completeness_class": "basic_metadata",
+      "fit_readiness": "browse_only",
+      "has_outer_size": false,
+      "has_inner_size": false,
+      "image": "https://www.ikea.com/global/assets/range-categorisation/images/product/images/pe805872/pe805872.jpg",
+      "page_path": "storage-pages/ikea_samla_box_11l_clear.json",
+      "badges": [
+        "Known product",
+        "Needs outer size",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "inner_size",
+        "measurements",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_samla_box_11l_clear%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_samla_box_11l_clear%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_samla_box_11l_clear%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_samla_box_11l_clear%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/index/ikea/samla/box-11l-clear.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/index/ikea/samla/box-11l-clear.json",
+        "promotion_guide": "https://github.com/schieska/dimensions-db/blob/main/.github/PULL_REQUEST_TEMPLATE/promote-to-open-db.md"
+      },
+      "source_layer": "storage_index"
+    },
+    {
+      "id": "test_nesting_modular_bin_medium",
+      "slug": "test-nesting-modular-bin-medium",
+      "name": "Test modular bin (medium)",
+      "brand_id": "test",
+      "brand_name": "Test Fixtures",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/test_nesting_modular_bin_medium.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/test/nesting/modular-bin-medium.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/test/nesting/modular-bin-medium.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "test_nesting_modular_bin_small",
+      "slug": "test-nesting-modular-bin-small",
+      "name": "Test modular bin (small)",
+      "brand_id": "test",
+      "brand_name": "Test Fixtures",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 72,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/test_nesting_modular_bin_small.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Btest_nesting_modular_bin_small%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Btest_nesting_modular_bin_small%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Btest_nesting_modular_bin_small%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Btest_nesting_modular_bin_small%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/test/nesting/modular-bin-small.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/test/nesting/modular-bin-small.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "test_nesting_modular_storage_unit",
+      "slug": "test-nesting-modular-storage-unit",
+      "name": "Test modular storage unit (nested parts)",
+      "brand_id": "test",
+      "brand_name": "Test Fixtures",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "unverified",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/test_nesting_modular_storage_unit.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Btest_nesting_modular_storage_unit%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Btest_nesting_modular_storage_unit%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Btest_nesting_modular_storage_unit%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Btest_nesting_modular_storage_unit%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/test/nesting/modular-storage-unit.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/test/nesting/modular-storage-unit.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "us-general_44-inch_drawer_left_deep",
+      "slug": "us-general-44-inch-drawer-left-deep",
+      "name": "44″ double-bank roller cabinet, bottom-left deep drawer",
+      "brand_id": "us-general",
+      "brand_name": "U.S. General",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/us-general_44-inch_drawer_left_deep.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bus-general_44-inch_drawer_left_deep%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bus-general_44-inch_drawer_left_deep%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bus-general_44-inch_drawer_left_deep%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bus-general_44-inch_drawer_left_deep%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/us-general/44-inch/drawer-left-deep.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/us-general/44-inch/drawer-left-deep.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "us-general_44-inch_drawer_left_shallow",
+      "slug": "us-general-44-inch-drawer-left-shallow",
+      "name": "44″ double-bank roller cabinet, left shallow drawer",
+      "brand_id": "us-general",
+      "brand_name": "U.S. General",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/us-general_44-inch_drawer_left_shallow.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bus-general_44-inch_drawer_left_shallow%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bus-general_44-inch_drawer_left_shallow%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bus-general_44-inch_drawer_left_shallow%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bus-general_44-inch_drawer_left_shallow%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/us-general/44-inch/drawer-left-shallow.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/us-general/44-inch/drawer-left-shallow.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "us-general_44-inch_drawer_right_deep",
+      "slug": "us-general-44-inch-drawer-right-deep",
+      "name": "44″ double-bank roller cabinet, bottom-right deep drawer",
+      "brand_id": "us-general",
+      "brand_name": "U.S. General",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/us-general_44-inch_drawer_right_deep.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bus-general_44-inch_drawer_right_deep%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bus-general_44-inch_drawer_right_deep%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bus-general_44-inch_drawer_right_deep%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bus-general_44-inch_drawer_right_deep%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/us-general/44-inch/drawer-right-deep.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/us-general/44-inch/drawer-right-deep.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "us-general_44-inch_drawer_right_shallow",
+      "slug": "us-general-44-inch-drawer-right-shallow",
+      "name": "44″ double-bank roller cabinet, right shallow drawer",
+      "brand_id": "us-general",
+      "brand_name": "U.S. General",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/us-general_44-inch_drawer_right_shallow.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bus-general_44-inch_drawer_right_shallow%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bus-general_44-inch_drawer_right_shallow%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bus-general_44-inch_drawer_right_shallow%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bus-general_44-inch_drawer_right_shallow%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/us-general/44-inch/drawer-right-shallow.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/us-general/44-inch/drawer-right-shallow.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "us-general_44-inch_drawer_top",
+      "slug": "us-general-44-inch-drawer-top",
+      "name": "44″ double-bank roller cabinet, top drawer",
+      "brand_id": "us-general",
+      "brand_name": "U.S. General",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/us-general_44-inch_drawer_top.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bus-general_44-inch_drawer_top%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bus-general_44-inch_drawer_top%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bus-general_44-inch_drawer_top%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bus-general_44-inch_drawer_top%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/us-general/44-inch/drawer-top.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/us-general/44-inch/drawer-top.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "us-general_44-inch_roller_cabinet",
+      "slug": "us-general-44-inch-roller-cabinet",
+      "name": "44″ double-bank roller cabinet",
+      "brand_id": "us-general",
+      "brand_name": "U.S. General",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/us-general_44-inch_roller_cabinet.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bus-general_44-inch_roller_cabinet%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bus-general_44-inch_roller_cabinet%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bus-general_44-inch_roller_cabinet%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bus-general_44-inch_roller_cabinet%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/us-general/44-inch/roller-cabinet.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/us-general/44-inch/roller-cabinet.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "wurth_basic-8-8_drawer_large",
+      "slug": "wurth-basic-8-8-drawer-large",
+      "name": "BASIC 8.8 system workshop trolley, large drawer",
+      "brand_id": "wurth",
+      "brand_name": "Würth",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/wurth_basic-8-8_drawer_large.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_basic-8-8_drawer_large%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_basic-8-8_drawer_large%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_basic-8-8_drawer_large%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_basic-8-8_drawer_large%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/basic-8-8/drawer-large.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/basic-8-8/drawer-large.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "wurth_basic-8-8_drawer_standard",
+      "slug": "wurth-basic-8-8-drawer-standard",
+      "name": "BASIC 8.8 system workshop trolley, standard drawer",
+      "brand_id": "wurth",
+      "brand_name": "Würth",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/wurth_basic-8-8_drawer_standard.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_basic-8-8_drawer_standard%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_basic-8-8_drawer_standard%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_basic-8-8_drawer_standard%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_basic-8-8_drawer_standard%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/basic-8-8/drawer-standard.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/basic-8-8/drawer-standard.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "wurth_basic-8-8_trolley",
+      "slug": "wurth-basic-8-8-trolley",
+      "name": "BASIC 8.8 system workshop trolley",
+      "brand_id": "wurth",
+      "brand_name": "Würth",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/wurth_basic-8-8_trolley.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_basic-8-8_trolley%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_basic-8-8_trolley%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_basic-8-8_trolley%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_basic-8-8_trolley%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/basic-8-8/trolley.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/basic-8-8/trolley.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "wurth_pro-8-4_drawer_large",
+      "slug": "wurth-pro-8-4-drawer-large",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley, large drawer",
+      "brand_id": "wurth",
+      "brand_name": "Würth",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/wurth_pro-8-4_drawer_large.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_pro-8-4_drawer_large%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_pro-8-4_drawer_large%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_pro-8-4_drawer_large%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_pro-8-4_drawer_large%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/pro-8-4/drawer-large.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/pro-8-4/drawer-large.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "wurth_pro-8-4_drawer_standard",
+      "slug": "wurth-pro-8-4-drawer-standard",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley, standard drawer",
+      "brand_id": "wurth",
+      "brand_name": "Würth",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 52,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/wurth_pro-8-4_drawer_standard.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "image_or_identifier",
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/pro-8-4/drawer-standard.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/pro-8-4/drawer-standard.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "wurth_pro-8-4_trolley",
+      "slug": "wurth-pro-8-4-trolley",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley",
+      "brand_id": "wurth",
+      "brand_name": "Würth",
+      "type": "furniture",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": true,
+      "has_inner_size": false,
+      "image": null,
+      "page_path": "storage-pages/wurth_pro-8-4_trolley.json",
+      "badges": [
+        "In open database",
+        "Needs inner size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "inner_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_pro-8-4_trolley%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_pro-8-4_trolley%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_pro-8-4_trolley%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_pro-8-4_trolley%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/pro-8-4/trolley.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/pro-8-4/trolley.json"
+      },
+      "source_layer": "open_database"
+    }
+  ]
+}

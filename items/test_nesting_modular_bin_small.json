@@ -1,0 +1,71 @@
+{
+  "id": "test_nesting_modular_bin_small",
+  "type": "container",
+  "name": "Test modular bin (small)",
+  "brand": "test",
+  "origin": null,
+  "description": "Fixture: smallest tray in the nested test hierarchy.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 200,
+    "y": 150,
+    "z": 100
+  },
+  "inner_size_in": {
+    "x": 7.874,
+    "y": 5.906,
+    "z": 3.937
+  },
+  "outer_size_mm": {
+    "x": 220,
+    "y": 170,
+    "z": 110
+  },
+  "outer_size_in": {
+    "x": 8.661,
+    "y": 6.693,
+    "z": 4.331
+  },
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "plastic"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "other",
+      "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-small",
+      "note": "Synthetic dimensions for automated and manual UI tests."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:test-fixtures",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Not measured; placeholder geometry for nesting tests."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 1,
+  "added_by": null,
+  "status": "draft",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

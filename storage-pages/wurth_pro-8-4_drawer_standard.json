@@ -1,0 +1,160 @@
+{
+  "id": "wurth_pro-8-4_drawer_standard",
+  "slug": "wurth-pro-8-4-drawer-standard",
+  "name": "PRO/ULTIMATE 8.4 system workshop trolley, standard drawer",
+  "brand_id": "wurth",
+  "brand_name": "Würth",
+  "type": "drawer",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 52,
+    "class": "partial_data",
+    "segments": {
+      "identity": 24,
+      "geometry": 20,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "compare_only",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "May support rough comparison; not sufficient for exact-fit without more verification.",
+      "Primary source kind: manufacturer."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": false,
+    "inner_dimensions": true,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "image_or_identifier",
+    "outer_size",
+    "evidence"
+  ],
+  "record": {
+    "id": "wurth_pro-8-4_drawer_standard",
+    "type": "drawer",
+    "name": "PRO/ULTIMATE 8.4 system workshop trolley, standard drawer",
+    "brand": "wurth",
+    "added_by": "gh:schieska",
+    "description": "Standard drawer for Würth PRO/ULTIMATE 8.4 system workshop trolley. Nested inside wurth_pro-8-4_trolley. Interior depth recorded as 336 mm from listing 0962612037 (466 × 336 × 69); listing 0962612056 prints 366 mm for the same drawer plan, treated as a typo.",
+    "inner_size": {
+      "x": 466,
+      "y": 336,
+      "z": 69
+    },
+    "visibility": [
+      "standalone",
+      "component"
+    ],
+    "materials": [
+      "steel"
+    ],
+    "sources": [
+      {
+        "kind": "manufacturer",
+        "url": "https://eshop.wuerth.de/System-Werkstattwagen-Pro-84-bestueckt-WRKSTWG-PRO-84-6SL-BESTUECKT-R9017/0962612037.sku/de/DE/EUR/",
+        "note": "Lists standard drawer as B 466 × T 336 × H 69 mm."
+      },
+      {
+        "kind": "manufacturer",
+        "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/",
+        "note": "Conflicting listing: prints standard drawer depth as 366 mm; treated as a typo."
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-11-11",
+        "notes": "Adopted 466 × 336 × 69 mm from Würth 0962612037. Listing 0962612056 prints 466 × 366 × 69 mm for the standard drawer; 366 is very likely a typo (8.4 insert inside is about 462.5 × 335)."
+      }
+    ],
+    "accuracy": "medium",
+    "confidence": "medium",
+    "status": "community",
+    "updated_at": "2026-11-11"
+  },
+  "similar_items": [
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "name": "ALEX Storage unit, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_small",
+      "name": "Test modular bin (small)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/test_nesting_modular_bin_small.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_medium",
+      "name": "Test modular bin (medium)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/test_nesting_modular_bin_medium.json"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "name": "RENSARE clothes bag, small",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_small.json"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "name": "RENSARE clothes bag, large",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_large.json"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "name": "PAPPIS box with lid",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_pappis_box_lidded.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bwurth_pro-8-4_drawer_standard%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/wurth/pro-8-4/drawer-standard.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/wurth/pro-8-4/drawer-standard.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/wurth/pro-8-4/drawer-standard.json"
+  }
+}

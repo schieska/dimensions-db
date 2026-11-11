@@ -1,0 +1,75 @@
+{
+  "id": "ikea_rensare_bag_small",
+  "type": "container",
+  "name": "RENSARE clothes bag, small",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Small RENSARE bag plan footprint (Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 248,
+    "y": 168,
+    "z": 248
+  },
+  "inner_size_in": {
+    "x": 9.764,
+    "y": 6.614,
+    "z": 9.764
+  },
+  "outer_size_mm": {
+    "x": 250,
+    "y": 170,
+    "z": 250
+  },
+  "outer_size_in": {
+    "x": 9.843,
+    "y": 6.693,
+    "z": 9.843
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "fabric"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/de/de/p/rensare-kleidertasche-3-st-karos-grau-schwarz-30432502/"
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Flexible fabric; Z is conventional."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

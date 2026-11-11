@@ -1,0 +1,73 @@
+{
+  "id": "ikea_ivar_shelf_80x50",
+  "type": "furniture",
+  "name": "IVAR shelf section 80×50 cm",
+  "brand": "ikea",
+  "origin": null,
+  "description": "IVAR shelf compartment plan footprint (Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 800,
+    "y": 500,
+    "z": 800
+  },
+  "inner_size_in": {
+    "x": 31.496,
+    "y": 19.685,
+    "z": 31.496
+  },
+  "outer_size_mm": {
+    "x": 890,
+    "y": 500,
+    "z": 890
+  },
+  "outer_size_in": {
+    "x": 35.039,
+    "y": 19.685,
+    "z": 35.039
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/de/de/p/ivar-1-elem-boeden-kiefer-s59248320/"
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Vertical clearance between shelves not in source."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "bisley_multidrawer_drawer_a4_98",
+  "type": "drawer",
+  "name": "MultiDrawer A4 drawer, 98 mm",
+  "brand": "bisley",
+  "origin": null,
+  "description": "Shared A4 MultiDrawer interior (234 × 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 234,
+    "y": 375,
+    "z": 98
+  },
+  "inner_size_in": {
+    "x": 9.213,
+    "y": 14.764,
+    "z": 3.858
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-8-drawer"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Large drawer height from Bisley 29 Series 8-drawer (H298BNL) specification."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

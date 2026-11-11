@@ -1,0 +1,101 @@
+{
+  "id": "us-general_44-inch_roller_cabinet",
+  "type": "furniture",
+  "name": "44″ double-bank roller cabinet",
+  "brand": "us-general",
+  "origin": null,
+  "description": "Harbor Freight U.S. General 44″ double-bank roller cabinet. Outer size measured by the source author (42″ excl. handle × 22″ × 39″).",
+  "translations": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 1067,
+    "y": 559,
+    "z": 991
+  },
+  "outer_size_in": {
+    "x": 42.008,
+    "y": 22.008,
+    "z": 39.016
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": [
+    {
+      "ref": "us-general_44-inch_drawer_top",
+      "qty": 1
+    },
+    {
+      "ref": "us-general_44-inch_drawer_left_shallow",
+      "qty": 5
+    },
+    {
+      "ref": "us-general_44-inch_drawer_right_shallow",
+      "qty": 5
+    },
+    {
+      "ref": "us-general_44-inch_drawer_left_deep",
+      "qty": 1
+    },
+    {
+      "ref": "us-general_44-inch_drawer_right_deep",
+      "qty": 1
+    }
+  ],
+  "sources": [
+    {
+      "kind": "community",
+      "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manual",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Outer cabinet measured by Maintenance Blog author; drawer counts from the same write-up."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "medium",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "medium",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "64281",
+        "system": "harbor-freight",
+        "region": "US"
+      },
+      {
+        "value": "64133",
+        "system": "harbor-freight",
+        "region": "US"
+      },
+      {
+        "value": "64134",
+        "system": "harbor-freight",
+        "region": "US"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

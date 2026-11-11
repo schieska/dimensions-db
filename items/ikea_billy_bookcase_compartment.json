@@ -1,0 +1,73 @@
+{
+  "id": "ikea_billy_bookcase_compartment",
+  "type": "furniture",
+  "name": "BILLY bookcase shelf compartment",
+  "brand": "ikea",
+  "origin": null,
+  "description": "BILLY shelf opening plan footprint (Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 760,
+    "y": 270,
+    "z": 760
+  },
+  "inner_size_in": {
+    "x": 29.921,
+    "y": 10.63,
+    "z": 29.921
+  },
+  "outer_size_mm": {
+    "x": 800,
+    "y": 300,
+    "z": 800
+  },
+  "outer_size_in": {
+    "x": 31.496,
+    "y": 11.811,
+    "z": 31.496
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/us/en/p/billy-bookcase-white-00263850/"
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Adjustable shelf spacing not reflected."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

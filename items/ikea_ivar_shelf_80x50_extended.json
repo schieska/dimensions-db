@@ -1,0 +1,74 @@
+{
+  "id": "ikea_ivar_shelf_80x50_extended",
+  "type": "furniture",
+  "name": "IVAR shelf section 80×50 cm (extended depth)",
+  "brand": "ikea",
+  "origin": null,
+  "description": "IVAR shelf with extended compartment depth for Euro boxes (orglikea tip; Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 800,
+    "y": 600,
+    "z": 800
+  },
+  "inner_size_in": {
+    "x": 31.496,
+    "y": 23.622,
+    "z": 31.496
+  },
+  "outer_size_mm": {
+    "x": 890,
+    "y": 600,
+    "z": 890
+  },
+  "outer_size_in": {
+    "x": 35.039,
+    "y": 23.622,
+    "z": 35.039
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "other",
+      "url": "https://orglikea.pro/articles/tipps/#ikea-ivar-80x50-for-euroboxes",
+      "note": "Community sizing article."
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Z axis conventional."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

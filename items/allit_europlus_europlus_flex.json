@@ -1,0 +1,73 @@
+{
+  "id": "allit_europlus_europlus_flex",
+  "type": "container",
+  "name": "EuroPlus Flex",
+  "brand": "allit",
+  "origin": null,
+  "description": "Allit EuroPlus Flex small-parts case footprint (Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 348,
+    "y": 246,
+    "z": 348
+  },
+  "inner_size_in": {
+    "x": 13.701,
+    "y": 9.685,
+    "z": 13.701
+  },
+  "outer_size_mm": {
+    "x": 365,
+    "y": 295,
+    "z": 365
+  },
+  "outer_size_in": {
+    "x": 14.37,
+    "y": 11.614,
+    "z": 14.37
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.allit.de/en/products/diy/kleinteilekoffer/europlus-flex"
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Z axis conventional."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

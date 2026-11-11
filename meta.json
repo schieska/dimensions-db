@@ -1,5 +1,8 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-08T15:57:31.179Z",
-  "item_count": 13
+  "generated_at": "2026-11-11T13:29:33.348Z",
+  "item_count": 62,
+  "open_database_item_count": 62,
+  "storage_index_union_count": 63,
+  "storage_index_only_count": 1
 }

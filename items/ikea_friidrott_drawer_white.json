@@ -1,6 +1,6 @@
 {
   "id": "ikea_friidrott_drawer_white",
-  "type": "drawer",
+  "type": "component",
   "name": "FRIIDROTT Drawer, white",
   "brand": "ikea",
   "origin": null,
@@ -37,6 +37,10 @@
   "added_by": "gh:schieska",
   "status": null,
   "accuracy": null,
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
   "identifiers": null,
   "variant_of": null,
   "variant": null,

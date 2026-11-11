@@ -1,0 +1,62 @@
+{
+  "id": "us-general_44-inch_drawer_top",
+  "type": "drawer",
+  "name": "44″ double-bank roller cabinet, top drawer",
+  "brand": "us-general",
+  "origin": null,
+  "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 933,
+    "y": 498,
+    "z": 108
+  },
+  "inner_size_in": {
+    "x": 36.732,
+    "y": 19.606,
+    "z": 4.252
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "community",
+      "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manual",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Community measurement: 36.75 × 19.625 × 4.25 in. Width between side lips reported as 36.5 in (927 mm)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "medium",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "medium",
+  "evidence": null,
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

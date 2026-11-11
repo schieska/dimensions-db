@@ -1,0 +1,75 @@
+{
+  "id": "wurth_basic-8-8_trolley",
+  "type": "furniture",
+  "name": "BASIC 8.8 system workshop trolley",
+  "brand": "wurth",
+  "origin": null,
+  "description": "Würth BASIC 8.8 system workshop trolley with seven standard drawers and one large drawer.",
+  "translations": null,
+  "inner_size_mm": null,
+  "inner_size_in": null,
+  "outer_size_mm": {
+    "x": 880,
+    "y": 532,
+    "z": 1022
+  },
+  "outer_size_in": {
+    "x": 34.646,
+    "y": 20.945,
+    "z": 40.236
+  },
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": [
+    {
+      "ref": "wurth_basic-8-8_drawer_standard",
+      "qty": 7
+    },
+    {
+      "ref": "wurth_basic-8-8_drawer_large",
+      "qty": 1
+    }
+  ],
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://eshop.wuerth.de/BASIC-88-system-workshop-trolley-WRKSHPTRLY-BASIC-88-8DR-RAL7047/0962642082.sku/en/US/EUR/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Outer dimensions and drawer counts from Würth eShop product page."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "0962642082"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

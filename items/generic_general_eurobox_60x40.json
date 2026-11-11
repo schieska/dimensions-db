@@ -1,0 +1,69 @@
+{
+  "id": "generic_general_eurobox_60x40",
+  "type": "container",
+  "name": "EuroBox 60×40",
+  "brand": "generic",
+  "origin": null,
+  "description": "Standard Euro footprint container (plan dimensions from Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 570,
+    "y": 370,
+    "z": 570
+  },
+  "inner_size_in": {
+    "x": 22.441,
+    "y": 14.567,
+    "z": 22.441
+  },
+  "outer_size_mm": {
+    "x": 600,
+    "y": 400,
+    "z": 600
+  },
+  "outer_size_in": {
+    "x": 23.622,
+    "y": 15.748,
+    "z": 23.622
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "inner/outer X and Y from data.json (cm→mm); Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Source gives plan-view inner_x/inner_y and outer_x/outer_y only; z matches max horizontal extent for valid bbox."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

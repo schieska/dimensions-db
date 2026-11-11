@@ -1,0 +1,62 @@
+{
+  "id": "bisley_multidrawer_drawer_a4_47",
+  "type": "drawer",
+  "name": "MultiDrawer A4 drawer, 47 mm",
+  "brand": "bisley",
+  "origin": null,
+  "description": "Shared A4 MultiDrawer interior (234 × 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 234,
+    "y": 375,
+    "z": 47
+  },
+  "inner_size_in": {
+    "x": 9.213,
+    "y": 14.764,
+    "z": 1.85
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-5-drawer"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Medium drawer height used across Bisley 12/29/39 Series MultiDrawers (official shop specs)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 3,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

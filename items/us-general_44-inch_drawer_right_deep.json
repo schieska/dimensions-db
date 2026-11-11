@@ -1,0 +1,62 @@
+{
+  "id": "us-general_44-inch_drawer_right_deep",
+  "type": "drawer",
+  "name": "44″ double-bank roller cabinet, bottom-right deep drawer",
+  "brand": "us-general",
+  "origin": null,
+  "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 311,
+    "y": 498,
+    "z": 140
+  },
+  "inner_size_in": {
+    "x": 12.244,
+    "y": 19.606,
+    "z": 5.512
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": [
+    "steel"
+  ],
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "community",
+      "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manual",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Community measurement: 12.25 × 19.625 × 5.5 in."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 1,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "medium",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "medium",
+  "evidence": null,
+  "identifiers": null,
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

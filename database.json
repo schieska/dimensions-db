@@ -1,10 +1,1262 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-08T15:57:31.179Z",
+  "generated_at": "2026-11-11T13:29:33.348Z",
   "items": [
     {
-      "id": "ikea_micke_drawer_white",
+      "id": "wurth_pro-8-4_trolley",
+      "type": "furniture",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley",
+      "brand": "wurth",
+      "origin": null,
+      "description": "Würth PRO/ULTIMATE 8.4 system workshop trolley. The 7 standard + 1 large drawer mix is specific to equipped listing 0962612056 (ULTIMATE 8.4 built on PRO 8.4); other PRO 8.4 SKUs may differ.",
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 684,
+        "y": 406,
+        "z": 1060
+      },
+      "outer_size_in": {
+        "x": 26.929,
+        "y": 15.984,
+        "z": 41.732
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "wurth_pro-8-4_drawer_standard",
+          "qty": 7
+        },
+        {
+          "ref": "wurth_pro-8-4_drawer_large",
+          "qty": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer dimensions from Würth eShop 0962612056. Drawer mix (7× standard + 1× large) is specific to this equipped listing."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "0962612056"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "wurth_pro-8-4_drawer_standard",
       "type": "drawer",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley, standard drawer",
+      "brand": "wurth",
+      "origin": null,
+      "description": "Standard drawer for Würth PRO/ULTIMATE 8.4 system workshop trolley. Nested inside wurth_pro-8-4_trolley. Interior depth recorded as 336 mm from listing 0962612037 (466 × 336 × 69); listing 0962612056 prints 366 mm for the same drawer plan, treated as a typo.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 466,
+        "y": 336,
+        "z": 69
+      },
+      "inner_size_in": {
+        "x": 18.346,
+        "y": 13.228,
+        "z": 2.717
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/System-Werkstattwagen-Pro-84-bestueckt-WRKSTWG-PRO-84-6SL-BESTUECKT-R9017/0962612037.sku/de/DE/EUR/",
+          "note": "Lists standard drawer as B 466 × T 336 × H 69 mm."
+        },
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/",
+          "note": "Conflicting listing: prints standard drawer depth as 366 mm; treated as a typo."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Adopted 466 × 336 × 69 mm from Würth 0962612037. Listing 0962612056 prints 466 × 366 × 69 mm for the standard drawer; 366 is very likely a typo (8.4 insert inside is about 462.5 × 335)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "wurth_pro-8-4_drawer_large",
+      "type": "drawer",
+      "name": "PRO/ULTIMATE 8.4 system workshop trolley, large drawer",
+      "brand": "wurth",
+      "origin": null,
+      "description": "Large drawer for Würth PRO/ULTIMATE 8.4 system workshop trolley. Nested inside wurth_pro-8-4_trolley. Depth 336 mm as printed on listing 0962612056 (same plan depth as the corrected standard drawer).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 466,
+        "y": 336,
+        "z": 149
+      },
+      "inner_size_in": {
+        "x": 18.346,
+        "y": 13.228,
+        "z": 5.866
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Würth eShop 0962612056: 1 Schublade, B 466 × T 336 × H 149 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "wurth_basic-8-8_trolley",
+      "type": "furniture",
+      "name": "BASIC 8.8 system workshop trolley",
+      "brand": "wurth",
+      "origin": null,
+      "description": "Würth BASIC 8.8 system workshop trolley with seven standard drawers and one large drawer.",
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 880,
+        "y": 532,
+        "z": 1022
+      },
+      "outer_size_in": {
+        "x": 34.646,
+        "y": 20.945,
+        "z": 40.236
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "wurth_basic-8-8_drawer_standard",
+          "qty": 7
+        },
+        {
+          "ref": "wurth_basic-8-8_drawer_large",
+          "qty": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/BASIC-88-system-workshop-trolley-WRKSHPTRLY-BASIC-88-8DR-RAL7047/0962642082.sku/en/US/EUR/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer dimensions and drawer counts from Würth eShop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "0962642082"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "wurth_basic-8-8_drawer_standard",
+      "type": "drawer",
+      "name": "BASIC 8.8 system workshop trolley, standard drawer",
+      "brand": "wurth",
+      "origin": null,
+      "description": "Standard drawer for Würth BASIC 8.8 system workshop trolley. Nested inside wurth_basic-8-8_trolley.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 674,
+        "y": 463,
+        "z": 71
+      },
+      "inner_size_in": {
+        "x": 26.535,
+        "y": 18.228,
+        "z": 2.795
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/BASIC-88-system-workshop-trolley-WRKSHPTRLY-BASIC-88-8DR-RAL7047/0962642082.sku/en/US/EUR/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Würth eShop drawer design: W 674 × D 463 × H 71 mm (labelled alongside internal system dimensions 8.8)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "wurth_basic-8-8_drawer_large",
+      "type": "drawer",
+      "name": "BASIC 8.8 system workshop trolley, large drawer",
+      "brand": "wurth",
+      "origin": null,
+      "description": "Large drawer for Würth BASIC 8.8 system workshop trolley. Nested inside wurth_basic-8-8_trolley.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 674,
+        "y": 463,
+        "z": 156
+      },
+      "inner_size_in": {
+        "x": 26.535,
+        "y": 18.228,
+        "z": 6.142
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://eshop.wuerth.de/BASIC-88-system-workshop-trolley-WRKSHPTRLY-BASIC-88-8DR-RAL7047/0962642082.sku/en/US/EUR/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Würth eShop drawer design: W 674 × D 463 × H 156 mm (labelled alongside internal system dimensions 8.8)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "us-general_44-inch_roller_cabinet",
+      "type": "furniture",
+      "name": "44″ double-bank roller cabinet",
+      "brand": "us-general",
+      "origin": null,
+      "description": "Harbor Freight U.S. General 44″ double-bank roller cabinet. Outer size measured by the source author (42″ excl. handle × 22″ × 39″).",
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 1067,
+        "y": 559,
+        "z": 991
+      },
+      "outer_size_in": {
+        "x": 42.008,
+        "y": 22.008,
+        "z": 39.016
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "us-general_44-inch_drawer_top",
+          "qty": 1
+        },
+        {
+          "ref": "us-general_44-inch_drawer_left_shallow",
+          "qty": 5
+        },
+        {
+          "ref": "us-general_44-inch_drawer_right_shallow",
+          "qty": 5
+        },
+        {
+          "ref": "us-general_44-inch_drawer_left_deep",
+          "qty": 1
+        },
+        {
+          "ref": "us-general_44-inch_drawer_right_deep",
+          "qty": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community",
+          "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manual",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet measured by Maintenance Blog author; drawer counts from the same write-up."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": {
+        "sku": [
+          {
+            "value": "64281",
+            "system": "harbor-freight",
+            "region": "US"
+          },
+          {
+            "value": "64133",
+            "system": "harbor-freight",
+            "region": "US"
+          },
+          {
+            "value": "64134",
+            "system": "harbor-freight",
+            "region": "US"
+          }
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "us-general_44-inch_drawer_top",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, top drawer",
+      "brand": "us-general",
+      "origin": null,
+      "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 933,
+        "y": 498,
+        "z": 108
+      },
+      "inner_size_in": {
+        "x": 36.732,
+        "y": 19.606,
+        "z": 4.252
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "community",
+          "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manual",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Community measurement: 36.75 × 19.625 × 4.25 in. Width between side lips reported as 36.5 in (927 mm)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "us-general_44-inch_drawer_right_shallow",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, right shallow drawer",
+      "brand": "us-general",
+      "origin": null,
+      "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 311,
+        "y": 498,
+        "z": 57
+      },
+      "inner_size_in": {
+        "x": 12.244,
+        "y": 19.606,
+        "z": 2.244
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "community",
+          "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manual",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Community measurement: 12.25 × 19.625 × 2.25 in. Width between lips reported as 12 in (305 mm)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "us-general_44-inch_drawer_right_deep",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, bottom-right deep drawer",
+      "brand": "us-general",
+      "origin": null,
+      "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 311,
+        "y": 498,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 12.244,
+        "y": 19.606,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "community",
+          "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manual",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Community measurement: 12.25 × 19.625 × 5.5 in."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "us-general_44-inch_drawer_left_shallow",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, left shallow drawer",
+      "brand": "us-general",
+      "origin": null,
+      "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 565,
+        "y": 498,
+        "z": 57
+      },
+      "inner_size_in": {
+        "x": 22.244,
+        "y": 19.606,
+        "z": 2.244
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "community",
+          "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manual",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Community measurement: 22.25 × 19.625 × 2.25 in. Width between lips reported as 22 in (559 mm)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "us-general_44-inch_drawer_left_deep",
+      "type": "drawer",
+      "name": "44″ double-bank roller cabinet, bottom-left deep drawer",
+      "brand": "us-general",
+      "origin": null,
+      "description": "Drawer interior for Harbor Freight U.S. General 44″ double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 565,
+        "y": 498,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 22.244,
+        "y": 19.606,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "community",
+          "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manual",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Community measurement: 22.25 × 19.625 × 5.5 in."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "medium",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "test_nesting_modular_storage_unit",
+      "type": "furniture",
+      "name": "Test modular storage unit (nested parts)",
+      "brand": "test",
+      "origin": null,
+      "description": "Fixture parent: bundles two small bins and one medium bin via parts[].refs for hierarchy testing.",
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 340,
+        "y": 420,
+        "z": 920
+      },
+      "outer_size_in": {
+        "x": 13.386,
+        "y": 16.535,
+        "z": 36.22
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": [
+        {
+          "ref": "test_nesting_modular_bin_small",
+          "qty": 2
+        },
+        {
+          "ref": "test_nesting_modular_bin_medium",
+          "qty": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "other",
+          "url": "https://example.org/dimensions-db-test-fixtures/modular-storage-unit",
+          "note": "Synthetic assembly for nested product tests."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:test-fixtures",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Outer shell only; child bins listed in parts."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "draft",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "test_nesting_modular_bin_small",
+      "type": "container",
+      "name": "Test modular bin (small)",
+      "brand": "test",
+      "origin": null,
+      "description": "Fixture: smallest tray in the nested test hierarchy.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 200,
+        "y": 150,
+        "z": 100
+      },
+      "inner_size_in": {
+        "x": 7.874,
+        "y": 5.906,
+        "z": 3.937
+      },
+      "outer_size_mm": {
+        "x": 220,
+        "y": 170,
+        "z": 110
+      },
+      "outer_size_in": {
+        "x": 8.661,
+        "y": 6.693,
+        "z": 4.331
+      },
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "other",
+          "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-small",
+          "note": "Synthetic dimensions for automated and manual UI tests."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:test-fixtures",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Not measured; placeholder geometry for nesting tests."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": null,
+      "status": "draft",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "test_nesting_modular_bin_medium",
+      "type": "container",
+      "name": "Test modular bin (medium)",
+      "brand": "test",
+      "origin": null,
+      "description": "Fixture: medium tray used beside two small bins in the parent unit.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 300,
+        "y": 200,
+        "z": 120
+      },
+      "inner_size_in": {
+        "x": 11.811,
+        "y": 7.874,
+        "z": 4.724
+      },
+      "outer_size_mm": {
+        "x": 320,
+        "y": 220,
+        "z": 132
+      },
+      "outer_size_in": {
+        "x": 12.598,
+        "y": 8.661,
+        "z": 5.197
+      },
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "other",
+          "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-medium",
+          "note": "Synthetic dimensions for automated and manual UI tests."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:test-fixtures",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Not measured; placeholder geometry for nesting tests."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 1,
+      "added_by": null,
+      "status": "draft",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "type": "container",
+      "name": "RENSARE clothes bag, small",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Small RENSARE bag plan footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 248,
+        "y": 168,
+        "z": 248
+      },
+      "inner_size_in": {
+        "x": 9.764,
+        "y": 6.614,
+        "z": 9.764
+      },
+      "outer_size_mm": {
+        "x": 250,
+        "y": 170,
+        "z": 250
+      },
+      "outer_size_in": {
+        "x": 9.843,
+        "y": 6.693,
+        "z": 9.843
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": [
+        "fabric"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/rensare-kleidertasche-3-st-karos-grau-schwarz-30432502/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Flexible fabric; Z is conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "type": "container",
+      "name": "RENSARE clothes bag, large",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Large RENSARE bag plan footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 248,
+        "y": 338,
+        "z": 338
+      },
+      "inner_size_in": {
+        "x": 9.764,
+        "y": 13.307,
+        "z": 13.307
+      },
+      "outer_size_mm": {
+        "x": 250,
+        "y": 340,
+        "z": 340
+      },
+      "outer_size_in": {
+        "x": 9.843,
+        "y": 13.386,
+        "z": 13.386
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": [
+        "fabric"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/rensare-kleidertasche-3-st-karos-grau-schwarz-30432502/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Flexible fabric; Z is conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "type": "container",
+      "name": "PAPPIS box with lid",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA PAPPIS cardboard box footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 335,
+        "y": 250,
+        "z": 335
+      },
+      "inner_size_in": {
+        "x": 13.189,
+        "y": 9.843,
+        "z": 13.189
+      },
+      "outer_size_mm": {
+        "x": 340,
+        "y": 260,
+        "z": 340
+      },
+      "outer_size_in": {
+        "x": 13.386,
+        "y": 10.236,
+        "z": 13.386
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": [
+        "cardboard"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/pappis-box-mit-deckel-braun-00100467/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Height with lid may differ; Z is conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_micke_drawer_white",
+      "type": "component",
       "name": "MICKE Drawer, white",
       "brand": "ikea",
       "origin": null,
@@ -41,6 +1293,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": null,
       "variant_of": null,
       "variant": null,
@@ -101,6 +1357,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {
         "mpn": [
           "902.130.78"
@@ -117,6 +1377,372 @@
       "deprecated": null,
       "replaced_by": null,
       "updated_at": null
+    },
+    {
+      "id": "ikea_kallax_drawer_insert_compartment",
+      "type": "drawer",
+      "name": "KALLAX insert with 2 drawers (drawer compartment)",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Single drawer cavity plan footprint inside KALLAX drawer insert (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 305,
+        "y": 275,
+        "z": 305
+      },
+      "inner_size_in": {
+        "x": 12.008,
+        "y": 10.827,
+        "z": 12.008
+      },
+      "outer_size_mm": {
+        "x": 410,
+        "y": 390,
+        "z": 410
+      },
+      "outer_size_in": {
+        "x": 16.142,
+        "y": 15.354,
+        "z": 16.142
+      },
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/kallax-einsatz-mit-2-schubladen-weiss-70286645/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Inner drawer XY from data.json; outer is insert outer XY; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Outer box pairs KALLAX cube outer from same dataset."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_kallax_cube_1x1",
+      "type": "furniture",
+      "name": "KALLAX shelving unit 1×1 cube",
+      "brand": "ikea",
+      "origin": null,
+      "description": "KALLAX single cube opening footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 335,
+        "y": 390,
+        "z": 390
+      },
+      "inner_size_in": {
+        "x": 13.189,
+        "y": 15.354,
+        "z": 15.354
+      },
+      "outer_size_mm": {
+        "x": 410,
+        "y": 390,
+        "z": 410
+      },
+      "outer_size_in": {
+        "x": 16.142,
+        "y": 15.354,
+        "z": 16.142
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/kallax-regal-weiss-90301555/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Z axis conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x50",
+      "type": "furniture",
+      "name": "IVAR shelf section 80×50 cm",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IVAR shelf compartment plan footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 800,
+        "y": 500,
+        "z": 800
+      },
+      "inner_size_in": {
+        "x": 31.496,
+        "y": 19.685,
+        "z": 31.496
+      },
+      "outer_size_mm": {
+        "x": 890,
+        "y": 500,
+        "z": 890
+      },
+      "outer_size_in": {
+        "x": 35.039,
+        "y": 19.685,
+        "z": 35.039
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/ivar-1-elem-boeden-kiefer-s59248320/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Vertical clearance between shelves not in source."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x50_extended",
+      "type": "furniture",
+      "name": "IVAR shelf section 80×50 cm (extended depth)",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IVAR shelf with extended compartment depth for Euro boxes (orglikea tip; Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 800,
+        "y": 600,
+        "z": 800
+      },
+      "inner_size_in": {
+        "x": 31.496,
+        "y": 23.622,
+        "z": 31.496
+      },
+      "outer_size_mm": {
+        "x": 890,
+        "y": 600,
+        "z": 890
+      },
+      "outer_size_in": {
+        "x": 35.039,
+        "y": 23.622,
+        "z": 35.039
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "other",
+          "url": "https://orglikea.pro/articles/tipps/#ikea-ivar-80x50-for-euroboxes",
+          "note": "Community sizing article."
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Z axis conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_ivar_shelf_80x30",
+      "type": "furniture",
+      "name": "IVAR shelf section 80×30 cm",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IVAR shelf compartment plan footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 800,
+        "y": 300,
+        "z": 800
+      },
+      "inner_size_in": {
+        "x": 31.496,
+        "y": 11.811,
+        "z": 31.496
+      },
+      "outer_size_mm": {
+        "x": 890,
+        "y": 300,
+        "z": 890
+      },
+      "outer_size_in": {
+        "x": 35.039,
+        "y": 11.811,
+        "z": 35.039
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/ivar-regal-kiefer-s49248311/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Vertical clearance between shelves not in source."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
     },
     {
       "id": "ikea_helmer_drawer_unit_black",
@@ -170,6 +1796,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {
         "mpn": [
           "203.419.70"
@@ -234,6 +1864,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": null,
       "variant_of": null,
       "variant": null,
@@ -244,7 +1878,7 @@
     },
     {
       "id": "ikea_friidrott_drawer_white",
-      "type": "drawer",
+      "type": "component",
       "name": "FRIIDROTT Drawer, white",
       "brand": "ikea",
       "origin": null,
@@ -281,6 +1915,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": null,
       "variant_of": null,
       "variant": null,
@@ -341,6 +1979,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {
         "mpn": [
           "606.090.71"
@@ -357,6 +1999,152 @@
       "deprecated": null,
       "replaced_by": null,
       "updated_at": null
+    },
+    {
+      "id": "ikea_eket_cabinet_1x1",
+      "type": "furniture",
+      "name": "EKET cabinet 35×25 cm",
+      "brand": "ikea",
+      "origin": null,
+      "description": "EKET 1×1 cube compartment footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 310,
+        "y": 230,
+        "z": 310
+      },
+      "inner_size_in": {
+        "x": 12.205,
+        "y": 9.055,
+        "z": 12.205
+      },
+      "outer_size_mm": {
+        "x": 350,
+        "y": 250,
+        "z": 350
+      },
+      "outer_size_in": {
+        "x": 13.78,
+        "y": 9.843,
+        "z": 13.78
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/eket-schrank-weiss-70332124/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Z axis conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_billy_bookcase_compartment",
+      "type": "furniture",
+      "name": "BILLY bookcase shelf compartment",
+      "brand": "ikea",
+      "origin": null,
+      "description": "BILLY shelf opening plan footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 760,
+        "y": 270,
+        "z": 760
+      },
+      "inner_size_in": {
+        "x": 29.921,
+        "y": 10.63,
+        "z": 29.921
+      },
+      "outer_size_mm": {
+        "x": 800,
+        "y": 300,
+        "z": 800
+      },
+      "outer_size_in": {
+        "x": 31.496,
+        "y": 11.811,
+        "z": 31.496
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/us/en/p/billy-bookcase-white-00263850/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Adjustable shelf spacing not reflected."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
     },
     {
       "id": "ikea_alex_storage_unit_white",
@@ -418,6 +2206,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {
         "mpn": [
           "505.637.52"
@@ -482,6 +2274,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": null,
       "variant_of": null,
       "variant": null,
@@ -496,7 +2292,7 @@
       "name": "ALEX Drawer unit on castors, white",
       "brand": "ikea",
       "origin": null,
-      "description": null,
+      "description": "ALEX cabinet on castors: outer unit with three wide drawers as nested components. Children are linked via parts — 3× ikea_alex_drawer_castors_white.",
       "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
@@ -542,6 +2338,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {
         "mpn": [
           "804.854.23"
@@ -565,7 +2365,7 @@
       "name": "ALEX Drawer unit, white",
       "brand": "ikea",
       "origin": null,
-      "description": "A clean look that’s easy to like and mix with other styles, either supporting a desk or standing alone. Includes 2 small and 3 large drawers.",
+      "description": "ALEX cabinet (drawer unit): outer shell with five drawers as nested components. Children are linked via parts — 2× ikea_alex_drawer_small_white and 3× ikea_alex_drawer_large_white — so tools can resolve the full hierarchy from this record.",
       "translations": null,
       "inner_size_mm": null,
       "inner_size_in": null,
@@ -616,6 +2416,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {
         "mpn": [
           "594.222.20",
@@ -637,7 +2441,7 @@
       "name": "ALEX Drawer (Small), white",
       "brand": "ikea",
       "origin": null,
-      "description": "Small/shallow drawer for the ALEX unit.",
+      "description": "Small/shallow drawer for the ALEX unit. Nested inside ikea_alex_drawer_unit_5_white (parent lists this id in parts with qty 2).",
       "translations": null,
       "inner_size_mm": {
         "x": 292,
@@ -687,6 +2491,10 @@
       "added_by": null,
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {},
       "variant_of": null,
       "variant": null,
@@ -701,7 +2509,7 @@
       "name": "ALEX Drawer (Large), white",
       "brand": "ikea",
       "origin": null,
-      "description": "Large drawer for the ALEX unit.",
+      "description": "Large drawer for the ALEX unit. Nested inside ikea_alex_drawer_unit_5_white (parent lists this id in parts with qty 3).",
       "translations": null,
       "inner_size_mm": {
         "x": 292,
@@ -751,6 +2559,10 @@
       "added_by": null,
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": {},
       "variant_of": null,
       "variant": null,
@@ -760,12 +2572,85 @@
       "updated_at": null
     },
     {
+      "id": "ikea_alex_drawer_insert_compartment_plan",
+      "type": "drawer",
+      "name": "ALEX drawer insert compartment (plan footprint)",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Plan footprint from Box Compatibility for ALEX drawer cavity sizing. Distinct from full ALEX drawer SKUs in this repo.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 525,
+        "y": 297,
+        "z": 525
+      },
+      "inner_size_in": {
+        "x": 20.669,
+        "y": 11.693,
+        "z": 20.669
+      },
+      "outer_size_mm": {
+        "x": 580,
+        "y": 360,
+        "z": 580
+      },
+      "outer_size_in": {
+        "x": 22.835,
+        "y": 14.173,
+        "z": 22.835
+      },
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/de/de/p/alex-schubladenelement-weiss-00473546/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Compare with ikea_alex_drawer_large_white for full 3D manufacturer-style dims."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
       "id": "ikea_alex_drawer_castors_white",
       "type": "drawer",
       "name": "ALEX Drawer (for unit on castors), white",
       "brand": "ikea",
       "origin": null,
-      "description": null,
+      "description": "Wide drawer for ALEX on castors. Nested inside ikea_alex_drawer_unit_castors_white (parent lists this id in parts with qty 3).",
       "translations": null,
       "inner_size_mm": {
         "x": 600,
@@ -814,6 +2699,10 @@
       "added_by": "gh:schieska",
       "status": null,
       "accuracy": null,
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
       "identifiers": null,
       "variant_of": null,
       "variant": null,
@@ -821,6 +2710,1584 @@
       "deprecated": null,
       "replaced_by": null,
       "updated_at": null
+    },
+    {
+      "id": "generic_general_systainer_footprint",
+      "type": "container",
+      "name": "Systainer (generic footprint)",
+      "brand": "generic",
+      "origin": null,
+      "description": "Representative Systainer plan footprint from Box Compatibility.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 356,
+        "y": 262,
+        "z": 356
+      },
+      "inner_size_in": {
+        "x": 14.016,
+        "y": 10.315,
+        "z": 14.016
+      },
+      "outer_size_mm": {
+        "x": 395,
+        "y": 295,
+        "z": 395
+      },
+      "outer_size_in": {
+        "x": 15.551,
+        "y": 11.614,
+        "z": 15.551
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://systainer.com/"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Systainer heights vary by model; Z is conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "generic_general_orgpro_cell",
+      "type": "container",
+      "name": "OrgPro cell",
+      "brand": "generic",
+      "origin": null,
+      "description": "OrgLikea OrgPro modular cell footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 169,
+        "y": 124,
+        "z": 169
+      },
+      "inner_size_in": {
+        "x": 6.654,
+        "y": 4.882,
+        "z": 6.654
+      },
+      "outer_size_mm": {
+        "x": 180,
+        "y": 130,
+        "z": 180
+      },
+      "outer_size_in": {
+        "x": 7.087,
+        "y": 5.118,
+        "z": 7.087
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://orglikea.pro"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Z axis conventional; verify before CAD."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "generic_general_gridfinity_base_unit",
+      "type": "container",
+      "name": "Gridfinity base unit (1×1)",
+      "brand": "generic",
+      "origin": null,
+      "description": "Single Gridfinity base cell footprint from Box Compatibility dataset.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 40,
+        "y": 40,
+        "z": 40
+      },
+      "inner_size_in": {
+        "x": 1.575,
+        "y": 1.575,
+        "z": 1.575
+      },
+      "outer_size_mm": {
+        "x": 41,
+        "y": 41,
+        "z": 41
+      },
+      "outer_size_in": {
+        "x": 1.614,
+        "y": 1.614,
+        "z": 1.614
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://gridfinity.xyz"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Real Gridfinity stack height varies by bin; XY are the listed cell sizes."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "generic_general_eurobox_60x40",
+      "type": "container",
+      "name": "EuroBox 60×40",
+      "brand": "generic",
+      "origin": null,
+      "description": "Standard Euro footprint container (plan dimensions from Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 570,
+        "y": 370,
+        "z": 570
+      },
+      "inner_size_in": {
+        "x": 22.441,
+        "y": 14.567,
+        "z": 22.441
+      },
+      "outer_size_mm": {
+        "x": 600,
+        "y": 400,
+        "z": 600
+      },
+      "outer_size_in": {
+        "x": 23.622,
+        "y": 15.748,
+        "z": 23.622
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "inner/outer X and Y from data.json (cm→mm); Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Source gives plan-view inner_x/inner_y and outer_x/outer_y only; z matches max horizontal extent for valid bbox."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "generic_general_eurobox_40x30",
+      "type": "container",
+      "name": "Eurobox 40×30",
+      "brand": "generic",
+      "origin": null,
+      "description": "Smaller Euro footprint container (plan dimensions from Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 370,
+        "y": 270,
+        "z": 370
+      },
+      "inner_size_in": {
+        "x": 14.567,
+        "y": 10.63,
+        "z": 14.567
+      },
+      "outer_size_mm": {
+        "x": 400,
+        "y": 300,
+        "z": 400
+      },
+      "outer_size_in": {
+        "x": 15.748,
+        "y": 11.811,
+        "z": 15.748
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "inner/outer X and Y from data.json (cm→mm); Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Source gives plan-view inner_x/inner_y and outer_x/outer_y only; z matches max horizontal extent for valid bbox."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_9",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 9 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 349,
+        "y": 432,
+        "z": 940
+      },
+      "outer_size_in": {
+        "x": 13.74,
+        "y": 17.008,
+        "z": 37.008
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a3_83",
+          "qty": 9
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-9-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "114SPM"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_6",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 6 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 349,
+        "y": 432,
+        "z": 670
+      },
+      "outer_size_in": {
+        "x": 13.74,
+        "y": 17.008,
+        "z": 26.378
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a3_83",
+          "qty": 6
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-6-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "112SPM"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_15",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 15 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 349,
+        "y": 432,
+        "z": 940
+      },
+      "outer_size_in": {
+        "x": 13.74,
+        "y": 17.008,
+        "z": 37.008
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a3_47",
+          "qty": 15
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-15-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "118SPM"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_a3_10",
+      "type": "furniture",
+      "name": "A3 Series MultiDrawer, 10 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 349,
+        "y": 432,
+        "z": 670
+      },
+      "outer_size_in": {
+        "x": 13.74,
+        "y": 17.008,
+        "z": 26.378
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a3_47",
+          "qty": 10
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-10-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "116SPM"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_39_series_9",
+      "type": "furniture",
+      "name": "39 Series MultiDrawer, 9 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 860
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 33.858
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a4_83",
+          "qty": 9
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/39-series-multidrawer-9-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H399NL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_39_series_15",
+      "type": "furniture",
+      "name": "39 Series MultiDrawer, 15 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 860
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 33.858
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a4_47",
+          "qty": 15
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/39-series-multidrawer-15-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H3915NL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_8",
+      "type": "furniture",
+      "name": "29 Series MultiDrawer, 8 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Mixed-height MultiDrawer (drawer interiors 234 × 375 × 98 / 47 / 22 mm). Per-height quantities were not sourced, so parts are omitted; see shared A4 drawer components.",
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 590
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 23.228
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-8-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H298BNL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_6",
+      "type": "furniture",
+      "name": "29 Series MultiDrawer, 6 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 590
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 23.228
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a4_83",
+          "qty": 6
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-6-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H296NL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_29_series_10",
+      "type": "furniture",
+      "name": "29 Series MultiDrawer, 10 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 590
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 23.228
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a4_47",
+          "qty": 10
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-10-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H2910NL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_12_series_5",
+      "type": "furniture",
+      "name": "12 Series MultiDrawer, 5 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 325
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 12.795
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a4_47",
+          "qty": 5
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-5-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H125NL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_unit_12_series_3",
+      "type": "furniture",
+      "name": "12 Series MultiDrawer, 3 drawer",
+      "brand": "bisley",
+      "origin": null,
+      "description": null,
+      "translations": null,
+      "inner_size_mm": null,
+      "inner_size_in": null,
+      "outer_size_mm": {
+        "x": 279,
+        "y": 380,
+        "z": 325
+      },
+      "outer_size_in": {
+        "x": 10.984,
+        "y": 14.961,
+        "z": 12.795
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": [
+        {
+          "ref": "bisley_multidrawer_drawer_a4_83",
+          "qty": 3
+        }
+      ],
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-3-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "H123NL"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_98",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 98 mm",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Shared A4 MultiDrawer interior (234 × 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 234,
+        "y": 375,
+        "z": 98
+      },
+      "inner_size_in": {
+        "x": 9.213,
+        "y": 14.764,
+        "z": 3.858
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-8-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Large drawer height from Bisley 29 Series 8-drawer (H298BNL) specification."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_83",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 83 mm",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Shared A4 MultiDrawer interior (234 × 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 234,
+        "y": 375,
+        "z": 83
+      },
+      "inner_size_in": {
+        "x": 9.213,
+        "y": 14.764,
+        "z": 3.268
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-3-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Large drawer height used across Bisley 12/29/39 Series MultiDrawers (official shop specs)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 3,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_47",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 47 mm",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Shared A4 MultiDrawer interior (234 × 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 234,
+        "y": 375,
+        "z": 47
+      },
+      "inner_size_in": {
+        "x": 9.213,
+        "y": 14.764,
+        "z": 1.85
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-5-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Medium drawer height used across Bisley 12/29/39 Series MultiDrawers (official shop specs)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 3,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a4_22",
+      "type": "drawer",
+      "name": "MultiDrawer A4 drawer, 22 mm",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Shared A4 MultiDrawer interior (234 × 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 234,
+        "y": 375,
+        "z": 22
+      },
+      "inner_size_in": {
+        "x": 9.213,
+        "y": 14.764,
+        "z": 0.866
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-8-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Small drawer height from Bisley 29 Series 8-drawer (H298BNL) specification."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a3_83",
+      "type": "drawer",
+      "name": "MultiDrawer A3 drawer, 83 mm",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Shared A3 MultiDrawer interior (305 × 430 mm plan). Nested by Bisley A3 MultiDrawer furniture units via parts.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 305,
+        "y": 430,
+        "z": 83
+      },
+      "inner_size_in": {
+        "x": 12.008,
+        "y": 16.929,
+        "z": 3.268
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-6-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "A3 MultiDrawer large drawer height from Bisley shop specification."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 2,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "bisley_multidrawer_drawer_a3_47",
+      "type": "drawer",
+      "name": "MultiDrawer A3 drawer, 47 mm",
+      "brand": "bisley",
+      "origin": null,
+      "description": "Shared A3 MultiDrawer interior (305 × 430 mm plan). Nested by Bisley A3 MultiDrawer furniture units via parts.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 305,
+        "y": 430,
+        "z": 47
+      },
+      "inner_size_in": {
+        "x": 12.008,
+        "y": 16.929,
+        "z": 1.85
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": [
+        "steel"
+      ],
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-10-drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "A3 MultiDrawer medium drawer height from Bisley shop specification."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 2,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": null,
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "allit_europlus_europlus_flex",
+      "type": "container",
+      "name": "EuroPlus Flex",
+      "brand": "allit",
+      "origin": null,
+      "description": "Allit EuroPlus Flex small-parts case footprint (Box Compatibility).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 348,
+        "y": 246,
+        "z": 348
+      },
+      "inner_size_in": {
+        "x": 13.701,
+        "y": 9.685,
+        "z": 13.701
+      },
+      "outer_size_mm": {
+        "x": 365,
+        "y": 295,
+        "z": 365
+      },
+      "outer_size_in": {
+        "x": 14.37,
+        "y": 11.614,
+        "z": 14.37
+      },
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.allit.de/en/products/diy/kleinteilekoffer/europlus-flex"
+        },
+        {
+          "kind": "other",
+          "url": "https://github.com/orglikea-pro/box-compatibility",
+          "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gl:box-compat-import",
+          "type": "initial",
+          "method": "calculated",
+          "tool": "unknown",
+          "date": "2026-05-07",
+          "notes": "Imported from Box Compatibility. Z axis conventional."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": null,
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": null,
+      "evidence": null,
+      "identifiers": {},
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-05-07"
     }
   ]
 }

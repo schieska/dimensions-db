@@ -1,0 +1,73 @@
+{
+  "id": "generic_general_orgpro_cell",
+  "type": "container",
+  "name": "OrgPro cell",
+  "brand": "generic",
+  "origin": null,
+  "description": "OrgLikea OrgPro modular cell footprint (Box Compatibility).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 169,
+    "y": 124,
+    "z": 169
+  },
+  "inner_size_in": {
+    "x": 6.654,
+    "y": 4.882,
+    "z": 6.654
+  },
+  "outer_size_mm": {
+    "x": 180,
+    "y": 130,
+    "z": 180
+  },
+  "outer_size_in": {
+    "x": 7.087,
+    "y": 5.118,
+    "z": 7.087
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://orglikea.pro"
+    },
+    {
+      "kind": "other",
+      "url": "https://github.com/orglikea-pro/box-compatibility",
+      "note": "Plan dimensions from data.json; Z = max(X,Y) convention."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gl:box-compat-import",
+      "type": "initial",
+      "method": "calculated",
+      "tool": "unknown",
+      "date": "2026-05-07",
+      "notes": "Imported from Box Compatibility. Z axis conventional; verify before CAD."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": null,
+  "status": "community",
+  "accuracy": "low",
+  "slug": null,
+  "verification_state": null,
+  "confidence": null,
+  "evidence": null,
+  "identifiers": {},
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-05-07"
+}

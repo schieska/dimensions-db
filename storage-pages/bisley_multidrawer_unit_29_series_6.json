@@ -1,0 +1,163 @@
+{
+  "id": "bisley_multidrawer_unit_29_series_6",
+  "slug": "bisley-multidrawer-unit-29-series-6",
+  "name": "29 Series MultiDrawer, 6 drawer",
+  "brand_id": "bisley",
+  "brand_name": "Bisley",
+  "type": "furniture",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 58,
+    "class": "partial_data",
+    "segments": {
+      "identity": 30,
+      "geometry": 20,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "compare_only",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "May support rough comparison; not sufficient for exact-fit without more verification.",
+      "Primary source kind: manufacturer."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": true,
+    "inner_dimensions": false,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "inner_size",
+    "evidence"
+  ],
+  "record": {
+    "id": "bisley_multidrawer_unit_29_series_6",
+    "type": "furniture",
+    "name": "29 Series MultiDrawer, 6 drawer",
+    "brand": "bisley",
+    "added_by": "gh:schieska",
+    "outer_size": {
+      "x": 279,
+      "y": 380,
+      "z": 590
+    },
+    "visibility": [
+      "product",
+      "standalone"
+    ],
+    "materials": [
+      "steel"
+    ],
+    "parts": [
+      {
+        "ref": "bisley_multidrawer_drawer_a4_83",
+        "qty": 6
+      }
+    ],
+    "sources": [
+      {
+        "kind": "manufacturer",
+        "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-6-drawer"
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-11-11",
+        "notes": "Outer cabinet dimensions from Bisley shop product page."
+      }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+      "mpn": [
+        "H296NL"
+      ]
+    },
+    "updated_at": "2026-11-11"
+  },
+  "similar_items": [
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "name": "ALEX Storage unit, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_small",
+      "name": "Test modular bin (small)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/test_nesting_modular_bin_small.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_medium",
+      "name": "Test modular bin (medium)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/test_nesting_modular_bin_medium.json"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "name": "RENSARE clothes bag, small",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_small.json"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "name": "RENSARE clothes bag, large",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_large.json"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "name": "PAPPIS box with lid",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_pappis_box_lidded.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bbisley_multidrawer_unit_29_series_6%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/bisley/multidrawer/unit-29-series-6.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/bisley/multidrawer/unit-29-series-6.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/bisley/multidrawer/unit-29-series-6.json"
+  }
+}

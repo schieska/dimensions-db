@@ -1,0 +1,158 @@
+{
+  "id": "test_nesting_modular_bin_medium",
+  "slug": "test-nesting-modular-bin-medium",
+  "name": "Test modular bin (medium)",
+  "brand_id": "test",
+  "brand_name": "Test Fixtures",
+  "type": "container",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 72,
+    "class": "partial_data",
+    "segments": {
+      "identity": 24,
+      "geometry": 40,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "compare_only",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "May support rough comparison; not sufficient for exact-fit without more verification.",
+      "Primary source kind: other."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": true,
+    "inner_dimensions": true,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "image_or_identifier",
+    "evidence"
+  ],
+  "record": {
+    "id": "test_nesting_modular_bin_medium",
+    "type": "container",
+    "name": "Test modular bin (medium)",
+    "description": "Fixture: medium tray used beside two small bins in the parent unit.",
+    "brand": "test",
+    "visibility": [
+      "standalone",
+      "component"
+    ],
+    "inner_size": {
+      "x": 300,
+      "y": 200,
+      "z": 120
+    },
+    "outer_size": {
+      "x": 320,
+      "y": 220,
+      "z": 132
+    },
+    "materials": [
+      "plastic"
+    ],
+    "sources": [
+      {
+        "kind": "other",
+        "url": "https://example.org/dimensions-db-test-fixtures/modular-bin-medium",
+        "note": "Synthetic dimensions for automated and manual UI tests."
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gl:test-fixtures",
+        "type": "initial",
+        "method": "calculated",
+        "tool": "unknown",
+        "date": "2026-05-07",
+        "notes": "Not measured; placeholder geometry for nesting tests."
+      }
+    ],
+    "identifiers": {},
+    "status": "draft",
+    "accuracy": "low",
+    "updated_at": "2026-05-07"
+  },
+  "similar_items": [
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "name": "ALEX Storage unit, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
+    },
+    {
+      "id": "test_nesting_modular_bin_small",
+      "name": "Test modular bin (small)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/test_nesting_modular_bin_small.json"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "name": "RENSARE clothes bag, small",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_small.json"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "name": "RENSARE clothes bag, large",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_large.json"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "name": "PAPPIS box with lid",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_pappis_box_lidded.json"
+    },
+    {
+      "id": "ikea_kallax_drawer_insert_compartment",
+      "name": "KALLAX insert with 2 drawers (drawer compartment)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_kallax_drawer_insert_compartment.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Btest_nesting_modular_bin_medium%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/test/nesting/modular-bin-medium.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/test/nesting/modular-bin-medium.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/test/nesting/modular-bin-medium.json"
+  }
+}

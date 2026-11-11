@@ -1,0 +1,162 @@
+{
+  "id": "ikea_alex_drawer_unit_castors_white",
+  "slug": "ikea-alex-drawer-unit-castors-white",
+  "name": "ALEX Drawer unit on castors, white",
+  "brand_id": "ikea",
+  "brand_name": "IKEA",
+  "type": "furniture",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 58,
+    "class": "partial_data",
+    "segments": {
+      "identity": 30,
+      "geometry": 20,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "compare_only",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "May support rough comparison; not sufficient for exact-fit without more verification.",
+      "Primary source kind: manufacturer."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": true,
+    "outer_dimensions": true,
+    "inner_dimensions": false,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "inner_size",
+    "evidence"
+  ],
+  "record": {
+    "id": "ikea_alex_drawer_unit_castors_white",
+    "type": "furniture",
+    "name": "ALEX Drawer unit on castors, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "ALEX cabinet on castors: outer unit with three wide drawers as nested components. Children are linked via parts — 3× ikea_alex_drawer_castors_white.",
+    "outer_size": {
+      "x": 670,
+      "y": 480,
+      "z": 660
+    },
+    "visibility": [
+      "product",
+      "standalone"
+    ],
+    "parts": [
+      {
+        "ref": "ikea_alex_drawer_castors_white",
+        "qty": 3
+      }
+    ],
+    "sources": [
+      {
+        "kind": "manufacturer",
+        "url": "https://www.ikea.com/nl/en/p/alex-drawer-unit-on-castors-white-80485423/"
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-02-06"
+      }
+    ],
+    "identifiers": {
+      "mpn": [
+        "804.854.23"
+      ]
+    },
+    "images": [
+      {
+        "kind": "product",
+        "url": "https://www.ikea.com/nl/en/images/products/alex-drawer-unit-on-castors-white__0977785_pe813769_s5.jpg"
+      }
+    ]
+  },
+  "similar_items": [
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "name": "ALEX Storage unit, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
+    },
+    {
+      "id": "ikea_rensare_bag_small",
+      "name": "RENSARE clothes bag, small",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_small.json"
+    },
+    {
+      "id": "ikea_rensare_bag_large",
+      "name": "RENSARE clothes bag, large",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_rensare_bag_large.json"
+    },
+    {
+      "id": "ikea_pappis_box_lidded",
+      "name": "PAPPIS box with lid",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_pappis_box_lidded.json"
+    },
+    {
+      "id": "ikea_kallax_drawer_insert_compartment",
+      "name": "KALLAX insert with 2 drawers (drawer compartment)",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_kallax_drawer_insert_compartment.json"
+    },
+    {
+      "id": "ikea_kallax_cube_1x1",
+      "name": "KALLAX shelving unit 1×1 cube",
+      "in_open_database": true,
+      "completeness_score": 72,
+      "fit_readiness": "compare_only",
+      "page_path": "storage-pages/ikea_kallax_cube_1x1.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_alex_drawer_unit_castors_white%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/alex/drawer-unit-castors-white.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/alex/drawer-unit-castors-white.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/ikea/alex/drawer-unit-castors-white.json"
+  }
+}
