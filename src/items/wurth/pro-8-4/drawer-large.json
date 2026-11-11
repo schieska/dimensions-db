@@ -1,0 +1,41 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "wurth_pro-8-4_drawer_large",
+    "type": "drawer",
+    "name": "PRO/ULTIMATE 8.4 system workshop trolley, large drawer",
+    "brand": "wurth",
+    "added_by": "gh:schieska",
+    "description": "Large drawer for Würth PRO/ULTIMATE 8.4 system workshop trolley. Nested inside wurth_pro-8-4_trolley. Depth 336 mm as printed on the eShop page (differs from the standard drawer depth of 366 mm on the same page).",
+    "inner_size": {
+        "x": 466,
+        "y": 336,
+        "z": 149
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Würth eShop: 1 Schublade, B 466 × T 336 × H 149 mm. Depth 336 vs 366 on the same page may be a typo; recorded as printed."
+        }
+    ],
+    "accuracy": "medium",
+    "confidence": "medium",
+    "status": "community",
+    "updated_at": "2026-11-11"
+}

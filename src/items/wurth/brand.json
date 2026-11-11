@@ -1,0 +1,12 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "wurth",
+    "name": "Würth",
+    "website": "https://www.wuerth.com",
+    "country": "DE",
+    "type": "manufacturer",
+    "identifier_types": [
+        "mpn",
+        "sku"
+    ]
+}

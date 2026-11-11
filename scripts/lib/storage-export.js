@@ -103,8 +103,8 @@ function buildChecklist(record, comp, sourceLayer) {
         product_identity: !!(record.name && record.brand && record.type),
         official_product_source: hasCanonicalSource(record),
         image: hasImage(record),
-        outer_dimensions: isPlainBoxSize(record.outer_size),
-        inner_dimensions: isPlainBoxSize(record.inner_size),
+        outer_dimensions: Boolean(isPlainBoxSize(record.outer_size)),
+        inner_dimensions: Boolean(isPlainBoxSize(record.inner_size)),
         measurement_evidence: hasMeasurements,
         verification:
             record.status === 'verified' ||
@@ -238,8 +238,8 @@ function buildCardAndPage(params) {
         completeness_score: comp.score,
         completeness_class: comp.completeness_class,
         fit_readiness: comp.fit_readiness,
-        has_outer_size: isPlainBoxSize(record.outer_size),
-        has_inner_size: isPlainBoxSize(record.inner_size),
+        has_outer_size: Boolean(isPlainBoxSize(record.outer_size)),
+        has_inner_size: Boolean(isPlainBoxSize(record.inner_size)),
         image: primaryImage,
         page_path: pagePath,
         badges: comp.badges,

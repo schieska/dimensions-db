@@ -1,0 +1,51 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "bisley_multidrawer_unit_29_series_6",
+    "type": "furniture",
+    "name": "29 Series MultiDrawer, 6 drawer",
+    "brand": "bisley",
+    "added_by": "gh:schieska",
+    "outer_size": {
+        "x": 279,
+        "y": 380,
+        "z": 590
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "parts": [
+        {
+            "ref": "bisley_multidrawer_drawer_a4_83",
+            "qty": 6
+        }
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-6-drawer"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "H296NL"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

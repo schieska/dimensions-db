@@ -1,0 +1,41 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "bisley_multidrawer_drawer_a4_47",
+    "type": "drawer",
+    "name": "MultiDrawer A4 drawer, 47 mm",
+    "brand": "bisley",
+    "added_by": "gh:schieska",
+    "description": "Shared A4 MultiDrawer interior (234 \u00d7 375 mm plan). Nested by Bisley MultiDrawer furniture units via parts.",
+    "inner_size": {
+        "x": 234,
+        "y": 375,
+        "z": 47
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.bisleydirect.co.uk/products/12-series-multidrawer-5-drawer"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Medium drawer height used across Bisley 12/29/39 Series MultiDrawers (official shop specs)."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "updated_at": "2026-11-11"
+}

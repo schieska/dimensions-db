@@ -1,0 +1,41 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "bisley_multidrawer_drawer_a3_47",
+    "type": "drawer",
+    "name": "MultiDrawer A3 drawer, 47 mm",
+    "brand": "bisley",
+    "added_by": "gh:schieska",
+    "description": "Shared A3 MultiDrawer interior (305 × 430 mm plan). Nested by Bisley A3 MultiDrawer furniture units via parts.",
+    "inner_size": {
+        "x": 305,
+        "y": 430,
+        "z": 47
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.bisleydirect.co.uk/products/a3-series-multidrawer-10-drawer"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "A3 MultiDrawer medium drawer height from Bisley shop specification."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "updated_at": "2026-11-11"
+}

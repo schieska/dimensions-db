@@ -1,0 +1,46 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "bisley_multidrawer_unit_29_series_8",
+    "type": "furniture",
+    "name": "29 Series MultiDrawer, 8 drawer",
+    "brand": "bisley",
+    "added_by": "gh:schieska",
+    "description": "Mixed-height MultiDrawer (drawer interiors 234 × 375 × 98 / 47 / 22 mm). Per-height quantities were not sourced, so parts are omitted; see shared A4 drawer components.",
+    "outer_size": {
+        "x": 279,
+        "y": 380,
+        "z": 590
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.bisleydirect.co.uk/products/29-series-multidrawer-8-drawer"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Outer cabinet dimensions from Bisley shop product page."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "H298BNL"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}
