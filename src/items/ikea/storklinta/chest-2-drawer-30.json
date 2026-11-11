@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_storklinta_chest_2_drawer_30",
+    "type": "drawer",
+    "name": "STORKLINTA Chest of 2 drawers cavity, white 30×50",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside STORKLINTA chest of 2 drawers, 30×50×53 cm.",
+    "inner_size": {
+        "x": 210,
+        "y": 400,
+        "z": 160
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/storklinta-chest-of-2-drawers-white-70632387/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 210×400×160 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "706.323.87"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

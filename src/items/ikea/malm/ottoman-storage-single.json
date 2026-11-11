@@ -1,0 +1,42 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_malm_ottoman_storage_single",
+    "type": "container",
+    "name": "MALM Ottoman bed storage (single), white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Lift-up ottoman storage cavity under MALM single ottoman bed (not a drawer). Furniture outer height incomplete on source page, so outer omitted.",
+    "inner_size": {
+        "x": 910,
+        "y": 1920,
+        "z": 270
+    },
+    "visibility": [
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/malm-ottoman-bed-white-40493043/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 910×1920×270 mm. Lift-up ottoman storage space, not a drawer."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "404.930.43"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

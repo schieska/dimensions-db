@@ -1,0 +1,44 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_vikhammer_bedside_table_drawer",
+    "type": "drawer",
+    "name": "VIKHAMMER Bedside table drawer, black",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside VIKHAMMER bedside table 40×39 cm.",
+    "inner_size": {
+        "x": 330,
+        "y": 330,
+        "z": 70
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/vikhammer-bedside-table-black-20388972/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 330×330×70 mm. Same inside on 003.817.64."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "203.889.72",
+            "003.817.64"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

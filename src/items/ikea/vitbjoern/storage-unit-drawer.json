@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_vitbjoern_storage_unit_drawer",
+    "type": "drawer",
+    "name": "VITBJÖRN Storage unit drawer, white/red",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside VITBJÖRN storage unit with drawer 80×55×78 cm.",
+    "inner_size": {
+        "x": 710,
+        "y": 510,
+        "z": 220
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/vitbjoern-storage-unit-with-drawer-white-red-60537178/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 710×510×220 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "605.371.78"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

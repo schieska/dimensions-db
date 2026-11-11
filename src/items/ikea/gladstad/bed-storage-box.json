@@ -1,0 +1,50 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_gladstad_bed_storage_box",
+    "type": "drawer",
+    "name": "GLADSTAD Upholstered bed storage box, light grey",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "IKEA GLADSTAD upholstered underbed storage box.",
+    "inner_size": {
+        "x": 900,
+        "y": 570,
+        "z": 190
+    },
+    "outer_size": {
+        "x": 950,
+        "y": 600,
+        "z": 190
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/gladstad-upholstered-bed-storage-box-kabusa-light-grey-20498428/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 900×570×190 mm. Outer 950×600×190 mm. Same inside on S994.068.07, S494.070.22."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "204.984.28",
+            "S994.068.07",
+            "S494.070.22"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

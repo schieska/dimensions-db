@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_gullaberg_bedside_table_drawer_shelf",
+    "type": "drawer",
+    "name": "GULLABERG Bedside table drawer (with shelf), white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside GULLABERG bedside table with 1 drawer with shelf, 53×43×69 cm.",
+    "inner_size": {
+        "x": 360,
+        "y": 330,
+        "z": 140
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/gullaberg-bedside-table-with-1-drawer-with-shelf-white-20561740/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 360×330×140 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "205.617.40"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

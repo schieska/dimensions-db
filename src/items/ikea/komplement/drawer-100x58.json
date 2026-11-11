@@ -1,0 +1,58 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_komplement_drawer_100x58",
+    "type": "drawer",
+    "name": "KOMPLEMENT Drawer 100×58, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "IKEA KOMPLEMENT drawer for PAX 100×58. Width and depth are official IKEA; height is third-party measured.",
+    "inner_size": {
+        "x": 901,
+        "y": 533,
+        "z": 144
+    },
+    "outer_size": {
+        "x": 928,
+        "y": 569,
+        "z": 160
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/komplement-drawer-white-90246352/"
+        },
+        {
+            "kind": "community",
+            "url": "https://www.printables.com/model/508920",
+            "note": "Third-party measured inside height 14.4 cm for this drawer"
+        },
+        {
+            "kind": "community",
+            "url": "https://ordnungsgenie.de/kleiderschrank/pax-schubladen/",
+            "note": "Independent 14.4 cm folding-rule measurement for a PAX drawer"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Inside W×D 901×533 mm official IKEA. Height 144 mm is third-party measured (Printables 508920 maker-stated 14.4 cm; also ordnungsgenie.de). Not an official IKEA inside height."
+        }
+    ],
+    "accuracy": "low",
+    "confidence": "medium",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "902.463.52"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}
