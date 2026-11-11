@@ -1,0 +1,169 @@
+{
+  "id": "ssi-schaefer_elb_4120",
+  "slug": "ssi-schaefer-elb-4120",
+  "name": "ELB 4120",
+  "brand_id": "ssi-schaefer",
+  "brand_name": "SSI SCHAEFER",
+  "type": "container",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 78,
+    "class": "review_candidate",
+    "segments": {
+      "identity": 30,
+      "geometry": 40,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "candidate_fit",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "Strong metadata; confirm evidence before treating as exact-fit.",
+      "Primary source kind: datasheet."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": true,
+    "inner_dimensions": true,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "evidence"
+  ],
+  "record": {
+    "id": "ssi-schaefer_elb_4120",
+    "type": "container",
+    "name": "ELB 4120",
+    "brand": "ssi-schaefer",
+    "added_by": "gh:schieska",
+    "description": "SSI SCHAEFER ELB 4120 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.23).",
+    "inner_size": {
+      "x": 256,
+      "y": 356,
+      "z": 115
+    },
+    "outer_size": {
+      "x": 299,
+      "y": 399,
+      "z": 120
+    },
+    "visibility": [
+      "standalone",
+      "product"
+    ],
+    "materials": [
+      "pp"
+    ],
+    "features": [
+      "stackable"
+    ],
+    "sources": [
+      {
+        "kind": "datasheet",
+        "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+        "note": "Containers Catalogue 2024/25 EN, PDF page 23."
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-11-11",
+        "notes": "SSI catalogue PDF p.23: Internal dimensions L×W×H 356×256×115 mm. Usable height when stacked also listed as 100 mm (not used for inner_size.z)."
+      }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+      "sku": [
+        {
+          "value": "ELB 4120 PP",
+          "system": "ssi-schaefer"
+        }
+      ]
+    },
+    "updated_at": "2026-11-11"
+  },
+  "similar_items": [
+    {
+      "id": "ssi-schaefer_elb_6320",
+      "name": "ELB 6320",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6320.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6220",
+      "name": "ELB 6220",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6220.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6120",
+      "name": "ELB 6120",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6120.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_4220",
+      "name": "ELB 4220",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_4220.json"
+    },
+    {
+      "id": "ssi-schaefer_ef_6320",
+      "name": "EF 6320",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_ef_6320.json"
+    },
+    {
+      "id": "ssi-schaefer_ef_6220",
+      "name": "EF 6220",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_ef_6220.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_elb_4120%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_elb_4120%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_elb_4120%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_elb_4120%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/elb/elb-4120.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/elb/elb-4120.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/ssi-schaefer/elb/elb-4120.json"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ssi-schaefer_elb_4120",
+  "type": "container",
+  "name": "ELB 4120",
+  "brand": "ssi-schaefer",
+  "origin": null,
+  "description": "SSI SCHAEFER ELB 4120 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.23).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 256,
+    "y": 356,
+    "z": 115
+  },
+  "inner_size_in": {
+    "x": 10.079,
+    "y": 14.016,
+    "z": 4.528
+  },
+  "outer_size_mm": {
+    "x": 299,
+    "y": 399,
+    "z": 120
+  },
+  "outer_size_in": {
+    "x": 11.772,
+    "y": 15.709,
+    "z": 4.724
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "datasheet",
+      "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+      "note": "Containers Catalogue 2024/25 EN, PDF page 23."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "SSI catalogue PDF p.23: Internal dimensions L×W×H 356×256×115 mm. Usable height when stacked also listed as 100 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "ELB 4120 PP",
+        "system": "ssi-schaefer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

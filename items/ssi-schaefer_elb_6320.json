@@ -1,0 +1,80 @@
+{
+  "id": "ssi-schaefer_elb_6320",
+  "type": "container",
+  "name": "ELB 6320",
+  "brand": "ssi-schaefer",
+  "origin": null,
+  "description": "SSI SCHAEFER ELB 6320 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.24).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 355,
+    "y": 555,
+    "z": 314
+  },
+  "inner_size_in": {
+    "x": 13.976,
+    "y": 21.85,
+    "z": 12.362
+  },
+  "outer_size_mm": {
+    "x": 399,
+    "y": 599,
+    "z": 320
+  },
+  "outer_size_in": {
+    "x": 15.709,
+    "y": 23.583,
+    "z": 12.598
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "datasheet",
+      "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+      "note": "Containers Catalogue 2024/25 EN, PDF page 24."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "SSI catalogue PDF p.24: Internal dimensions L×W×H 555×355×314 mm. Usable height when stacked also listed as 300 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "ELB 6320 PP",
+        "system": "ssi-schaefer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

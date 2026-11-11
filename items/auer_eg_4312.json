@@ -1,0 +1,79 @@
+{
+  "id": "auer_eg_4312",
+  "type": "container",
+  "name": "EG 43/12",
+  "brand": "auer",
+  "origin": null,
+  "description": "AUER Packaging Euro container solid EG 43/12. Manufacturer-reported internal dimensions from product page.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 270,
+    "y": 370,
+    "z": 115
+  },
+  "inner_size_in": {
+    "x": 10.63,
+    "y": 14.567,
+    "z": 4.528
+  },
+  "outer_size_mm": {
+    "x": 300,
+    "y": 400,
+    "z": 120
+  },
+  "outer_size_in": {
+    "x": 11.811,
+    "y": 15.748,
+    "z": 4.724
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.auer-packaging.com/en/Euro-containers-solid/EG-4312.html"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "AUER manufacturer page Inner dimensions 270×370×115 mm. Usable interior height in stack also listed as 105 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "EG 43/12",
+        "system": "auer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

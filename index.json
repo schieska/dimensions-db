@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-11-11T13:29:33.348Z",
+  "generated_at": "2026-11-11T13:50:34.825Z",
   "items": [
     {
       "id": "wurth_pro-8-4_trolley",
@@ -166,6 +166,149 @@
         "component"
       ],
       "path": "items/test_nesting_modular_bin_medium.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6320",
+      "type": "container",
+      "name": "ELB 6320",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_elb_6320.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6220",
+      "type": "container",
+      "name": "ELB 6220",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_elb_6220.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6120",
+      "type": "container",
+      "name": "ELB 6120",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_elb_6120.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_4220",
+      "type": "container",
+      "name": "ELB 4220",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_elb_4220.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_4120",
+      "type": "container",
+      "name": "ELB 4120",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_elb_4120.json"
+    },
+    {
+      "id": "ssi-schaefer_ef_6320",
+      "type": "container",
+      "name": "EF 6320",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_ef_6320.json"
+    },
+    {
+      "id": "ssi-schaefer_ef_6220",
+      "type": "container",
+      "name": "EF 6220",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_ef_6220.json"
+    },
+    {
+      "id": "ssi-schaefer_ef_4220",
+      "type": "container",
+      "name": "EF 4220",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_ef_4220.json"
+    },
+    {
+      "id": "ssi-schaefer_ef_4120",
+      "type": "container",
+      "name": "EF 4120",
+      "brand": "ssi-schaefer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/ssi-schaefer_ef_4120.json"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8312000",
+      "type": "container",
+      "name": "EuroClick 600×400×320",
+      "brand": "schoeller-allibert",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/schoeller-allibert_euroclick_8312000.json"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8309000",
+      "type": "container",
+      "name": "EuroClick 600×400×220",
+      "brand": "schoeller-allibert",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/schoeller-allibert_euroclick_8309000.json"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8303000",
+      "type": "container",
+      "name": "EuroClick 400×300×220",
+      "brand": "schoeller-allibert",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/schoeller-allibert_euroclick_8303000.json"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8300000",
+      "type": "container",
+      "name": "EuroClick 400×300×120",
+      "brand": "schoeller-allibert",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/schoeller-allibert_euroclick_8300000.json"
     },
     {
       "id": "ikea_rensare_bag_small",
@@ -672,6 +815,292 @@
         "component"
       ],
       "path": "items/bisley_multidrawer_drawer_a3_47.json"
+    },
+    {
+      "id": "auer_r_klt_6429",
+      "type": "container",
+      "name": "R-KLT 6429",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_r_klt_6429.json"
+    },
+    {
+      "id": "auer_r_klt_6415",
+      "type": "container",
+      "name": "R-KLT 6415",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_r_klt_6415.json"
+    },
+    {
+      "id": "auer_r_klt_4329",
+      "type": "container",
+      "name": "R-KLT 4329",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_r_klt_4329.json"
+    },
+    {
+      "id": "auer_r_klt_4315",
+      "type": "container",
+      "name": "R-KLT 4315",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_r_klt_4315.json"
+    },
+    {
+      "id": "auer_r_klt_3215",
+      "type": "container",
+      "name": "R-KLT 3215",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_r_klt_3215.json"
+    },
+    {
+      "id": "auer_eg_8652",
+      "type": "container",
+      "name": "EG 86/52",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_8652.json"
+    },
+    {
+      "id": "auer_eg_8642",
+      "type": "container",
+      "name": "EG 86/42",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_8642.json"
+    },
+    {
+      "id": "auer_eg_8632",
+      "type": "container",
+      "name": "EG 86/32",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_8632.json"
+    },
+    {
+      "id": "auer_eg_8622",
+      "type": "container",
+      "name": "EG 86/22",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_8622.json"
+    },
+    {
+      "id": "auer_eg_8612",
+      "type": "container",
+      "name": "EG 86/12",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_8612.json"
+    },
+    {
+      "id": "auer_eg_6475",
+      "type": "container",
+      "name": "EG 64/75",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6475.json"
+    },
+    {
+      "id": "auer_eg_6442",
+      "type": "container",
+      "name": "EG 64/42",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6442.json"
+    },
+    {
+      "id": "auer_eg_6432",
+      "type": "container",
+      "name": "EG 64/32",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6432.json"
+    },
+    {
+      "id": "auer_eg_6427",
+      "type": "container",
+      "name": "EG 64/27",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6427.json"
+    },
+    {
+      "id": "auer_eg_6422",
+      "type": "container",
+      "name": "EG 64/22",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6422.json"
+    },
+    {
+      "id": "auer_eg_6417",
+      "type": "container",
+      "name": "EG 64/17",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6417.json"
+    },
+    {
+      "id": "auer_eg_6412",
+      "type": "container",
+      "name": "EG 64/12",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_6412.json"
+    },
+    {
+      "id": "auer_eg_4375",
+      "type": "container",
+      "name": "EG 43/75",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_4375.json"
+    },
+    {
+      "id": "auer_eg_4332",
+      "type": "container",
+      "name": "EG 43/32",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_4332.json"
+    },
+    {
+      "id": "auer_eg_4327",
+      "type": "container",
+      "name": "EG 43/27",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_4327.json"
+    },
+    {
+      "id": "auer_eg_4322",
+      "type": "container",
+      "name": "EG 43/22",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_4322.json"
+    },
+    {
+      "id": "auer_eg_4317",
+      "type": "container",
+      "name": "EG 43/17",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_4317.json"
+    },
+    {
+      "id": "auer_eg_4312",
+      "type": "container",
+      "name": "EG 43/12",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_4312.json"
+    },
+    {
+      "id": "auer_eg_3217",
+      "type": "container",
+      "name": "EG 32/17",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_3217.json"
+    },
+    {
+      "id": "auer_eg_3212",
+      "type": "container",
+      "name": "EG 32/12",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_3212.json"
+    },
+    {
+      "id": "auer_eg_21512",
+      "type": "container",
+      "name": "EG 21512",
+      "brand": "auer",
+      "visibility": [
+        "standalone",
+        "product"
+      ],
+      "path": "items/auer_eg_21512.json"
     },
     {
       "id": "allit_europlus_europlus_flex",

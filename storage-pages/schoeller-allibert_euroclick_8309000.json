@@ -1,0 +1,174 @@
+{
+  "id": "schoeller-allibert_euroclick_8309000",
+  "slug": "schoeller-allibert-euroclick-8309000",
+  "name": "EuroClick 600×400×220",
+  "brand_id": "schoeller-allibert",
+  "brand_name": "Schoeller Allibert",
+  "type": "container",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 78,
+    "class": "review_candidate",
+    "segments": {
+      "identity": 30,
+      "geometry": 40,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "candidate_fit",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "Strong metadata; confirm evidence before treating as exact-fit.",
+      "Primary source kind: other."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": true,
+    "inner_dimensions": true,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "evidence"
+  ],
+  "record": {
+    "id": "schoeller-allibert_euroclick_8309000",
+    "type": "container",
+    "name": "EuroClick 600×400×220",
+    "brand": "schoeller-allibert",
+    "added_by": "gh:schieska",
+    "description": "Schoeller Allibert EuroClick® 8309000. Internal minimum length/width and usable height from the 2023 full catalogue (third-party mirror of the manufacturer brochure; PDF p.103, printed p.98).",
+    "inner_size": {
+      "x": 357,
+      "y": 557,
+      "z": 204
+    },
+    "outer_size": {
+      "x": 397,
+      "y": 597,
+      "z": 220
+    },
+    "visibility": [
+      "standalone",
+      "product"
+    ],
+    "materials": [
+      "pp"
+    ],
+    "features": [
+      "stackable"
+    ],
+    "sources": [
+      {
+        "kind": "other",
+        "url": "https://intpalatam.com/wp-content/uploads/2023/07/brochure-2023.pdf",
+        "note": "Schoeller Allibert 2023 brochure mirror (intpalatam), EuroClick page PDF p.103 / printed p.98."
+      },
+      {
+        "kind": "product",
+        "url": "https://www.iplschoeller.com/products/8309000-euroclick-600x400x220-solid%2C-ch",
+        "note": "Manufacturer product page for identity; publishes outer sizes only."
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-11-11",
+        "notes": "Catalogue mirror PDF p.103: Int Min Length 557 mm, Int Min Width 357 mm, Int Usable Height 204 mm. H is usable height; L/W are internal minimums."
+      }
+    ],
+    "accuracy": "medium",
+    "confidence": "medium",
+    "status": "community",
+    "identifiers": {
+      "sku": [
+        {
+          "value": "8309000",
+          "system": "schoeller-allibert"
+        }
+      ]
+    },
+    "updated_at": "2026-11-11"
+  },
+  "similar_items": [
+    {
+      "id": "schoeller-allibert_euroclick_8312000",
+      "name": "EuroClick 600×400×320",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8312000.json"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8303000",
+      "name": "EuroClick 400×300×220",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8303000.json"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8300000",
+      "name": "EuroClick 400×300×120",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8300000.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6320",
+      "name": "ELB 6320",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6320.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6220",
+      "name": "ELB 6220",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6220.json"
+    },
+    {
+      "id": "ssi-schaefer_elb_6120",
+      "name": "ELB 6120",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6120.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/schoeller-allibert/euroclick/euroclick-8309000.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/schoeller-allibert/euroclick/euroclick-8309000.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/schoeller-allibert/euroclick/euroclick-8309000.json"
+  }
+}

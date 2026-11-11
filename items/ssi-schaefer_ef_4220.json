@@ -1,0 +1,80 @@
+{
+  "id": "ssi-schaefer_ef_4220",
+  "type": "container",
+  "name": "EF 4220",
+  "brand": "ssi-schaefer",
+  "origin": null,
+  "description": "SSI SCHAEFER EF 4220 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.55).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 255,
+    "y": 355,
+    "z": 217
+  },
+  "inner_size_in": {
+    "x": 10.039,
+    "y": 13.976,
+    "z": 8.543
+  },
+  "outer_size_mm": {
+    "x": 299,
+    "y": 399,
+    "z": 220
+  },
+  "outer_size_in": {
+    "x": 11.772,
+    "y": 15.709,
+    "z": 8.661
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "datasheet",
+      "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+      "note": "Containers Catalogue 2024/25 EN, PDF page 55."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "SSI catalogue PDF p.55: Internal dimensions L×W×H 355×255×217 mm. Usable height when stacked also listed as 197 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "EF 4220 PP",
+        "system": "ssi-schaefer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "schoeller-allibert_euroclick_8300000",
+  "type": "container",
+  "name": "EuroClick 400×300×120",
+  "brand": "schoeller-allibert",
+  "origin": null,
+  "description": "Schoeller Allibert EuroClick® 8300000. Internal minimum length/width and usable height from the 2023 full catalogue (third-party mirror of the manufacturer brochure; PDF p.102, printed p.97).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 258.7,
+    "y": 358.7,
+    "z": 107.5
+  },
+  "inner_size_in": {
+    "x": 10.185,
+    "y": 14.122,
+    "z": 4.232
+  },
+  "outer_size_mm": {
+    "x": 297,
+    "y": 397,
+    "z": 120
+  },
+  "outer_size_in": {
+    "x": 11.693,
+    "y": 15.63,
+    "z": 4.724
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "other",
+      "url": "https://intpalatam.com/wp-content/uploads/2023/07/brochure-2023.pdf",
+      "note": "Schoeller Allibert 2023 brochure mirror (intpalatam), EuroClick page PDF p.102 / printed p.97."
+    },
+    {
+      "kind": "product",
+      "url": "https://www.iplschoeller.com/products/8300000-euroclick-400x300x120-solid%2C-ch",
+      "note": "Manufacturer product page for identity; publishes outer sizes only."
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Catalogue mirror PDF p.102: Int Min Length 358.7 mm, Int Min Width 258.7 mm, Int Usable Height 107.5 mm. H is usable height; L/W are internal minimums."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "medium",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "medium",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "8300000",
+        "system": "schoeller-allibert"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

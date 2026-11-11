@@ -1,0 +1,79 @@
+{
+  "id": "auer_eg_6412",
+  "type": "container",
+  "name": "EG 64/12",
+  "brand": "auer",
+  "origin": null,
+  "description": "AUER Packaging Euro container solid EG 64/12. Manufacturer-reported internal dimensions from product page.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 370,
+    "y": 570,
+    "z": 115
+  },
+  "inner_size_in": {
+    "x": 14.567,
+    "y": 22.441,
+    "z": 4.528
+  },
+  "outer_size_mm": {
+    "x": 400,
+    "y": 600,
+    "z": 120
+  },
+  "outer_size_in": {
+    "x": 15.748,
+    "y": 23.622,
+    "z": 4.724
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.auer-packaging.com/en/Euro-containers-solid/EG-6412.html"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "AUER manufacturer page Inner dimensions 370×570×115 mm. Usable interior height in stack also listed as 104 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "EG 64/12",
+        "system": "auer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

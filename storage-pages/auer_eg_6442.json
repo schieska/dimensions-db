@@ -1,0 +1,168 @@
+{
+  "id": "auer_eg_6442",
+  "slug": "auer-eg-6442",
+  "name": "EG 64/42",
+  "brand_id": "auer",
+  "brand_name": "AUER Packaging",
+  "type": "container",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 78,
+    "class": "review_candidate",
+    "segments": {
+      "identity": 30,
+      "geometry": 40,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "candidate_fit",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "Strong metadata; confirm evidence before treating as exact-fit.",
+      "Primary source kind: manufacturer."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": true,
+    "inner_dimensions": true,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "evidence"
+  ],
+  "record": {
+    "id": "auer_eg_6442",
+    "type": "container",
+    "name": "EG 64/42",
+    "brand": "auer",
+    "added_by": "gh:schieska",
+    "description": "AUER Packaging Euro container solid EG 64/42. Manufacturer-reported internal dimensions from product page.",
+    "inner_size": {
+      "x": 370,
+      "y": 570,
+      "z": 415
+    },
+    "outer_size": {
+      "x": 400,
+      "y": 600,
+      "z": 420
+    },
+    "visibility": [
+      "standalone",
+      "product"
+    ],
+    "materials": [
+      "pp"
+    ],
+    "features": [
+      "stackable"
+    ],
+    "sources": [
+      {
+        "kind": "manufacturer",
+        "url": "https://www.auer-packaging.com/en/Euro-containers-solid/EG-6442.html"
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-11-11",
+        "notes": "AUER manufacturer page Inner dimensions 370×570×415 mm. Usable interior height in stack also listed as 404 mm (not used for inner_size.z)."
+      }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+      "sku": [
+        {
+          "value": "EG 64/42",
+          "system": "auer"
+        }
+      ]
+    },
+    "updated_at": "2026-11-11"
+  },
+  "similar_items": [
+    {
+      "id": "auer_r_klt_6429",
+      "name": "R-KLT 6429",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/auer_r_klt_6429.json"
+    },
+    {
+      "id": "auer_r_klt_6415",
+      "name": "R-KLT 6415",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/auer_r_klt_6415.json"
+    },
+    {
+      "id": "auer_r_klt_4329",
+      "name": "R-KLT 4329",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/auer_r_klt_4329.json"
+    },
+    {
+      "id": "auer_r_klt_4315",
+      "name": "R-KLT 4315",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/auer_r_klt_4315.json"
+    },
+    {
+      "id": "auer_r_klt_3215",
+      "name": "R-KLT 3215",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/auer_r_klt_3215.json"
+    },
+    {
+      "id": "auer_eg_8652",
+      "name": "EG 86/52",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/auer_eg_8652.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6442%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6442%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6442%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6442%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6442.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6442.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/auer/euro-solid/eg-6442.json"
+  }
+}

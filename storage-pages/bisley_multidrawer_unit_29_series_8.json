@@ -93,52 +93,52 @@
   },
   "similar_items": [
     {
-      "id": "ikea_alex_storage_unit_white",
-      "name": "ALEX Storage unit, white",
+      "id": "ssi-schaefer_elb_6320",
+      "name": "ELB 6320",
       "in_open_database": true,
       "completeness_score": 78,
       "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
+      "page_path": "storage-pages/ssi-schaefer_elb_6320.json"
     },
     {
-      "id": "test_nesting_modular_bin_small",
-      "name": "Test modular bin (small)",
+      "id": "ssi-schaefer_elb_6220",
+      "name": "ELB 6220",
       "in_open_database": true,
-      "completeness_score": 72,
-      "fit_readiness": "compare_only",
-      "page_path": "storage-pages/test_nesting_modular_bin_small.json"
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6220.json"
     },
     {
-      "id": "test_nesting_modular_bin_medium",
-      "name": "Test modular bin (medium)",
+      "id": "ssi-schaefer_elb_6120",
+      "name": "ELB 6120",
       "in_open_database": true,
-      "completeness_score": 72,
-      "fit_readiness": "compare_only",
-      "page_path": "storage-pages/test_nesting_modular_bin_medium.json"
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_6120.json"
     },
     {
-      "id": "ikea_rensare_bag_small",
-      "name": "RENSARE clothes bag, small",
+      "id": "ssi-schaefer_elb_4220",
+      "name": "ELB 4220",
       "in_open_database": true,
-      "completeness_score": 72,
-      "fit_readiness": "compare_only",
-      "page_path": "storage-pages/ikea_rensare_bag_small.json"
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_4220.json"
     },
     {
-      "id": "ikea_rensare_bag_large",
-      "name": "RENSARE clothes bag, large",
+      "id": "ssi-schaefer_elb_4120",
+      "name": "ELB 4120",
       "in_open_database": true,
-      "completeness_score": 72,
-      "fit_readiness": "compare_only",
-      "page_path": "storage-pages/ikea_rensare_bag_large.json"
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_elb_4120.json"
     },
     {
-      "id": "ikea_pappis_box_lidded",
-      "name": "PAPPIS box with lid",
+      "id": "ssi-schaefer_ef_6320",
+      "name": "EF 6320",
       "in_open_database": true,
-      "completeness_score": 72,
-      "fit_readiness": "compare_only",
-      "page_path": "storage-pages/ikea_pappis_box_lidded.json"
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ssi-schaefer_ef_6320.json"
     }
   ],
   "actions": {

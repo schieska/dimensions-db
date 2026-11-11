@@ -1,0 +1,79 @@
+{
+  "id": "auer_eg_8652",
+  "type": "container",
+  "name": "EG 86/52",
+  "brand": "auer",
+  "origin": null,
+  "description": "AUER Packaging Euro container solid EG 86/52. Manufacturer-reported internal dimensions from product page.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 567,
+    "y": 767,
+    "z": 505
+  },
+  "inner_size_in": {
+    "x": 22.323,
+    "y": 30.197,
+    "z": 19.882
+  },
+  "outer_size_mm": {
+    "x": 600,
+    "y": 800,
+    "z": 520
+  },
+  "outer_size_in": {
+    "x": 23.622,
+    "y": 31.496,
+    "z": 20.472
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.auer-packaging.com/en/Euro-containers-solid/EG-8652.html"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "AUER manufacturer page Inner dimensions 567×767×505 mm. Usable interior height in stack also listed as 492 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "EG 86/52",
+        "system": "auer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

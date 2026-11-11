@@ -1,0 +1,79 @@
+{
+  "id": "auer_r_klt_4315",
+  "type": "container",
+  "name": "R-KLT 4315",
+  "brand": "auer",
+  "origin": null,
+  "description": "AUER Packaging R-KLT R-KLT 4315. Manufacturer-reported internal base dimensions from product page.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 265,
+    "y": 346,
+    "z": 109.5
+  },
+  "inner_size_in": {
+    "x": 10.433,
+    "y": 13.622,
+    "z": 4.311
+  },
+  "outer_size_mm": {
+    "x": 300,
+    "y": 400,
+    "z": 147
+  },
+  "outer_size_in": {
+    "x": 11.811,
+    "y": 15.748,
+    "z": 5.787
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.auer-packaging.com/en/R-KLT-containers/R-KLT-4315.html"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "AUER manufacturer page: Internal dimensions at base L×W×usable height 346×265×109.5 mm (H is AUER’s usable height)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "R-KLT 4315",
+        "system": "auer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

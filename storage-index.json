@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-11-11T13:29:33.348Z",
+  "generated_at": "2026-11-11T13:50:34.825Z",
   "items": [
     {
       "id": "allit_europlus_europlus_flex",
@@ -35,6 +35,916 @@
         "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
         "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/allit/europlus/europlus-flex.json",
         "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/allit/europlus/europlus-flex.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_21512",
+      "slug": "auer-eg-21512",
+      "name": "EG 21512",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_21512.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_21512%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_21512%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_21512%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_21512%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-21512.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-21512.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_3212",
+      "slug": "auer-eg-3212",
+      "name": "EG 32/12",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_3212.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_3212%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_3212%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_3212%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_3212%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-3212.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-3212.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_3217",
+      "slug": "auer-eg-3217",
+      "name": "EG 32/17",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_3217.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_3217%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_3217%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_3217%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_3217%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-3217.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-3217.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_4312",
+      "slug": "auer-eg-4312",
+      "name": "EG 43/12",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_4312.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_4312%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_4312%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_4312%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_4312%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-4312.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-4312.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_4317",
+      "slug": "auer-eg-4317",
+      "name": "EG 43/17",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_4317.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_4317%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_4317%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_4317%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_4317%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-4317.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-4317.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_4322",
+      "slug": "auer-eg-4322",
+      "name": "EG 43/22",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_4322.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_4322%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_4322%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_4322%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_4322%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-4322.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-4322.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_4327",
+      "slug": "auer-eg-4327",
+      "name": "EG 43/27",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_4327.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_4327%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_4327%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_4327%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_4327%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-4327.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-4327.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_4332",
+      "slug": "auer-eg-4332",
+      "name": "EG 43/32",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_4332.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_4332%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_4332%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_4332%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_4332%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-4332.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-4332.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_4375",
+      "slug": "auer-eg-4375",
+      "name": "EG 43/75",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_4375.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_4375%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_4375%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_4375%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_4375%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-4375.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-4375.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6412",
+      "slug": "auer-eg-6412",
+      "name": "EG 64/12",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6412.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6412%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6412%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6412%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6412%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6412.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6412.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6417",
+      "slug": "auer-eg-6417",
+      "name": "EG 64/17",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6417.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6417%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6417%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6417%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6417%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6417.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6417.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6422",
+      "slug": "auer-eg-6422",
+      "name": "EG 64/22",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6422.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6422%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6422%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6422%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6422%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6422.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6422.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6427",
+      "slug": "auer-eg-6427",
+      "name": "EG 64/27",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6427.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6427%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6427%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6427%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6427%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6427.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6427.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6432",
+      "slug": "auer-eg-6432",
+      "name": "EG 64/32",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6432.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6432%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6432%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6432%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6432%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6432.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6432.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6442",
+      "slug": "auer-eg-6442",
+      "name": "EG 64/42",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6442.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6442%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6442%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6442%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6442%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6442.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6442.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_6475",
+      "slug": "auer-eg-6475",
+      "name": "EG 64/75",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_6475.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_6475%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_6475%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_6475%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_6475%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-6475.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-6475.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_8612",
+      "slug": "auer-eg-8612",
+      "name": "EG 86/12",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_8612.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_8612%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_8612%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_8612%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_8612%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-8612.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-8612.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_8622",
+      "slug": "auer-eg-8622",
+      "name": "EG 86/22",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_8622.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_8622%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_8622%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_8622%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_8622%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-8622.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-8622.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_8632",
+      "slug": "auer-eg-8632",
+      "name": "EG 86/32",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_8632.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_8632%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_8632%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_8632%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_8632%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-8632.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-8632.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_8642",
+      "slug": "auer-eg-8642",
+      "name": "EG 86/42",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_8642.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_8642%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_8642%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_8642%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_8642%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-8642.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-8642.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_eg_8652",
+      "slug": "auer-eg-8652",
+      "name": "EG 86/52",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_eg_8652.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_eg_8652%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_eg_8652%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_eg_8652%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_eg_8652%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/euro-solid/eg-8652.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/euro-solid/eg-8652.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_r_klt_3215",
+      "slug": "auer-r-klt-3215",
+      "name": "R-KLT 3215",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_r_klt_3215.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_r_klt_3215%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_r_klt_3215%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_r_klt_3215%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_r_klt_3215%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/r-klt/r-klt-3215.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/r-klt/r-klt-3215.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_r_klt_4315",
+      "slug": "auer-r-klt-4315",
+      "name": "R-KLT 4315",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_r_klt_4315.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_r_klt_4315%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_r_klt_4315%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_r_klt_4315%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_r_klt_4315%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/r-klt/r-klt-4315.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/r-klt/r-klt-4315.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_r_klt_4329",
+      "slug": "auer-r-klt-4329",
+      "name": "R-KLT 4329",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_r_klt_4329.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_r_klt_4329%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_r_klt_4329%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_r_klt_4329%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_r_klt_4329%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/r-klt/r-klt-4329.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/r-klt/r-klt-4329.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_r_klt_6415",
+      "slug": "auer-r-klt-6415",
+      "name": "R-KLT 6415",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_r_klt_6415.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_r_klt_6415%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_r_klt_6415%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_r_klt_6415%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_r_klt_6415%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/r-klt/r-klt-6415.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/r-klt/r-klt-6415.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "auer_r_klt_6429",
+      "slug": "auer-r-klt-6429",
+      "name": "R-KLT 6429",
+      "brand_id": "auer",
+      "brand_name": "AUER Packaging",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/auer_r_klt_6429.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bauer_r_klt_6429%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bauer_r_klt_6429%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bauer_r_klt_6429%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bauer_r_klt_6429%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/auer/r-klt/r-klt-6429.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/auer/r-klt/r-klt-6429.json"
       },
       "source_layer": "open_database"
     },
@@ -1773,6 +2683,461 @@
         "promotion_guide": "https://github.com/schieska/dimensions-db/blob/main/.github/PULL_REQUEST_TEMPLATE/promote-to-open-db.md"
       },
       "source_layer": "storage_index"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8300000",
+      "slug": "schoeller-allibert-euroclick-8300000",
+      "name": "EuroClick 400×300×120",
+      "brand_id": "schoeller-allibert",
+      "brand_name": "Schoeller Allibert",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8300000.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bschoeller-allibert_euroclick_8300000%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bschoeller-allibert_euroclick_8300000%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bschoeller-allibert_euroclick_8300000%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bschoeller-allibert_euroclick_8300000%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/schoeller-allibert/euroclick/euroclick-8300000.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/schoeller-allibert/euroclick/euroclick-8300000.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8303000",
+      "slug": "schoeller-allibert-euroclick-8303000",
+      "name": "EuroClick 400×300×220",
+      "brand_id": "schoeller-allibert",
+      "brand_name": "Schoeller Allibert",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8303000.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bschoeller-allibert_euroclick_8303000%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bschoeller-allibert_euroclick_8303000%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bschoeller-allibert_euroclick_8303000%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bschoeller-allibert_euroclick_8303000%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/schoeller-allibert/euroclick/euroclick-8303000.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/schoeller-allibert/euroclick/euroclick-8303000.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8309000",
+      "slug": "schoeller-allibert-euroclick-8309000",
+      "name": "EuroClick 600×400×220",
+      "brand_id": "schoeller-allibert",
+      "brand_name": "Schoeller Allibert",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8309000.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bschoeller-allibert_euroclick_8309000%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/schoeller-allibert/euroclick/euroclick-8309000.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/schoeller-allibert/euroclick/euroclick-8309000.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "schoeller-allibert_euroclick_8312000",
+      "slug": "schoeller-allibert-euroclick-8312000",
+      "name": "EuroClick 600×400×320",
+      "brand_id": "schoeller-allibert",
+      "brand_name": "Schoeller Allibert",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/schoeller-allibert_euroclick_8312000.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bschoeller-allibert_euroclick_8312000%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bschoeller-allibert_euroclick_8312000%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bschoeller-allibert_euroclick_8312000%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bschoeller-allibert_euroclick_8312000%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/schoeller-allibert/euroclick/euroclick-8312000.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/schoeller-allibert/euroclick/euroclick-8312000.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_ef_4120",
+      "slug": "ssi-schaefer-ef-4120",
+      "name": "EF 4120",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_ef_4120.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_ef_4120%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_ef_4120%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_ef_4120%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_ef_4120%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/ef/ef-4120.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/ef/ef-4120.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_ef_4220",
+      "slug": "ssi-schaefer-ef-4220",
+      "name": "EF 4220",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_ef_4220.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_ef_4220%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_ef_4220%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_ef_4220%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_ef_4220%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/ef/ef-4220.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/ef/ef-4220.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_ef_6220",
+      "slug": "ssi-schaefer-ef-6220",
+      "name": "EF 6220",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_ef_6220.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_ef_6220%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_ef_6220%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_ef_6220%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_ef_6220%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/ef/ef-6220.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/ef/ef-6220.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_ef_6320",
+      "slug": "ssi-schaefer-ef-6320",
+      "name": "EF 6320",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_ef_6320.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_ef_6320%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_ef_6320%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_ef_6320%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_ef_6320%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/ef/ef-6320.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/ef/ef-6320.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_elb_4120",
+      "slug": "ssi-schaefer-elb-4120",
+      "name": "ELB 4120",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_elb_4120.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_elb_4120%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_elb_4120%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_elb_4120%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_elb_4120%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/elb/elb-4120.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/elb/elb-4120.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_elb_4220",
+      "slug": "ssi-schaefer-elb-4220",
+      "name": "ELB 4220",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_elb_4220.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_elb_4220%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_elb_4220%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_elb_4220%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_elb_4220%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/elb/elb-4220.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/elb/elb-4220.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_elb_6120",
+      "slug": "ssi-schaefer-elb-6120",
+      "name": "ELB 6120",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_elb_6120.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_elb_6120%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_elb_6120%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_elb_6120%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_elb_6120%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/elb/elb-6120.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/elb/elb-6120.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_elb_6220",
+      "slug": "ssi-schaefer-elb-6220",
+      "name": "ELB 6220",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_elb_6220.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_elb_6220%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_elb_6220%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_elb_6220%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_elb_6220%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/elb/elb-6220.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/elb/elb-6220.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ssi-schaefer_elb_6320",
+      "slug": "ssi-schaefer-elb-6320",
+      "name": "ELB 6320",
+      "brand_id": "ssi-schaefer",
+      "brand_name": "SSI SCHAEFER",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ssi-schaefer_elb_6320.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bssi-schaefer_elb_6320%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bssi-schaefer_elb_6320%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bssi-schaefer_elb_6320%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bssi-schaefer_elb_6320%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ssi-schaefer/elb/elb-6320.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ssi-schaefer/elb/elb-6320.json"
+      },
+      "source_layer": "open_database"
     },
     {
       "id": "test_nesting_modular_bin_medium",

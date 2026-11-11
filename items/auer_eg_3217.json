@@ -1,0 +1,79 @@
+{
+  "id": "auer_eg_3217",
+  "type": "container",
+  "name": "EG 32/17",
+  "brand": "auer",
+  "origin": null,
+  "description": "AUER Packaging Euro container solid EG 32/17. Manufacturer-reported internal dimensions from product page.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 170,
+    "y": 270,
+    "z": 165
+  },
+  "inner_size_in": {
+    "x": 6.693,
+    "y": 10.63,
+    "z": 6.496
+  },
+  "outer_size_mm": {
+    "x": 200,
+    "y": 300,
+    "z": 170
+  },
+  "outer_size_in": {
+    "x": 7.874,
+    "y": 11.811,
+    "z": 6.693
+  },
+  "visibility": [
+    "standalone",
+    "product"
+  ],
+  "materials": [
+    "pp"
+  ],
+  "features": [
+    "stackable"
+  ],
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.auer-packaging.com/en/Euro-containers-solid/EG-3217.html"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "AUER manufacturer page Inner dimensions 170×270×165 mm. Usable interior height in stack also listed as 155 mm (not used for inner_size.z)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "sku": [
+      {
+        "value": "EG 32/17",
+        "system": "auer"
+      }
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}
