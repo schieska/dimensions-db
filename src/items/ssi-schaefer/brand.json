@@ -1,0 +1,12 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "ssi-schaefer",
+    "name": "SSI SCHAEFER",
+    "website": "https://www.ssi-schaefer.com",
+    "country": "DE",
+    "type": "manufacturer",
+    "identifier_types": [
+        "sku",
+        "mpn"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "auer_r_klt_4329",
+    "type": "container",
+    "name": "R-KLT 4329",
+    "brand": "auer",
+    "added_by": "gh:schieska",
+    "description": "AUER Packaging R-KLT R-KLT 4329. Manufacturer-reported internal base dimensions from product page.",
+    "inner_size": {
+        "x": 265,
+        "y": 346,
+        "z": 242
+    },
+    "outer_size": {
+        "x": 300,
+        "y": 400,
+        "z": 280
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.auer-packaging.com/en/R-KLT-containers/R-KLT-4329.html"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "AUER manufacturer page: Internal dimensions at base L\u00d7W\u00d7usable height 346\u00d7265\u00d7242 mm (H is AUER\u2019s usable height)."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "R-KLT 4329",
+                "system": "auer"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

@@ -1,0 +1,12 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "auer",
+    "name": "AUER Packaging",
+    "website": "https://www.auer-packaging.com",
+    "country": "DE",
+    "type": "manufacturer",
+    "identifier_types": [
+        "sku",
+        "mpn"
+    ]
+}

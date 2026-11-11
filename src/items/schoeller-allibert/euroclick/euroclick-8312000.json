@@ -1,0 +1,63 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "schoeller-allibert_euroclick_8312000",
+    "type": "container",
+    "name": "EuroClick 600\u00d7400\u00d7320",
+    "brand": "schoeller-allibert",
+    "added_by": "gh:schieska",
+    "description": "Schoeller Allibert EuroClick\u00ae 8312000. Internal minimum length/width and usable height from the 2023 full catalogue (third-party mirror of the manufacturer brochure; PDF p.103, printed p.98).",
+    "inner_size": {
+        "x": 356,
+        "y": 556,
+        "z": 304
+    },
+    "outer_size": {
+        "x": 397,
+        "y": 597,
+        "z": 320
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "other",
+            "url": "https://intpalatam.com/wp-content/uploads/2023/07/brochure-2023.pdf",
+            "note": "Schoeller Allibert 2023 brochure mirror (intpalatam), EuroClick page PDF p.103 / printed p.98."
+        },
+        {
+            "kind": "product",
+            "url": "https://www.iplschoeller.com/products/8312000-euroclick-600x400x320-solid%2C-ch",
+            "note": "Manufacturer product page for identity; publishes outer sizes only."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Catalogue mirror PDF p.103: Int Min Length 556 mm, Int Min Width 356 mm, Int Usable Height 304 mm. H is usable height; L/W are internal minimums."
+        }
+    ],
+    "accuracy": "medium",
+    "confidence": "medium",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "8312000",
+                "system": "schoeller-allibert"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}
