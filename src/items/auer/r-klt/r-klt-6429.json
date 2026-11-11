@@ -1,0 +1,57 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "auer_r_klt_6429",
+    "type": "container",
+    "name": "R-KLT 6429",
+    "brand": "auer",
+    "added_by": "gh:schieska",
+    "description": "AUER Packaging R-KLT R-KLT 6429. Manufacturer-reported internal base dimensions from product page.",
+    "inner_size": {
+        "x": 364,
+        "y": 544,
+        "z": 242
+    },
+    "outer_size": {
+        "x": 400,
+        "y": 600,
+        "z": 280
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.auer-packaging.com/en/R-KLT-containers/R-KLT-6429.html"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "AUER manufacturer page: internal at base 364\u00d7544\u00d7242 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "R-KLT 6429",
+                "system": "auer"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

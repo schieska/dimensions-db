@@ -1,0 +1,57 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "auer_eg_21512",
+    "type": "container",
+    "name": "EG 21512",
+    "brand": "auer",
+    "added_by": "gh:schieska",
+    "description": "AUER Packaging Euro container solid EG 21512. Manufacturer-reported internal dimensions from product page.",
+    "inner_size": {
+        "x": 120,
+        "y": 170,
+        "z": 115
+    },
+    "outer_size": {
+        "x": 150,
+        "y": 200,
+        "z": 120
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.auer-packaging.com/en/Euro-containers-solid/EG-21512.html"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "AUER manufacturer page Inner dimensions 120\u00d7170\u00d7115 mm. Usable interior height in stack also listed as 105 mm (not used for inner_size.z)."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "EG 21512",
+                "system": "auer"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

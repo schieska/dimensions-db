@@ -1,0 +1,52 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_bror_drawer_black",
+    "type": "drawer",
+    "name": "BROR Drawer, black",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Steel BROR drawer article 004.946.62. IKEA lists drawer width (inside) 29 1/8 in, depth (inside) 20 1/8 in, height 6 3/4 in.",
+    "inner_size": {
+        "x": 740,
+        "y": 511,
+        "z": 171
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/us/en/p/bror-drawer-black-00494662/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Converted from IKEA US imperial inside figures (29 1/8 \u00d7 20 1/8 \u00d7 6 3/4 in) and rounded to whole millimetres."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "004.946.62"
+        ],
+        "sku": [
+            {
+                "value": "00494662",
+                "system": "ikea"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}
