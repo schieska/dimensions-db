@@ -2,10 +2,10 @@
     "$schema": "../../../../schema/item.schema.json",
     "id": "ikea_vihals_bed_storage_box_single_double",
     "type": "drawer",
-    "name": "VIHALS Bed storage box drawer 570×550, white (single/double set)",
+    "name": "VIHALS Bed storage box drawer 1 (570×550), white (single/double set)",
     "brand": "ikea",
     "added_by": "gh:schieska",
-    "description": "One drawer cavity from VIHALS bed storage box set of 2 for single/double. Set also has a second drawer at 620×550×140 mm (separate size). Outer not listed on product page.",
+    "description": "First drawer compartment from VIHALS bed storage box set of 2 for single/double (IKEA: Width of drawer 1 inside = 57 cm). The set's drawer 2 compartment is 620×550×140 mm. Outer not listed on product page.",
     "inner_size": {
         "x": 570,
         "y": 550,
@@ -28,7 +28,7 @@
             "method": "manufacturer-spec",
             "tool": "unknown",
             "date": "2026-11-11",
-            "notes": "Official IKEA GB inside 570×550×140 mm (queue primary). Set of 2 also lists drawer 2 = 620×550×140 mm."
+            "notes": "Official IKEA GB drawer 1 inside 570×550×140 mm. Live page: drawer 1 = 570×550×140, drawer 2 = 620×550×140."
         }
     ],
     "accuracy": "high",

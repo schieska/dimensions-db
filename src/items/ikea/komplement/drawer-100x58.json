@@ -5,7 +5,7 @@
     "name": "KOMPLEMENT Drawer 100×58, white",
     "brand": "ikea",
     "added_by": "gh:schieska",
-    "description": "IKEA KOMPLEMENT drawer for PAX 100×58. Width and depth are official IKEA; height is third-party measured.",
+    "description": "IKEA KOMPLEMENT drawer for PAX 100×58. Width and depth are official IKEA; height is maker-stated (not official).",
     "inner_size": {
         "x": 901,
         "y": 533,
@@ -28,7 +28,7 @@
         {
             "kind": "community",
             "url": "https://www.printables.com/model/508920",
-            "note": "Third-party measured inside height 14.4 cm for this drawer"
+            "note": "Maker-stated inside height 14.4 cm for this drawer (not a documented third-party measurement)"
         },
         {
             "kind": "community",
@@ -43,7 +43,15 @@
             "method": "manufacturer-spec",
             "tool": "unknown",
             "date": "2026-11-11",
-            "notes": "Inside W×D 901×533 mm official IKEA. Height 144 mm is third-party measured (Printables 508920 maker-stated 14.4 cm; also ordnungsgenie.de). Not an official IKEA inside height."
+            "notes": "Inside W×D 901×533 mm and outer 928×569×160 mm from official IKEA GB product page."
+        },
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "community-average",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Inside height 144 mm from Printables 508920 (maker-stated 14.4 cm, not third-party measured). Also cited by ordnungsgenie.de. Not an official IKEA inside height."
         }
     ],
     "accuracy": "low",
