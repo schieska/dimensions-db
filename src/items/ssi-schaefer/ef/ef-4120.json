@@ -1,0 +1,58 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ssi-schaefer_ef_4120",
+    "type": "container",
+    "name": "EF 4120",
+    "brand": "ssi-schaefer",
+    "added_by": "gh:schieska",
+    "description": "SSI SCHAEFER EF 4120 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.53).",
+    "inner_size": {
+        "x": 256,
+        "y": 356,
+        "z": 117
+    },
+    "outer_size": {
+        "x": 299,
+        "y": 399,
+        "z": 120
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "datasheet",
+            "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+            "note": "Containers Catalogue 2024/25 EN, PDF page 53."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "SSI catalogue PDF p.53: Internal dimensions L\u00d7W\u00d7H 356\u00d7256\u00d7117 mm. Usable height when stacked also listed as 105 mm (not used for inner_size.z)."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "EF 4120 PP",
+                "system": "ssi-schaefer"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

@@ -1,0 +1,58 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ssi-schaefer_ef_6220",
+    "type": "container",
+    "name": "EF 6220",
+    "brand": "ssi-schaefer",
+    "added_by": "gh:schieska",
+    "description": "SSI SCHAEFER EF 6220 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.60).",
+    "inner_size": {
+        "x": 353,
+        "y": 553,
+        "z": 216
+    },
+    "outer_size": {
+        "x": 399,
+        "y": 599,
+        "z": 220
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "datasheet",
+            "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+            "note": "Containers Catalogue 2024/25 EN, PDF page 60."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "SSI catalogue PDF p.60: Internal dimensions L\u00d7W\u00d7H 553\u00d7353\u00d7216 mm. Usable height when stacked also listed as 196 mm (not used for inner_size.z)."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "EF 6220 PP",
+                "system": "ssi-schaefer"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

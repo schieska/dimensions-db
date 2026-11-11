@@ -1,0 +1,58 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ssi-schaefer_elb_6120",
+    "type": "container",
+    "name": "ELB 6120",
+    "brand": "ssi-schaefer",
+    "added_by": "gh:schieska",
+    "description": "SSI SCHAEFER ELB 6120 PP Euro container. Internal dimensions from Containers Catalogue 2024/25 (PDF p.24).",
+    "inner_size": {
+        "x": 355,
+        "y": 555,
+        "z": 115
+    },
+    "outer_size": {
+        "x": 399,
+        "y": 599,
+        "z": 120
+    },
+    "visibility": [
+        "standalone",
+        "product"
+    ],
+    "materials": [
+        "pp"
+    ],
+    "features": [
+        "stackable"
+    ],
+    "sources": [
+        {
+            "kind": "datasheet",
+            "url": "https://www.ssi-schaefer.com/resource/blob/1914596/53146cf054d7b710ec10cde4d66988b8/containerscatalogue-2024-25-en-data.pdf",
+            "note": "Containers Catalogue 2024/25 EN, PDF page 24."
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "SSI catalogue PDF p.24: Internal dimensions L\u00d7W\u00d7H 555\u00d7355\u00d7115 mm. Usable height when stacked also listed as 100 mm (not used for inner_size.z)."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "sku": [
+            {
+                "value": "ELB 6120 PP",
+                "system": "ssi-schaefer"
+            }
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

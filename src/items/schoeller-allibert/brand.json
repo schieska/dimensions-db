@@ -1,0 +1,12 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "schoeller-allibert",
+    "name": "Schoeller Allibert",
+    "website": "https://www.iplschoeller.com",
+    "country": "NL",
+    "type": "manufacturer",
+    "identifier_types": [
+        "sku",
+        "mpn"
+    ]
+}

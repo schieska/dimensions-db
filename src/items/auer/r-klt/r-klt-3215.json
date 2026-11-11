@@ -39,7 +39,7 @@
             "method": "manufacturer-spec",
             "tool": "unknown",
             "date": "2026-11-11",
-            "notes": "AUER manufacturer page: internal at base 162\u00d7243\u00d7129.5 mm."
+            "notes": "AUER manufacturer page: Internal dimensions at base L\u00d7W\u00d7usable height 243\u00d7162\u00d7129.5 mm (H is AUER\u2019s usable height)."
         }
     ],
     "accuracy": "high",
