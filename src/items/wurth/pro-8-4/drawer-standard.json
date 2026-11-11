@@ -5,10 +5,10 @@
     "name": "PRO/ULTIMATE 8.4 system workshop trolley, standard drawer",
     "brand": "wurth",
     "added_by": "gh:schieska",
-    "description": "Standard drawer for Würth PRO/ULTIMATE 8.4 system workshop trolley. Nested inside wurth_pro-8-4_trolley.",
+    "description": "Standard drawer for Würth PRO/ULTIMATE 8.4 system workshop trolley. Nested inside wurth_pro-8-4_trolley. Interior depth recorded as 336 mm from listing 0962612037 (466 × 336 × 69); listing 0962612056 prints 366 mm for the same drawer plan, treated as a typo.",
     "inner_size": {
         "x": 466,
-        "y": 366,
+        "y": 336,
         "z": 69
     },
     "visibility": [
@@ -21,7 +21,13 @@
     "sources": [
         {
             "kind": "manufacturer",
-            "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/"
+            "url": "https://eshop.wuerth.de/0962612037.sku",
+            "note": "Lists standard drawer as B 466 × T 336 × H 69 mm."
+        },
+        {
+            "kind": "manufacturer",
+            "url": "https://eshop.wuerth.de/System-Werkstattwagen-ULTIMATE-84-bestueckt-WRKSTWG-PRO84-8SL-BESTK-HONDA-R3020/0962612056.sku/de/DE/EUR/",
+            "note": "Conflicting listing: prints standard drawer depth as 366 mm; treated as a typo."
         }
     ],
     "measurements": [
@@ -31,11 +37,11 @@
             "method": "manufacturer-spec",
             "tool": "unknown",
             "date": "2026-11-11",
-            "notes": "Würth eShop: 7 Schubladen, B 466 × T 366 × H 69 mm."
+            "notes": "Adopted 466 × 336 × 69 mm from Würth 0962612037. Listing 0962612056 prints 466 × 366 × 69 mm for the standard drawer; 366 is very likely a typo (8.4 insert inside is about 462.5 × 335)."
         }
     ],
-    "accuracy": "high",
-    "confidence": "high",
+    "accuracy": "medium",
+    "confidence": "medium",
     "status": "community",
     "updated_at": "2026-11-11"
 }

@@ -5,7 +5,7 @@
     "name": "PRO/ULTIMATE 8.4 system workshop trolley",
     "brand": "wurth",
     "added_by": "gh:schieska",
-    "description": "Würth PRO/ULTIMATE 8.4 system workshop trolley with seven standard drawers and one large drawer (sourced from ULTIMATE 8.4 equipped listing built on PRO 8.4).",
+    "description": "Würth PRO/ULTIMATE 8.4 system workshop trolley. The 7 standard + 1 large drawer mix is specific to equipped listing 0962612056 (ULTIMATE 8.4 built on PRO 8.4); other PRO 8.4 SKUs may differ.",
     "outer_size": {
         "x": 684,
         "y": 406,
@@ -41,7 +41,7 @@
             "method": "manufacturer-spec",
             "tool": "unknown",
             "date": "2026-11-11",
-            "notes": "Outer dimensions and drawer counts from Würth eShop product page."
+            "notes": "Outer dimensions from Würth eShop 0962612056. Drawer mix (7× standard + 1× large) is specific to this equipped listing."
         }
     ],
     "accuracy": "high",
