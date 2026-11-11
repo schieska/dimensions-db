@@ -1,0 +1,12 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "us-general",
+    "name": "U.S. General",
+    "website": "https://www.harborfreight.com",
+    "country": "US",
+    "type": "manufacturer",
+    "identifier_types": [
+        "sku",
+        "mpn"
+    ]
+}

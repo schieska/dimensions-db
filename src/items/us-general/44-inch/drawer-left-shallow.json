@@ -1,0 +1,41 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "us-general_44-inch_drawer_left_shallow",
+    "type": "drawer",
+    "name": "44\u2033 double-bank roller cabinet, left shallow drawer",
+    "brand": "us-general",
+    "added_by": "gh:schieska",
+    "description": "Drawer interior for Harbor Freight U.S. General 44\u2033 double-bank roller cabinet. Nested inside us-general_44-inch_roller_cabinet.",
+    "inner_size": {
+        "x": 565,
+        "y": 498,
+        "z": 57
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "materials": [
+        "steel"
+    ],
+    "sources": [
+        {
+            "kind": "community",
+            "url": "https://maintenanceblog.com/harbor-freight-us-general-toolbox-44/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manual",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Community measurement: 22.25 \u00d7 19.625 \u00d7 2.25 in. Width between lips reported as 22 in (559 mm)."
+        }
+    ],
+    "accuracy": "medium",
+    "confidence": "medium",
+    "status": "community",
+    "updated_at": "2026-11-11"
+}

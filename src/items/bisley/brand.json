@@ -1,0 +1,12 @@
+{
+    "$schema": "../../../schema/brand.schema.json",
+    "id": "bisley",
+    "name": "Bisley",
+    "website": "https://www.bisley.com",
+    "country": "GB",
+    "type": "manufacturer",
+    "identifier_types": [
+        "mpn",
+        "sku"
+    ]
+}
