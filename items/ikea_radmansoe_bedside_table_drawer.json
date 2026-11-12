@@ -1,0 +1,64 @@
+{
+  "id": "ikea_radmansoe_bedside_table_drawer",
+  "type": "drawer",
+  "name": "RÅDMANSÖ Bedside table drawer, brown walnut effect",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside RÅDMANSÖ bedside table 54×38×58 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 460,
+    "y": 280,
+    "z": 80
+  },
+  "inner_size_in": {
+    "x": 18.11,
+    "y": 11.024,
+    "z": 3.15
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/radmansoe-bedside-table-brown-walnut-effect-80593597/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 460×280×80 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "805.935.97"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-11-11T13:50:34.825Z",
+  "generated_at": "2026-11-12T18:28:06.443Z",
   "items": [
     {
       "id": "wurth_pro-8-4_trolley",
@@ -2090,6 +2090,794 @@
       "updated_at": "2026-11-11"
     },
     {
+      "id": "ikea_vitbjoern_storage_unit_drawer",
+      "type": "drawer",
+      "name": "VITBJÖRN Storage unit drawer, white/red",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside VITBJÖRN storage unit with drawer 80×55×78 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 710,
+        "y": 510,
+        "z": 220
+      },
+      "inner_size_in": {
+        "x": 27.953,
+        "y": 20.079,
+        "z": 8.661
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/vitbjoern-storage-unit-with-drawer-white-red-60537178/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 710×510×220 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "605.371.78"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_vikhammer_bedside_table_drawer",
+      "type": "drawer",
+      "name": "VIKHAMMER Bedside table drawer, black",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside VIKHAMMER bedside table 40×39 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 330,
+        "y": 330,
+        "z": 70
+      },
+      "inner_size_in": {
+        "x": 12.992,
+        "y": 12.992,
+        "z": 2.756
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/vikhammer-bedside-table-black-20388972/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 330×330×70 mm. Same inside on 003.817.64."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "203.889.72",
+          "003.817.64"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_vihals_bed_storage_box_single_double",
+      "type": "drawer",
+      "name": "VIHALS Bed storage box drawer 1 (570×550), white (single/double set)",
+      "brand": "ikea",
+      "origin": null,
+      "description": "First drawer compartment from VIHALS bed storage box set of 2 for single/double (IKEA: Width of drawer 1 inside = 57 cm). The set's drawer 2 compartment is 620×550×140 mm. Outer not listed on product page.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 570,
+        "y": 550,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 22.441,
+        "y": 21.654,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/vihals-bed-storage-box-set-of-2-white-80602460/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB article 806.024.60 (single/double set): drawer 1 inside 570×550×140 mm. Same page: drawer 2 = 620×550×140. Different article/widths from 305.951.17 (570/670)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "806.024.60"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_vihals_bed_storage_box_200",
+      "type": "drawer",
+      "name": "VIHALS Bed storage box drawer 2 (670×550), white (200 cm set)",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Second drawer compartment from VIHALS bed storage box set of 2 for 200 cm beds (IKEA: Width of drawer 2 inside = 67 cm). The set's drawer 1 compartment is 570×550×140 mm. Set-level outer omitted because it spans both drawers.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 670,
+        "y": 550,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 26.378,
+        "y": 21.654,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/vihals-bed-storage-box-set-of-2-white-30595117/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB article 305.951.17 (200 cm set): drawer 2 inside 670×550×140 mm. Same page: drawer 1 = 570×550×140. Different article from 806.024.60."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "305.951.17"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_tonstad_bed_storage_drawer",
+      "type": "drawer",
+      "name": "TONSTAD Bed frame with storage drawer, oak veneer",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside TONSTAD bed frame with storage (Standard King).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 720,
+        "y": 580,
+        "z": 130
+      },
+      "inner_size_in": {
+        "x": 28.346,
+        "y": 22.835,
+        "z": 5.118
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/tonstad-bed-frame-with-storage-oak-veneer-loenset-s49496674/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 720×580×130 mm. Same inside on S994.965.77."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "S494.966.74",
+          "S994.965.77"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_storklinta_chest_2_drawer_40",
+      "type": "drawer",
+      "name": "STORKLINTA Chest of 2 drawers cavity, dark grey 40×50",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside STORKLINTA chest of 2 drawers, 40×50×53 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 310,
+        "y": 400,
+        "z": 160
+      },
+      "inner_size_in": {
+        "x": 12.205,
+        "y": 15.748,
+        "z": 6.299
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/storklinta-chest-of-2-drawers-dark-grey-80628219/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 310×400×160 mm. Same inside on 206.314.13, 006.314.14."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "806.282.19",
+          "206.314.13",
+          "006.314.14"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_storklinta_chest_2_drawer_30",
+      "type": "drawer",
+      "name": "STORKLINTA Chest of 2 drawers cavity, white 30×50",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside STORKLINTA chest of 2 drawers, 30×50×53 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 210,
+        "y": 400,
+        "z": 160
+      },
+      "inner_size_in": {
+        "x": 8.268,
+        "y": 15.748,
+        "z": 6.299
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/storklinta-chest-of-2-drawers-white-70632387/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 210×400×160 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "706.323.87"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_storklinta_bed_storage_box",
+      "type": "drawer",
+      "name": "STORKLINTA Bed storage box, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA STORKLINTA bed storage box (set of 2). Outer not listed on product page.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 900,
+        "y": 600,
+        "z": 130
+      },
+      "inner_size_in": {
+        "x": 35.433,
+        "y": 23.622,
+        "z": 5.118
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/storklinta-bed-storage-box-set-of-2-white-80618319/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 900×600×130 mm. Same inside on S696.283.67, S496.283.68, S396.308.14, S296.267.75, S796.308.26, S796.267.87."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "806.183.19",
+          "S696.283.67",
+          "S496.283.68",
+          "S396.308.14",
+          "S296.267.75",
+          "S796.308.26",
+          "S796.267.87"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_stomsoe_bedside_table_drawer",
+      "type": "drawer",
+      "name": "STOMSÖ Wall-mounted bedside table drawer",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside STOMSÖ wall-mounted bedside table 36×29×20 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 270,
+        "y": 240,
+        "z": 65
+      },
+      "inner_size_in": {
+        "x": 10.63,
+        "y": 9.449,
+        "z": 2.559
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/stomsoe-wall-mounted-bedside-table-birch-effect-white-blue-70567805/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 270×240×65 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "705.678.05"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_smyga_bed_storage_box",
+      "type": "drawer",
+      "name": "SMYGA Bed storage box, light grey",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA SMYGA bed storage box 99×91×29 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 920,
+        "y": 870,
+        "z": 200
+      },
+      "inner_size_in": {
+        "x": 36.22,
+        "y": 34.252,
+        "z": 7.874
+      },
+      "outer_size_mm": {
+        "x": 990,
+        "y": 910,
+        "z": 290
+      },
+      "outer_size_in": {
+        "x": 38.976,
+        "y": 35.827,
+        "z": 11.417
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/smyga-bed-storage-box-light-grey-70507821/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 920×870×200 mm. Outer 990×910×290 mm. Same inside on S594.441.42."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "705.078.21",
+          "S594.441.42"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_slaekt_nattapa_bed_storage_drawer",
+      "type": "drawer",
+      "name": "SLÄKT/NATTAPA Bed frame storage drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside SLÄKT/NATTAPA bed frame with storage, 90×200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 720,
+        "y": 570,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 28.346,
+        "y": 22.441,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/slaekt-nattapa-bed-frm-w-strg-guard-rl-slat-bd-bse-white-s89563911/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 720×570×140 mm. Same inside on S096.120.48."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "S895.639.11",
+          "S096.120.48"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_rosentorp_desk_drawer",
+      "type": "drawer",
+      "name": "ROSENTORP Desk drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside ROSENTORP desk 120×60 cm. Same inside size as RELATERA drawer.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 420,
+        "y": 330,
+        "z": 50
+      },
+      "inner_size_in": {
+        "x": 16.535,
+        "y": 12.992,
+        "z": 1.969
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/rosentorp-desk-white-60606237/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 420×330×50 mm. Same inside size as RELATERA drawer; likely the same drawer."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "606.062.37"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
       "id": "ikea_rensare_bag_small",
       "type": "container",
       "name": "RENSARE clothes bag, small",
@@ -2240,6 +3028,142 @@
       "updated_at": "2026-05-07"
     },
     {
+      "id": "ikea_relatera_drawer_white",
+      "type": "drawer",
+      "name": "RELATERA Drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA RELATERA drawer. Inside W×D×H from IKEA GB product measurements.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 420,
+        "y": 330,
+        "z": 50
+      },
+      "inner_size_in": {
+        "x": 16.535,
+        "y": 12.992,
+        "z": 1.969
+      },
+      "outer_size_mm": {
+        "x": 500,
+        "y": 360,
+        "z": 80
+      },
+      "outer_size_in": {
+        "x": 19.685,
+        "y": 14.173,
+        "z": 3.15
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/relatera-drawer-white-30558997/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 420×330×50 mm (Width/Depth/Height of drawer inside). Outer 500×360×80 mm from same page."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "305.589.97"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_radmansoe_bedside_table_drawer",
+      "type": "drawer",
+      "name": "RÅDMANSÖ Bedside table drawer, brown walnut effect",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside RÅDMANSÖ bedside table 54×38×58 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 460,
+        "y": 280,
+        "z": 80
+      },
+      "inner_size_in": {
+        "x": 18.11,
+        "y": 11.024,
+        "z": 3.15
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/radmansoe-bedside-table-brown-walnut-effect-80593597/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 460×280×80 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "805.935.97"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
       "id": "ikea_pappis_box_lidded",
       "type": "container",
       "name": "PAPPIS box with lid",
@@ -2313,6 +3237,71 @@
       "deprecated": null,
       "replaced_by": null,
       "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_nordli_bed_storage_drawer",
+      "type": "drawer",
+      "name": "NORDLI Bed frame with storage drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside NORDLI bed frame with storage, 160×200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 580,
+        "y": 510,
+        "z": 160
+      },
+      "inner_size_in": {
+        "x": 22.835,
+        "y": 20.079,
+        "z": 6.299
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/nordli-bed-frame-w-storage-and-headboard-white-s69241422/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 580×510×160 mm. Same inside on 403.498.47."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "S692.414.22",
+          "403.498.47"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
     },
     {
       "id": "ikea_micke_drawer_white",
@@ -2437,6 +3426,294 @@
       "deprecated": null,
       "replaced_by": null,
       "updated_at": null
+    },
+    {
+      "id": "ikea_malm_ottoman_storage_single",
+      "type": "container",
+      "name": "MALM Ottoman bed storage (single), white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Lift-up ottoman storage cavity under MALM single ottoman bed (not a drawer). Furniture outer height incomplete on source page, so outer omitted.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 910,
+        "y": 1920,
+        "z": 270
+      },
+      "inner_size_in": {
+        "x": 35.827,
+        "y": 75.591,
+        "z": 10.63
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/malm-ottoman-bed-white-40493043/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 910×1920×270 mm. Lift-up ottoman storage space, not a drawer."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "404.930.43"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_malm_ottoman_storage_double",
+      "type": "container",
+      "name": "MALM Ottoman bed storage (double), white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Lift-up ottoman storage cavity under MALM double ottoman bed (not a drawer). Furniture outer height incomplete on source page, so outer omitted.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 1360,
+        "y": 1910,
+        "z": 270
+      },
+      "inner_size_in": {
+        "x": 53.543,
+        "y": 75.197,
+        "z": 10.63
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/malm-ottoman-bed-white-30404820/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 1360×1910×270 mm. Lift-up ottoman storage space, not a drawer."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "304.048.20"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_malm_bed_storage_box_high",
+      "type": "drawer",
+      "name": "MALM Bed storage box for high bed frame, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA MALM under-bed storage drawer for high bed frame, 200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 970,
+        "y": 590,
+        "z": 150
+      },
+      "inner_size_in": {
+        "x": 38.189,
+        "y": 23.228,
+        "z": 5.906
+      },
+      "outer_size_mm": {
+        "x": 1000,
+        "y": 620,
+        "z": 290
+      },
+      "outer_size_in": {
+        "x": 39.37,
+        "y": 24.409,
+        "z": 11.417
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/malm-bed-storage-box-for-high-bed-frame-white-40249541/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 970×590×150 mm. Outer 1000×620×290 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "402.495.41"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_komplement_drawer_100x58",
+      "type": "drawer",
+      "name": "KOMPLEMENT Drawer 100×58, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA KOMPLEMENT drawer for PAX 100×58. Width and depth are official IKEA; height is maker-stated (not official).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 901,
+        "y": 533,
+        "z": 144
+      },
+      "inner_size_in": {
+        "x": 35.472,
+        "y": 20.984,
+        "z": 5.669
+      },
+      "outer_size_mm": {
+        "x": 928,
+        "y": 569,
+        "z": 160
+      },
+      "outer_size_in": {
+        "x": 36.535,
+        "y": 22.402,
+        "z": 6.299
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/komplement-drawer-white-90246352/"
+        },
+        {
+          "kind": "community",
+          "url": "https://www.printables.com/model/508920",
+          "note": "Maker-stated inside height 14.4 cm for this drawer (not a documented third-party measurement)"
+        },
+        {
+          "kind": "community",
+          "url": "https://ordnungsgenie.de/kleiderschrank/pax-schubladen/",
+          "note": "Independent 14.4 cm folding-rule measurement for a PAX drawer"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Inside W×D 901×533 mm and outer 928×569×160 mm from official IKEA GB product page."
+        },
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "community-average",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Inside height 144 mm from Printables 508920 (maker-stated 14.4 cm, not third-party measured). Also cited by ordnungsgenie.de. Not an official IKEA inside height."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "low",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "medium",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "902.463.52"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
     },
     {
       "id": "ikea_kallax_drawer_insert_compartment",
@@ -2805,6 +4082,262 @@
       "updated_at": "2026-05-07"
     },
     {
+      "id": "ikea_idanaes_cabinet_drawer",
+      "type": "drawer",
+      "name": "IDANÄS Cabinet drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside IDANÄS cabinet with bi-folded glass doors 121×50×135 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 530,
+        "y": 400,
+        "z": 80
+      },
+      "inner_size_in": {
+        "x": 20.866,
+        "y": 15.748,
+        "z": 3.15
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/idanaes-cabinet-with-bi-folded-glass-doors-white-10496038/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 530×400×80 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "104.960.38"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_idanaes_bedside_table_drawer",
+      "type": "drawer",
+      "name": "IDANÄS Bedside table drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside IDANÄS bedside table 47×40 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 360,
+        "y": 300,
+        "z": 200
+      },
+      "inner_size_in": {
+        "x": 14.173,
+        "y": 11.811,
+        "z": 7.874
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/idanaes-bedside-table-white-90458810/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 360×300×200 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "904.588.10"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_hemnes_day_bed_drawer_white",
+      "type": "drawer",
+      "name": "HEMNES Day-bed frame drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside HEMNES day-bed frame with 3 drawers, white, 80×200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 550,
+        "y": 700,
+        "z": 200
+      },
+      "inner_size_in": {
+        "x": 21.654,
+        "y": 27.559,
+        "z": 7.874
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-white-90349326/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 550×700×200 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "903.493.26"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_hemnes_day_bed_drawer_grey_green",
+      "type": "drawer",
+      "name": "HEMNES Day-bed frame drawer, grey-green",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside HEMNES day-bed frame with 3 drawers, grey-green, 80×200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 540,
+        "y": 700,
+        "z": 180
+      },
+      "inner_size_in": {
+        "x": 21.26,
+        "y": 27.559,
+        "z": 7.087
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-grey-green-80622892/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 540×700×180 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "806.228.92"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
       "id": "ikea_helmer_drawer_unit_black",
       "type": "furniture",
       "name": "HELMER Drawer unit on castors, black",
@@ -2937,6 +4470,401 @@
       "updated_at": null
     },
     {
+      "id": "ikea_gullaberg_bedside_table_drawer_shelf",
+      "type": "drawer",
+      "name": "GULLABERG Bedside table drawer (with shelf), white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside GULLABERG bedside table with 1 drawer with shelf, 53×43×69 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 360,
+        "y": 330,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 14.173,
+        "y": 12.992,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/gullaberg-bedside-table-with-1-drawer-with-shelf-white-20561740/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 360×330×140 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "205.617.40"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_gullaberg_bedside_table_drawer_door",
+      "type": "drawer",
+      "name": "GULLABERG Bedside table drawer (with door), white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside GULLABERG bedside table with 1 drawer with door, 38×40×75 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 210,
+        "y": 300,
+        "z": 60
+      },
+      "inner_size_in": {
+        "x": 8.268,
+        "y": 11.811,
+        "z": 2.362
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/gullaberg-bedside-table-with-1-drawer-with-door-white-20561764/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 210×300×60 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "205.617.64"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_gullaberg_bed_storage_drawer",
+      "type": "drawer",
+      "name": "GULLABERG Bed frame storage box (inside), grey",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Storage-box cavity inside GULLABERG bed frame with 4 storage boxes (Standard King).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 950,
+        "y": 600,
+        "z": 130
+      },
+      "inner_size_in": {
+        "x": 37.402,
+        "y": 23.622,
+        "z": 5.118
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/gullaberg-bed-frame-with-4-storage-boxes-grey-loenset-s79614869/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 950×600×130 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "S796.148.69"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_gullaberg_bed_storage_box",
+      "type": "drawer",
+      "name": "GULLABERG Bed storage box, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA GULLABERG bed storage box (set of 2; both drawers 900×600×130). Outer not listed on product page.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 900,
+        "y": 600,
+        "z": 130
+      },
+      "inner_size_in": {
+        "x": 35.433,
+        "y": 23.622,
+        "z": 5.118
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/gullaberg-bed-storage-box-set-of-2-white-00614607/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 900×600×130 mm. Also used in bed-frame combination S096.147.35."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "006.146.07",
+          "S096.147.35"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_grafjallet_dressing_table_drawer",
+      "type": "drawer",
+      "name": "GRÅFJÄLLET Dressing table drawer, anthracite",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside GRÅFJÄLLET dressing table 100×42 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 580,
+        "y": 390,
+        "z": 70
+      },
+      "inner_size_in": {
+        "x": 22.835,
+        "y": 15.354,
+        "z": 2.756
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/grafjaellet-dressing-table-anthracite-30570225/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 580×390×70 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "305.702.25"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_gladstad_bed_storage_box",
+      "type": "drawer",
+      "name": "GLADSTAD Upholstered bed storage box, light grey",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA GLADSTAD upholstered underbed storage box.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 900,
+        "y": 570,
+        "z": 190
+      },
+      "inner_size_in": {
+        "x": 35.433,
+        "y": 22.441,
+        "z": 7.48
+      },
+      "outer_size_mm": {
+        "x": 950,
+        "y": 600,
+        "z": 190
+      },
+      "outer_size_in": {
+        "x": 37.402,
+        "y": 23.622,
+        "z": 7.48
+      },
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/gladstad-upholstered-bed-storage-box-kabusa-light-grey-20498428/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 900×570×190 mm. Outer 950×600×190 mm. Same inside on S994.068.07, S494.070.22."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "204.984.28",
+          "S994.068.07",
+          "S494.070.22"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
       "id": "ikea_friidrott_drawer_white",
       "type": "component",
       "name": "FRIIDROTT Drawer, white",
@@ -3061,6 +4989,263 @@
       "updated_at": null
     },
     {
+      "id": "ikea_flekke_day_bed_drawer",
+      "type": "drawer",
+      "name": "FLEKKE Day-bed frame drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside FLEKKE day-bed frame with 2 storage drawers, 80×200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 820,
+        "y": 700,
+        "z": 140
+      },
+      "inner_size_in": {
+        "x": 32.283,
+        "y": 27.559,
+        "z": 5.512
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/flekke-day-bed-frame-with-2-drawers-white-00320134/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 820×700×140 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "003.201.34"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_fagelfjallet_bed_storage_drawer",
+      "type": "drawer",
+      "name": "FÅGELFJÄLLET Bed frame storage box (inside), off-white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Storage-box cavity inside FÅGELFJÄLLET bed frame with 2 storage boxes (Standard King).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 950,
+        "y": 600,
+        "z": 130
+      },
+      "inner_size_in": {
+        "x": 37.402,
+        "y": 23.622,
+        "z": 5.118
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/fagelfjaellet-bed-frame-with-2-storage-boxes-off-white-s79630906/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 950×600×130 mm. Same inside on S896.211.00."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "S796.309.06",
+          "S896.211.00"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_fagelfjallet_bed_storage_box",
+      "type": "drawer",
+      "name": "FÅGELFJÄLLET Bed storage box, off-white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "IKEA FÅGELFJÄLLET bed storage box (sold as set of 2; both drawers 900×600×130). Outer not listed on product page.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 900,
+        "y": 600,
+        "z": 130
+      },
+      "inner_size_in": {
+        "x": 35.433,
+        "y": 23.622,
+        "z": 5.118
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/fagelfjaellet-bed-storage-box-set-of-2-off-white-60618527/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 900×600×130 mm for each drawer in the set of 2."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "606.185.27"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_enkroken_desk_drawer",
+      "type": "drawer",
+      "name": "ENKROKEN Desk drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside ENKROKEN desk 85×56×75 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 250,
+        "y": 400,
+        "z": 40
+      },
+      "inner_size_in": {
+        "x": 9.843,
+        "y": 15.748,
+        "z": 1.575
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/enkroken-desk-white-50587079/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 250×400×40 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "505.870.79"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
       "id": "ikea_eket_cabinet_1x1",
       "type": "furniture",
       "name": "EKET cabinet 35×25 cm",
@@ -3134,6 +5319,326 @@
       "updated_at": "2026-05-07"
     },
     {
+      "id": "ikea_brimnes_day_bed_drawer",
+      "type": "drawer",
+      "name": "BRIMNES Day-bed frame drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside BRIMNES day-bed frame with 2 drawers, 80×200 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 850,
+        "y": 540,
+        "z": 160
+      },
+      "inner_size_in": {
+        "x": 33.465,
+        "y": 21.26,
+        "z": 6.299
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/brimnes-day-bed-frame-with-2-drawers-white-00228705/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 850×540×160 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "002.287.05"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_brimnes_bed_storage_drawer",
+      "type": "drawer",
+      "name": "BRIMNES Bed frame with storage drawer, white",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside BRIMNES double bed frame with storage.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 890,
+        "y": 540,
+        "z": 200
+      },
+      "inner_size_in": {
+        "x": 35.039,
+        "y": 21.26,
+        "z": 7.874
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/brimnes-bed-frame-with-storage-white-luroey-s29006940/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 890×540×200 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "S290.069.40"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_blastasen_bedside_table_drawer",
+      "type": "drawer",
+      "name": "BLÄSTÅSEN Bedside table drawer, grey-beige",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside BLÄSTÅSEN bedside table 50×37×76 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 290,
+        "y": 270,
+        "z": 100
+      },
+      "inner_size_in": {
+        "x": 11.417,
+        "y": 10.63,
+        "z": 3.937
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/blaestasen-bedside-table-grey-beige-70617570/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 290×270×100 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "706.175.70"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_blankhallan_bedside_table_drawer",
+      "type": "drawer",
+      "name": "BLANKHÄLLAN Bedside table drawer, beige/pink",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside BLANKHÄLLAN bedside table.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 218,
+        "y": 230,
+        "z": 50
+      },
+      "inner_size_in": {
+        "x": 8.583,
+        "y": 9.055,
+        "z": 1.969
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/blankhaellan-bedside-table-beige-pink-50620998/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 218×230×50 mm."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "506.209.98"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
+      "id": "ikea_bjorksnaes_bedside_table_drawer",
+      "type": "drawer",
+      "name": "BJÖRKSNÄS Bedside table drawer, birch",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside BJÖRKSNÄS bedside table 48×38 cm.",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 330,
+        "y": 260,
+        "z": 80
+      },
+      "inner_size_in": {
+        "x": 12.992,
+        "y": 10.236,
+        "z": 3.15
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/bjoerksnaes-bedside-table-birch-70407360/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 330×260×80 mm (Width/Depth/Height of drawer inside)."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "704.073.60"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
+    },
+    {
       "id": "ikea_billy_bookcase_compartment",
       "type": "furniture",
       "name": "BILLY bookcase shelf compartment",
@@ -3205,6 +5710,71 @@
       "deprecated": null,
       "replaced_by": null,
       "updated_at": "2026-05-07"
+    },
+    {
+      "id": "ikea_balestrand_divan_drawer",
+      "type": "drawer",
+      "name": "BALESTRAND Divan base drawer (inside)",
+      "brand": "ikea",
+      "origin": null,
+      "description": "Drawer cavity inside BALESTRAND divan base with 2 drawers. Furniture outer omitted (not the drawer outer).",
+      "translations": null,
+      "inner_size_mm": {
+        "x": 1150,
+        "y": 600,
+        "z": 240
+      },
+      "inner_size_in": {
+        "x": 45.276,
+        "y": 23.622,
+        "z": 9.449
+      },
+      "outer_size_mm": null,
+      "outer_size_in": null,
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "materials": null,
+      "features": null,
+      "parts": null,
+      "sources": [
+        {
+          "kind": "manufacturer",
+          "url": "https://www.ikea.com/gb/en/p/balestrand-divan-base-with-2-drawers-skiftebo-grey-90409631/"
+        }
+      ],
+      "measurements": [
+        {
+          "by": "gh:schieska",
+          "type": "initial",
+          "method": "manufacturer-spec",
+          "tool": "unknown",
+          "date": "2026-11-11",
+          "notes": "Official IKEA GB inside 1150×600×240 mm. Same inside on 704.096.32."
+        }
+      ],
+      "tolerance_mm": null,
+      "referenced_by_count": 0,
+      "added_by": "gh:schieska",
+      "status": "community",
+      "accuracy": "high",
+      "slug": null,
+      "verification_state": null,
+      "confidence": "high",
+      "evidence": null,
+      "identifiers": {
+        "mpn": [
+          "904.096.31",
+          "704.096.32"
+        ]
+      },
+      "variant_of": null,
+      "variant": null,
+      "images": null,
+      "deprecated": null,
+      "replaced_by": null,
+      "updated_at": "2026-11-11"
     },
     {
       "id": "ikea_alex_storage_unit_white",

@@ -1,0 +1,64 @@
+{
+  "id": "ikea_flekke_day_bed_drawer",
+  "type": "drawer",
+  "name": "FLEKKE Day-bed frame drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside FLEKKE day-bed frame with 2 storage drawers, 80×200 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 820,
+    "y": 700,
+    "z": 140
+  },
+  "inner_size_in": {
+    "x": 32.283,
+    "y": 27.559,
+    "z": 5.512
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/flekke-day-bed-frame-with-2-drawers-white-00320134/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 820×700×140 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "003.201.34"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

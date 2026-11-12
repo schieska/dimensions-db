@@ -1,0 +1,65 @@
+{
+  "id": "ikea_slaekt_nattapa_bed_storage_drawer",
+  "type": "drawer",
+  "name": "SLÄKT/NATTAPA Bed frame storage drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside SLÄKT/NATTAPA bed frame with storage, 90×200 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 720,
+    "y": 570,
+    "z": 140
+  },
+  "inner_size_in": {
+    "x": 28.346,
+    "y": 22.441,
+    "z": 5.512
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/slaekt-nattapa-bed-frm-w-strg-guard-rl-slat-bd-bse-white-s89563911/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 720×570×140 mm. Same inside on S096.120.48."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "S895.639.11",
+      "S096.120.48"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

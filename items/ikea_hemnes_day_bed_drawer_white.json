@@ -1,0 +1,64 @@
+{
+  "id": "ikea_hemnes_day_bed_drawer_white",
+  "type": "drawer",
+  "name": "HEMNES Day-bed frame drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside HEMNES day-bed frame with 3 drawers, white, 80×200 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 550,
+    "y": 700,
+    "z": 200
+  },
+  "inner_size_in": {
+    "x": 21.654,
+    "y": 27.559,
+    "z": 7.874
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-white-90349326/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 550×700×200 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "903.493.26"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

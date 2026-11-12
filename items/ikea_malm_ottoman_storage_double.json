@@ -1,0 +1,63 @@
+{
+  "id": "ikea_malm_ottoman_storage_double",
+  "type": "container",
+  "name": "MALM Ottoman bed storage (double), white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Lift-up ottoman storage cavity under MALM double ottoman bed (not a drawer). Furniture outer height incomplete on source page, so outer omitted.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 1360,
+    "y": 1910,
+    "z": 270
+  },
+  "inner_size_in": {
+    "x": 53.543,
+    "y": 75.197,
+    "z": 10.63
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/malm-ottoman-bed-white-30404820/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 1360×1910×270 mm. Lift-up ottoman storage space, not a drawer."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "304.048.20"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

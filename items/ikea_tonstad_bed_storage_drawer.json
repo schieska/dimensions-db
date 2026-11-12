@@ -1,0 +1,65 @@
+{
+  "id": "ikea_tonstad_bed_storage_drawer",
+  "type": "drawer",
+  "name": "TONSTAD Bed frame with storage drawer, oak veneer",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside TONSTAD bed frame with storage (Standard King).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 720,
+    "y": 580,
+    "z": 130
+  },
+  "inner_size_in": {
+    "x": 28.346,
+    "y": 22.835,
+    "z": 5.118
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/tonstad-bed-frame-with-storage-oak-veneer-loenset-s49496674/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 720×580×130 mm. Same inside on S994.965.77."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "S494.966.74",
+      "S994.965.77"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ikea_enkroken_desk_drawer",
+  "type": "drawer",
+  "name": "ENKROKEN Desk drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside ENKROKEN desk 85×56×75 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 250,
+    "y": 400,
+    "z": 40
+  },
+  "inner_size_in": {
+    "x": 9.843,
+    "y": 15.748,
+    "z": 1.575
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/enkroken-desk-white-50587079/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 250×400×40 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "505.870.79"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

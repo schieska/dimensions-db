@@ -1,0 +1,64 @@
+{
+  "id": "ikea_brimnes_bed_storage_drawer",
+  "type": "drawer",
+  "name": "BRIMNES Bed frame with storage drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside BRIMNES double bed frame with storage.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 890,
+    "y": 540,
+    "z": 200
+  },
+  "inner_size_in": {
+    "x": 35.039,
+    "y": 21.26,
+    "z": 7.874
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/brimnes-bed-frame-with-storage-white-luroey-s29006940/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 890×540×200 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "S290.069.40"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

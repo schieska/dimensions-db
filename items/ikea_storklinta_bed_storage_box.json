@@ -1,0 +1,70 @@
+{
+  "id": "ikea_storklinta_bed_storage_box",
+  "type": "drawer",
+  "name": "STORKLINTA Bed storage box, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "IKEA STORKLINTA bed storage box (set of 2). Outer not listed on product page.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 900,
+    "y": 600,
+    "z": 130
+  },
+  "inner_size_in": {
+    "x": 35.433,
+    "y": 23.622,
+    "z": 5.118
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "product",
+    "standalone"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/storklinta-bed-storage-box-set-of-2-white-80618319/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 900×600×130 mm. Same inside on S696.283.67, S496.283.68, S396.308.14, S296.267.75, S796.308.26, S796.267.87."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "806.183.19",
+      "S696.283.67",
+      "S496.283.68",
+      "S396.308.14",
+      "S296.267.75",
+      "S796.308.26",
+      "S796.267.87"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

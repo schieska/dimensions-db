@@ -1,0 +1,155 @@
+{
+  "id": "ikea_gullaberg_bed_storage_drawer",
+  "slug": "ikea-gullaberg-bed-storage-drawer",
+  "name": "GULLABERG Bed frame storage box (inside), grey",
+  "brand_id": "ikea",
+  "brand_name": "IKEA",
+  "type": "drawer",
+  "in_open_database": true,
+  "source_layer": "open_database",
+  "derived_state": "in_open_database",
+  "status_banner": {
+    "title": "In open database",
+    "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
+  },
+  "completeness": {
+    "score": 58,
+    "class": "partial_data",
+    "segments": {
+      "identity": 30,
+      "geometry": 20,
+      "evidence": 8,
+      "utility": 0
+    }
+  },
+  "fit_readiness": "compare_only",
+  "trust_summary": {
+    "exact_fit_eligible": false,
+    "lines": [
+      "May support rough comparison; not sufficient for exact-fit without more verification.",
+      "Primary source kind: manufacturer."
+    ]
+  },
+  "checklist": {
+    "product_identity": true,
+    "official_product_source": true,
+    "image": false,
+    "outer_dimensions": false,
+    "inner_dimensions": true,
+    "measurement_evidence": true,
+    "verification": false,
+    "related_items": true,
+    "provenance": true,
+    "collections": false
+  },
+  "missing": [
+    "outer_size",
+    "evidence"
+  ],
+  "record": {
+    "id": "ikea_gullaberg_bed_storage_drawer",
+    "type": "drawer",
+    "name": "GULLABERG Bed frame storage box (inside), grey",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Storage-box cavity inside GULLABERG bed frame with 4 storage boxes (Standard King).",
+    "inner_size": {
+      "x": 950,
+      "y": 600,
+      "z": 130
+    },
+    "visibility": [
+      "standalone",
+      "component"
+    ],
+    "sources": [
+      {
+        "kind": "manufacturer",
+        "url": "https://www.ikea.com/gb/en/p/gullaberg-bed-frame-with-4-storage-boxes-grey-loenset-s79614869/"
+      }
+    ],
+    "measurements": [
+      {
+        "by": "gh:schieska",
+        "type": "initial",
+        "method": "manufacturer-spec",
+        "tool": "unknown",
+        "date": "2026-11-11",
+        "notes": "Official IKEA GB inside 950×600×130 mm."
+      }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+      "mpn": [
+        "S796.148.69"
+      ]
+    },
+    "updated_at": "2026-11-11"
+  },
+  "similar_items": [
+    {
+      "id": "ikea_smyga_bed_storage_box",
+      "name": "SMYGA Bed storage box, light grey",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_smyga_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_relatera_drawer_white",
+      "name": "RELATERA Drawer, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_relatera_drawer_white.json"
+    },
+    {
+      "id": "ikea_malm_bed_storage_box_high",
+      "name": "MALM Bed storage box for high bed frame, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_malm_bed_storage_box_high.json"
+    },
+    {
+      "id": "ikea_komplement_drawer_100x58",
+      "name": "KOMPLEMENT Drawer 100×58, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_komplement_drawer_100x58.json"
+    },
+    {
+      "id": "ikea_gladstad_bed_storage_box",
+      "name": "GLADSTAD Upholstered bed storage box, light grey",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_gladstad_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_alex_storage_unit_white",
+      "name": "ALEX Storage unit, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
+    }
+  ],
+  "actions": {
+    "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Add%20dimensions",
+    "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Add%20official%20source",
+    "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Report%20duplicate",
+    "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Report%20dispute",
+    "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+    "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/gullaberg/bed-storage-drawer.json",
+    "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/gullaberg/bed-storage-drawer.json"
+  },
+  "links": {
+    "github_repo": "https://github.com/schieska/dimensions-db",
+    "contributing": "https://github.com/schieska/dimensions-db/blob/main/contributing.md",
+    "raw_item": "https://raw.githubusercontent.com/schieska/dimensions-db/main/src/items/ikea/gullaberg/bed-storage-drawer.json"
+  }
+}

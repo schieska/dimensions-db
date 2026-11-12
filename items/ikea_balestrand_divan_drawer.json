@@ -1,0 +1,65 @@
+{
+  "id": "ikea_balestrand_divan_drawer",
+  "type": "drawer",
+  "name": "BALESTRAND Divan base drawer (inside)",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside BALESTRAND divan base with 2 drawers. Furniture outer omitted (not the drawer outer).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 1150,
+    "y": 600,
+    "z": 240
+  },
+  "inner_size_in": {
+    "x": 45.276,
+    "y": 23.622,
+    "z": 9.449
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/balestrand-divan-base-with-2-drawers-skiftebo-grey-90409631/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 1150×600×240 mm. Same inside on 704.096.32."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "904.096.31",
+      "704.096.32"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

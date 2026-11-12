@@ -1,0 +1,66 @@
+{
+  "id": "ikea_storklinta_chest_2_drawer_40",
+  "type": "drawer",
+  "name": "STORKLINTA Chest of 2 drawers cavity, dark grey 40×50",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside STORKLINTA chest of 2 drawers, 40×50×53 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 310,
+    "y": 400,
+    "z": 160
+  },
+  "inner_size_in": {
+    "x": 12.205,
+    "y": 15.748,
+    "z": 6.299
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/storklinta-chest-of-2-drawers-dark-grey-80628219/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 310×400×160 mm. Same inside on 206.314.13, 006.314.14."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "806.282.19",
+      "206.314.13",
+      "006.314.14"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

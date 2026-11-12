@@ -1,0 +1,64 @@
+{
+  "id": "ikea_rosentorp_desk_drawer",
+  "type": "drawer",
+  "name": "ROSENTORP Desk drawer, white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside ROSENTORP desk 120×60 cm. Same inside size as RELATERA drawer.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 420,
+    "y": 330,
+    "z": 50
+  },
+  "inner_size_in": {
+    "x": 16.535,
+    "y": 12.992,
+    "z": 1.969
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/rosentorp-desk-white-60606237/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 420×330×50 mm. Same inside size as RELATERA drawer; likely the same drawer."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "606.062.37"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

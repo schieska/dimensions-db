@@ -1,0 +1,64 @@
+{
+  "id": "ikea_stomsoe_bedside_table_drawer",
+  "type": "drawer",
+  "name": "STOMSÖ Wall-mounted bedside table drawer",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside STOMSÖ wall-mounted bedside table 36×29×20 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 270,
+    "y": 240,
+    "z": 65
+  },
+  "inner_size_in": {
+    "x": 10.63,
+    "y": 9.449,
+    "z": 2.559
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/stomsoe-wall-mounted-bedside-table-birch-effect-white-blue-70567805/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 270×240×65 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "705.678.05"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

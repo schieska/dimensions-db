@@ -1,0 +1,64 @@
+{
+  "id": "ikea_gullaberg_bedside_table_drawer_door",
+  "type": "drawer",
+  "name": "GULLABERG Bedside table drawer (with door), white",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside GULLABERG bedside table with 1 drawer with door, 38×40×75 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 210,
+    "y": 300,
+    "z": 60
+  },
+  "inner_size_in": {
+    "x": 8.268,
+    "y": 11.811,
+    "z": 2.362
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/gullaberg-bedside-table-with-1-drawer-with-door-white-20561764/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 210×300×60 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "205.617.64"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

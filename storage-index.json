@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-11-11T13:50:34.825Z",
+  "generated_at": "2026-11-12T18:28:06.443Z",
   "items": [
     {
       "id": "allit_europlus_europlus_flex",
@@ -2055,6 +2055,43 @@
       "source_layer": "open_database"
     },
     {
+      "id": "ikea_balestrand_divan_drawer",
+      "slug": "ikea-balestrand-divan-drawer",
+      "name": "BALESTRAND Divan base drawer (inside)",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_balestrand_divan_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_balestrand_divan_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_balestrand_divan_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_balestrand_divan_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_balestrand_divan_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/balestrand/divan-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/balestrand/divan-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
       "id": "ikea_billy_bookcase_compartment",
       "slug": "ikea-billy-bookcase-compartment",
       "name": "BILLY bookcase shelf compartment",
@@ -2091,6 +2128,191 @@
       "source_layer": "open_database"
     },
     {
+      "id": "ikea_bjorksnaes_bedside_table_drawer",
+      "slug": "ikea-bjorksnaes-bedside-table-drawer",
+      "name": "BJÖRKSNÄS Bedside table drawer, birch",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_bjorksnaes_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_bjorksnaes_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_bjorksnaes_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_bjorksnaes_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_bjorksnaes_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/bjorksnaes/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/bjorksnaes/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_blankhallan_bedside_table_drawer",
+      "slug": "ikea-blankhallan-bedside-table-drawer",
+      "name": "BLANKHÄLLAN Bedside table drawer, beige/pink",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_blankhallan_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_blankhallan_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_blankhallan_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_blankhallan_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_blankhallan_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/blankhallan/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/blankhallan/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_blastasen_bedside_table_drawer",
+      "slug": "ikea-blastasen-bedside-table-drawer",
+      "name": "BLÄSTÅSEN Bedside table drawer, grey-beige",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_blastasen_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_blastasen_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_blastasen_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_blastasen_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_blastasen_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/blastasen/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/blastasen/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_brimnes_bed_storage_drawer",
+      "slug": "ikea-brimnes-bed-storage-drawer",
+      "name": "BRIMNES Bed frame with storage drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_brimnes_bed_storage_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_brimnes_bed_storage_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_brimnes_bed_storage_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_brimnes_bed_storage_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_brimnes_bed_storage_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/brimnes/bed-storage-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/brimnes/bed-storage-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_brimnes_day_bed_drawer",
+      "slug": "ikea-brimnes-day-bed-drawer",
+      "name": "BRIMNES Day-bed frame drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_brimnes_day_bed_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_brimnes_day_bed_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_brimnes_day_bed_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_brimnes_day_bed_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_brimnes_day_bed_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/brimnes/day-bed-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/brimnes/day-bed-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
       "id": "ikea_eket_cabinet_1x1",
       "slug": "ikea-eket-cabinet-1x1",
       "name": "EKET cabinet 35×25 cm",
@@ -2123,6 +2345,154 @@
         "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
         "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/eket/cabinet-1x1.json",
         "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/eket/cabinet-1x1.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_enkroken_desk_drawer",
+      "slug": "ikea-enkroken-desk-drawer",
+      "name": "ENKROKEN Desk drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_enkroken_desk_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_enkroken_desk_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_enkroken_desk_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_enkroken_desk_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_enkroken_desk_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/enkroken/desk-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/enkroken/desk-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_fagelfjallet_bed_storage_box",
+      "slug": "ikea-fagelfjallet-bed-storage-box",
+      "name": "FÅGELFJÄLLET Bed storage box, off-white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_fagelfjallet_bed_storage_box.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_fagelfjallet_bed_storage_box%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_fagelfjallet_bed_storage_box%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_fagelfjallet_bed_storage_box%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_fagelfjallet_bed_storage_box%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/fagelfjallet/bed-storage-box.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/fagelfjallet/bed-storage-box.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_fagelfjallet_bed_storage_drawer",
+      "slug": "ikea-fagelfjallet-bed-storage-drawer",
+      "name": "FÅGELFJÄLLET Bed frame storage box (inside), off-white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_fagelfjallet_bed_storage_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_fagelfjallet_bed_storage_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_fagelfjallet_bed_storage_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_fagelfjallet_bed_storage_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_fagelfjallet_bed_storage_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/fagelfjallet/bed-storage-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/fagelfjallet/bed-storage-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_flekke_day_bed_drawer",
+      "slug": "ikea-flekke-day-bed-drawer",
+      "name": "FLEKKE Day-bed frame drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_flekke_day_bed_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_flekke_day_bed_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_flekke_day_bed_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_flekke_day_bed_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_flekke_day_bed_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/flekke/day-bed-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/flekke/day-bed-drawer.json"
       },
       "source_layer": "open_database"
     },
@@ -2204,6 +2574,226 @@
       "source_layer": "open_database"
     },
     {
+      "id": "ikea_gladstad_bed_storage_box",
+      "slug": "ikea-gladstad-bed-storage-box",
+      "name": "GLADSTAD Upholstered bed storage box, light grey",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_gladstad_bed_storage_box.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_gladstad_bed_storage_box%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_gladstad_bed_storage_box%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_gladstad_bed_storage_box%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_gladstad_bed_storage_box%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/gladstad/bed-storage-box.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/gladstad/bed-storage-box.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_grafjallet_dressing_table_drawer",
+      "slug": "ikea-grafjallet-dressing-table-drawer",
+      "name": "GRÅFJÄLLET Dressing table drawer, anthracite",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_grafjallet_dressing_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_grafjallet_dressing_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_grafjallet_dressing_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_grafjallet_dressing_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_grafjallet_dressing_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/grafjallet/dressing-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/grafjallet/dressing-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_gullaberg_bed_storage_box",
+      "slug": "ikea-gullaberg-bed-storage-box",
+      "name": "GULLABERG Bed storage box, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_gullaberg_bed_storage_box.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_gullaberg_bed_storage_box%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_gullaberg_bed_storage_box%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_gullaberg_bed_storage_box%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_gullaberg_bed_storage_box%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/gullaberg/bed-storage-box.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/gullaberg/bed-storage-box.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_gullaberg_bed_storage_drawer",
+      "slug": "ikea-gullaberg-bed-storage-drawer",
+      "name": "GULLABERG Bed frame storage box (inside), grey",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_gullaberg_bed_storage_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_gullaberg_bed_storage_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/gullaberg/bed-storage-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/gullaberg/bed-storage-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_gullaberg_bedside_table_drawer_door",
+      "slug": "ikea-gullaberg-bedside-table-drawer-door",
+      "name": "GULLABERG Bedside table drawer (with door), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_gullaberg_bedside_table_drawer_door.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_gullaberg_bedside_table_drawer_door%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_gullaberg_bedside_table_drawer_door%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_gullaberg_bedside_table_drawer_door%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_gullaberg_bedside_table_drawer_door%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/gullaberg/bedside-table-drawer-door.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/gullaberg/bedside-table-drawer-door.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_gullaberg_bedside_table_drawer_shelf",
+      "slug": "ikea-gullaberg-bedside-table-drawer-shelf",
+      "name": "GULLABERG Bedside table drawer (with shelf), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_gullaberg_bedside_table_drawer_shelf.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_gullaberg_bedside_table_drawer_shelf%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_gullaberg_bedside_table_drawer_shelf%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_gullaberg_bedside_table_drawer_shelf%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_gullaberg_bedside_table_drawer_shelf%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/gullaberg/bedside-table-drawer-shelf.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/gullaberg/bedside-table-drawer-shelf.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
       "id": "ikea_helmer_drawer_black",
       "slug": "ikea-helmer-drawer-black",
       "name": "HELMER Drawer, black",
@@ -2275,6 +2865,154 @@
         "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
         "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/helmer/drawer-unit-black.json",
         "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/helmer/drawer-unit-black.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_hemnes_day_bed_drawer_grey_green",
+      "slug": "ikea-hemnes-day-bed-drawer-grey-green",
+      "name": "HEMNES Day-bed frame drawer, grey-green",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_hemnes_day_bed_drawer_grey_green.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_hemnes_day_bed_drawer_grey_green%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_hemnes_day_bed_drawer_grey_green%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_hemnes_day_bed_drawer_grey_green%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_hemnes_day_bed_drawer_grey_green%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/hemnes/day-bed-drawer-grey-green.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/hemnes/day-bed-drawer-grey-green.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_hemnes_day_bed_drawer_white",
+      "slug": "ikea-hemnes-day-bed-drawer-white",
+      "name": "HEMNES Day-bed frame drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_hemnes_day_bed_drawer_white.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_hemnes_day_bed_drawer_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_hemnes_day_bed_drawer_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_hemnes_day_bed_drawer_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_hemnes_day_bed_drawer_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/hemnes/day-bed-drawer-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/hemnes/day-bed-drawer-white.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_idanaes_bedside_table_drawer",
+      "slug": "ikea-idanaes-bedside-table-drawer",
+      "name": "IDANÄS Bedside table drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_idanaes_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_idanaes_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_idanaes_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_idanaes_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_idanaes_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/idanaes/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/idanaes/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_idanaes_cabinet_drawer",
+      "slug": "ikea-idanaes-cabinet-drawer",
+      "name": "IDANÄS Cabinet drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_idanaes_cabinet_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_idanaes_cabinet_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_idanaes_cabinet_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_idanaes_cabinet_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_idanaes_cabinet_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/idanaes/cabinet-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/idanaes/cabinet-drawer.json"
       },
       "source_layer": "open_database"
     },
@@ -2459,6 +3197,150 @@
       "source_layer": "open_database"
     },
     {
+      "id": "ikea_komplement_drawer_100x58",
+      "slug": "ikea-komplement-drawer-100x58",
+      "name": "KOMPLEMENT Drawer 100×58, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_komplement_drawer_100x58.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_komplement_drawer_100x58%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_komplement_drawer_100x58%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_komplement_drawer_100x58%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_komplement_drawer_100x58%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/komplement/drawer-100x58.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/komplement/drawer-100x58.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_malm_bed_storage_box_high",
+      "slug": "ikea-malm-bed-storage-box-high",
+      "name": "MALM Bed storage box for high bed frame, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_malm_bed_storage_box_high.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_malm_bed_storage_box_high%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_malm_bed_storage_box_high%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_malm_bed_storage_box_high%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_malm_bed_storage_box_high%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/malm/bed-storage-box-high.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/malm/bed-storage-box-high.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_malm_ottoman_storage_double",
+      "slug": "ikea-malm-ottoman-storage-double",
+      "name": "MALM Ottoman bed storage (double), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_malm_ottoman_storage_double.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_malm_ottoman_storage_double%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_malm_ottoman_storage_double%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_malm_ottoman_storage_double%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_malm_ottoman_storage_double%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/malm/ottoman-storage-double.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/malm/ottoman-storage-double.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_malm_ottoman_storage_single",
+      "slug": "ikea-malm-ottoman-storage-single",
+      "name": "MALM Ottoman bed storage (single), white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "container",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_malm_ottoman_storage_single.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_malm_ottoman_storage_single%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_malm_ottoman_storage_single%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_malm_ottoman_storage_single%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_malm_ottoman_storage_single%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/malm/ottoman-storage-single.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/malm/ottoman-storage-single.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
       "id": "ikea_micke_drawer_unit_white",
       "slug": "ikea-micke-drawer-unit-white",
       "name": "MICKE Drawer unit on castors, white",
@@ -2536,6 +3418,43 @@
       "source_layer": "open_database"
     },
     {
+      "id": "ikea_nordli_bed_storage_drawer",
+      "slug": "ikea-nordli-bed-storage-drawer",
+      "name": "NORDLI Bed frame with storage drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_nordli_bed_storage_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_nordli_bed_storage_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_nordli_bed_storage_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_nordli_bed_storage_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_nordli_bed_storage_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/nordli/bed-storage-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/nordli/bed-storage-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
       "id": "ikea_pappis_box_lidded",
       "slug": "ikea-pappis-box-lidded",
       "name": "PAPPIS box with lid",
@@ -2568,6 +3487,78 @@
         "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
         "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/pappis/box-lidded.json",
         "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/pappis/box-lidded.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_radmansoe_bedside_table_drawer",
+      "slug": "ikea-radmansoe-bedside-table-drawer",
+      "name": "RÅDMANSÖ Bedside table drawer, brown walnut effect",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_radmansoe_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_radmansoe_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_radmansoe_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_radmansoe_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_radmansoe_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/radmansoe/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/radmansoe/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_relatera_drawer_white",
+      "slug": "ikea-relatera-drawer-white",
+      "name": "RELATERA Drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_relatera_drawer_white.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_relatera_drawer_white%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_relatera_drawer_white%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_relatera_drawer_white%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_relatera_drawer_white%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/relatera/drawer-white.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/relatera/drawer-white.json"
       },
       "source_layer": "open_database"
     },
@@ -2644,6 +3635,43 @@
       "source_layer": "open_database"
     },
     {
+      "id": "ikea_rosentorp_desk_drawer",
+      "slug": "ikea-rosentorp-desk-drawer",
+      "name": "ROSENTORP Desk drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_rosentorp_desk_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_rosentorp_desk_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_rosentorp_desk_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_rosentorp_desk_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_rosentorp_desk_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/rosentorp/desk-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/rosentorp/desk-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
       "id": "ikea_samla_box_11l_clear",
       "slug": "ikea-samla-box-11l-clear",
       "name": "SAMLA Box with lid, transparent, 11 l",
@@ -2683,6 +3711,411 @@
         "promotion_guide": "https://github.com/schieska/dimensions-db/blob/main/.github/PULL_REQUEST_TEMPLATE/promote-to-open-db.md"
       },
       "source_layer": "storage_index"
+    },
+    {
+      "id": "ikea_slaekt_nattapa_bed_storage_drawer",
+      "slug": "ikea-slaekt-nattapa-bed-storage-drawer",
+      "name": "SLÄKT/NATTAPA Bed frame storage drawer, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_slaekt_nattapa_bed_storage_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_slaekt_nattapa_bed_storage_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_slaekt_nattapa_bed_storage_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_slaekt_nattapa_bed_storage_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_slaekt_nattapa_bed_storage_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/slaekt/nattapa-bed-storage-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/slaekt/nattapa-bed-storage-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_smyga_bed_storage_box",
+      "slug": "ikea-smyga-bed-storage-box",
+      "name": "SMYGA Bed storage box, light grey",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_smyga_bed_storage_box.json",
+      "badges": [
+        "In open database",
+        "Needs evidence"
+      ],
+      "missing": [
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_smyga_bed_storage_box%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_smyga_bed_storage_box%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_smyga_bed_storage_box%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_smyga_bed_storage_box%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/smyga/bed-storage-box.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/smyga/bed-storage-box.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_stomsoe_bedside_table_drawer",
+      "slug": "ikea-stomsoe-bedside-table-drawer",
+      "name": "STOMSÖ Wall-mounted bedside table drawer",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_stomsoe_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_stomsoe_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_stomsoe_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_stomsoe_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_stomsoe_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/stomsoe/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/stomsoe/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_storklinta_bed_storage_box",
+      "slug": "ikea-storklinta-bed-storage-box",
+      "name": "STORKLINTA Bed storage box, white",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_storklinta_bed_storage_box.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_storklinta_bed_storage_box%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_storklinta_bed_storage_box%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_storklinta_bed_storage_box%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_storklinta_bed_storage_box%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/storklinta/bed-storage-box.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/storklinta/bed-storage-box.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_storklinta_chest_2_drawer_30",
+      "slug": "ikea-storklinta-chest-2-drawer-30",
+      "name": "STORKLINTA Chest of 2 drawers cavity, white 30×50",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_storklinta_chest_2_drawer_30.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_storklinta_chest_2_drawer_30%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_storklinta_chest_2_drawer_30%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_storklinta_chest_2_drawer_30%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_storklinta_chest_2_drawer_30%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/storklinta/chest-2-drawer-30.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/storklinta/chest-2-drawer-30.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_storklinta_chest_2_drawer_40",
+      "slug": "ikea-storklinta-chest-2-drawer-40",
+      "name": "STORKLINTA Chest of 2 drawers cavity, dark grey 40×50",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_storklinta_chest_2_drawer_40.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_storklinta_chest_2_drawer_40%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_storklinta_chest_2_drawer_40%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_storklinta_chest_2_drawer_40%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_storklinta_chest_2_drawer_40%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/storklinta/chest-2-drawer-40.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/storklinta/chest-2-drawer-40.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_tonstad_bed_storage_drawer",
+      "slug": "ikea-tonstad-bed-storage-drawer",
+      "name": "TONSTAD Bed frame with storage drawer, oak veneer",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_tonstad_bed_storage_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_tonstad_bed_storage_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_tonstad_bed_storage_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_tonstad_bed_storage_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_tonstad_bed_storage_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/tonstad/bed-storage-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/tonstad/bed-storage-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_vihals_bed_storage_box_200",
+      "slug": "ikea-vihals-bed-storage-box-200",
+      "name": "VIHALS Bed storage box drawer 2 (670×550), white (200 cm set)",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_vihals_bed_storage_box_200.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_vihals_bed_storage_box_200%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_vihals_bed_storage_box_200%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_vihals_bed_storage_box_200%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_vihals_bed_storage_box_200%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/vihals/bed-storage-box-200.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/vihals/bed-storage-box-200.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_vihals_bed_storage_box_single_double",
+      "slug": "ikea-vihals-bed-storage-box-single-double",
+      "name": "VIHALS Bed storage box drawer 1 (570×550), white (single/double set)",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_vihals_bed_storage_box_single_double.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_vihals_bed_storage_box_single_double%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_vihals_bed_storage_box_single_double%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_vihals_bed_storage_box_single_double%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_vihals_bed_storage_box_single_double%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/vihals/bed-storage-box-single-double.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/vihals/bed-storage-box-single-double.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_vikhammer_bedside_table_drawer",
+      "slug": "ikea-vikhammer-bedside-table-drawer",
+      "name": "VIKHAMMER Bedside table drawer, black",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_vikhammer_bedside_table_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_vikhammer_bedside_table_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_vikhammer_bedside_table_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_vikhammer_bedside_table_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_vikhammer_bedside_table_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/vikhammer/bedside-table-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/vikhammer/bedside-table-drawer.json"
+      },
+      "source_layer": "open_database"
+    },
+    {
+      "id": "ikea_vitbjoern_storage_unit_drawer",
+      "slug": "ikea-vitbjoern-storage-unit-drawer",
+      "name": "VITBJÖRN Storage unit drawer, white/red",
+      "brand_id": "ikea",
+      "brand_name": "IKEA",
+      "type": "drawer",
+      "in_open_database": true,
+      "derived_state": "in_open_database",
+      "verification_status": "community",
+      "completeness_score": 58,
+      "completeness_class": "partial_data",
+      "fit_readiness": "compare_only",
+      "has_outer_size": false,
+      "has_inner_size": true,
+      "image": null,
+      "page_path": "storage-pages/ikea_vitbjoern_storage_unit_drawer.json",
+      "badges": [
+        "In open database",
+        "Needs outer size",
+        "Needs evidence"
+      ],
+      "missing": [
+        "outer_size",
+        "evidence"
+      ],
+      "actions": {
+        "add_dimensions": "https://github.com/schieska/dimensions-db/issues/new?template=add-dimensions.yml&title=%5Bikea_vitbjoern_storage_unit_drawer%5D%20Add%20dimensions",
+        "add_official_source": "https://github.com/schieska/dimensions-db/issues/new?template=add-official-source.yml&title=%5Bikea_vitbjoern_storage_unit_drawer%5D%20Add%20official%20source",
+        "report_duplicate": "https://github.com/schieska/dimensions-db/issues/new?template=report-duplicate.yml&title=%5Bikea_vitbjoern_storage_unit_drawer%5D%20Report%20duplicate",
+        "report_dispute": "https://github.com/schieska/dimensions-db/issues/new?template=report-dispute.yml&title=%5Bikea_vitbjoern_storage_unit_drawer%5D%20Report%20dispute",
+        "discuss": "https://github.com/schieska/dimensions-db/discussions/new?category=measurements",
+        "edit_source": "https://github.com/schieska/dimensions-db/blob/main/src/items/ikea/vitbjoern/storage-unit-drawer.json",
+        "view_history": "https://github.com/schieska/dimensions-db/commits/main/src/items/ikea/vitbjoern/storage-unit-drawer.json"
+      },
+      "source_layer": "open_database"
     },
     {
       "id": "schoeller-allibert_euroclick_8300000",

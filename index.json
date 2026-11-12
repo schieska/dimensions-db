@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-11-11T13:50:34.825Z",
+  "generated_at": "2026-11-12T18:28:06.443Z",
   "items": [
     {
       "id": "wurth_pro-8-4_trolley",
@@ -311,6 +311,138 @@
       "path": "items/schoeller-allibert_euroclick_8300000.json"
     },
     {
+      "id": "ikea_vitbjoern_storage_unit_drawer",
+      "type": "drawer",
+      "name": "VITBJÖRN Storage unit drawer, white/red",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_vitbjoern_storage_unit_drawer.json"
+    },
+    {
+      "id": "ikea_vikhammer_bedside_table_drawer",
+      "type": "drawer",
+      "name": "VIKHAMMER Bedside table drawer, black",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_vikhammer_bedside_table_drawer.json"
+    },
+    {
+      "id": "ikea_vihals_bed_storage_box_single_double",
+      "type": "drawer",
+      "name": "VIHALS Bed storage box drawer 1 (570×550), white (single/double set)",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_vihals_bed_storage_box_single_double.json"
+    },
+    {
+      "id": "ikea_vihals_bed_storage_box_200",
+      "type": "drawer",
+      "name": "VIHALS Bed storage box drawer 2 (670×550), white (200 cm set)",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_vihals_bed_storage_box_200.json"
+    },
+    {
+      "id": "ikea_tonstad_bed_storage_drawer",
+      "type": "drawer",
+      "name": "TONSTAD Bed frame with storage drawer, oak veneer",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_tonstad_bed_storage_drawer.json"
+    },
+    {
+      "id": "ikea_storklinta_chest_2_drawer_40",
+      "type": "drawer",
+      "name": "STORKLINTA Chest of 2 drawers cavity, dark grey 40×50",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_storklinta_chest_2_drawer_40.json"
+    },
+    {
+      "id": "ikea_storklinta_chest_2_drawer_30",
+      "type": "drawer",
+      "name": "STORKLINTA Chest of 2 drawers cavity, white 30×50",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_storklinta_chest_2_drawer_30.json"
+    },
+    {
+      "id": "ikea_storklinta_bed_storage_box",
+      "type": "drawer",
+      "name": "STORKLINTA Bed storage box, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_storklinta_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_stomsoe_bedside_table_drawer",
+      "type": "drawer",
+      "name": "STOMSÖ Wall-mounted bedside table drawer",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_stomsoe_bedside_table_drawer.json"
+    },
+    {
+      "id": "ikea_smyga_bed_storage_box",
+      "type": "drawer",
+      "name": "SMYGA Bed storage box, light grey",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_smyga_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_slaekt_nattapa_bed_storage_drawer",
+      "type": "drawer",
+      "name": "SLÄKT/NATTAPA Bed frame storage drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_slaekt_nattapa_bed_storage_drawer.json"
+    },
+    {
+      "id": "ikea_rosentorp_desk_drawer",
+      "type": "drawer",
+      "name": "ROSENTORP Desk drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_rosentorp_desk_drawer.json"
+    },
+    {
       "id": "ikea_rensare_bag_small",
       "type": "container",
       "name": "RENSARE clothes bag, small",
@@ -333,6 +465,28 @@
       "path": "items/ikea_rensare_bag_large.json"
     },
     {
+      "id": "ikea_relatera_drawer_white",
+      "type": "drawer",
+      "name": "RELATERA Drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_relatera_drawer_white.json"
+    },
+    {
+      "id": "ikea_radmansoe_bedside_table_drawer",
+      "type": "drawer",
+      "name": "RÅDMANSÖ Bedside table drawer, brown walnut effect",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_radmansoe_bedside_table_drawer.json"
+    },
+    {
       "id": "ikea_pappis_box_lidded",
       "type": "container",
       "name": "PAPPIS box with lid",
@@ -342,6 +496,17 @@
         "product"
       ],
       "path": "items/ikea_pappis_box_lidded.json"
+    },
+    {
+      "id": "ikea_nordli_bed_storage_drawer",
+      "type": "drawer",
+      "name": "NORDLI Bed frame with storage drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_nordli_bed_storage_drawer.json"
     },
     {
       "id": "ikea_micke_drawer_white",
@@ -364,6 +529,48 @@
       ],
       "path": "items/ikea_micke_drawer_unit_white.json",
       "image": "https://www.ikea.com/nl/en/images/products/micke-drawer-unit-on-castors-white__0627113_pe693172_s5.jpg"
+    },
+    {
+      "id": "ikea_malm_ottoman_storage_single",
+      "type": "container",
+      "name": "MALM Ottoman bed storage (single), white",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_malm_ottoman_storage_single.json"
+    },
+    {
+      "id": "ikea_malm_ottoman_storage_double",
+      "type": "container",
+      "name": "MALM Ottoman bed storage (double), white",
+      "brand": "ikea",
+      "visibility": [
+        "component"
+      ],
+      "path": "items/ikea_malm_ottoman_storage_double.json"
+    },
+    {
+      "id": "ikea_malm_bed_storage_box_high",
+      "type": "drawer",
+      "name": "MALM Bed storage box for high bed frame, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_malm_bed_storage_box_high.json"
+    },
+    {
+      "id": "ikea_komplement_drawer_100x58",
+      "type": "drawer",
+      "name": "KOMPLEMENT Drawer 100×58, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_komplement_drawer_100x58.json"
     },
     {
       "id": "ikea_kallax_drawer_insert_compartment",
@@ -421,6 +628,50 @@
       "path": "items/ikea_ivar_shelf_80x30.json"
     },
     {
+      "id": "ikea_idanaes_cabinet_drawer",
+      "type": "drawer",
+      "name": "IDANÄS Cabinet drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_idanaes_cabinet_drawer.json"
+    },
+    {
+      "id": "ikea_idanaes_bedside_table_drawer",
+      "type": "drawer",
+      "name": "IDANÄS Bedside table drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_idanaes_bedside_table_drawer.json"
+    },
+    {
+      "id": "ikea_hemnes_day_bed_drawer_white",
+      "type": "drawer",
+      "name": "HEMNES Day-bed frame drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_hemnes_day_bed_drawer_white.json"
+    },
+    {
+      "id": "ikea_hemnes_day_bed_drawer_grey_green",
+      "type": "drawer",
+      "name": "HEMNES Day-bed frame drawer, grey-green",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_hemnes_day_bed_drawer_grey_green.json"
+    },
+    {
       "id": "ikea_helmer_drawer_unit_black",
       "type": "furniture",
       "name": "HELMER Drawer unit on castors, black",
@@ -441,6 +692,72 @@
         "component"
       ],
       "path": "items/ikea_helmer_drawer_black.json"
+    },
+    {
+      "id": "ikea_gullaberg_bedside_table_drawer_shelf",
+      "type": "drawer",
+      "name": "GULLABERG Bedside table drawer (with shelf), white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_gullaberg_bedside_table_drawer_shelf.json"
+    },
+    {
+      "id": "ikea_gullaberg_bedside_table_drawer_door",
+      "type": "drawer",
+      "name": "GULLABERG Bedside table drawer (with door), white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_gullaberg_bedside_table_drawer_door.json"
+    },
+    {
+      "id": "ikea_gullaberg_bed_storage_drawer",
+      "type": "drawer",
+      "name": "GULLABERG Bed frame storage box (inside), grey",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_gullaberg_bed_storage_drawer.json"
+    },
+    {
+      "id": "ikea_gullaberg_bed_storage_box",
+      "type": "drawer",
+      "name": "GULLABERG Bed storage box, white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_gullaberg_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_grafjallet_dressing_table_drawer",
+      "type": "drawer",
+      "name": "GRÅFJÄLLET Dressing table drawer, anthracite",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_grafjallet_dressing_table_drawer.json"
+    },
+    {
+      "id": "ikea_gladstad_bed_storage_box",
+      "type": "drawer",
+      "name": "GLADSTAD Upholstered bed storage box, light grey",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_gladstad_bed_storage_box.json"
     },
     {
       "id": "ikea_friidrott_drawer_white",
@@ -465,6 +782,50 @@
       "image": "https://www.ikea.com/nl/en/images/products/friidrott-drawer-unit-on-castors-white__1480198_pe1000154_s5.jpg"
     },
     {
+      "id": "ikea_flekke_day_bed_drawer",
+      "type": "drawer",
+      "name": "FLEKKE Day-bed frame drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_flekke_day_bed_drawer.json"
+    },
+    {
+      "id": "ikea_fagelfjallet_bed_storage_drawer",
+      "type": "drawer",
+      "name": "FÅGELFJÄLLET Bed frame storage box (inside), off-white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_fagelfjallet_bed_storage_drawer.json"
+    },
+    {
+      "id": "ikea_fagelfjallet_bed_storage_box",
+      "type": "drawer",
+      "name": "FÅGELFJÄLLET Bed storage box, off-white",
+      "brand": "ikea",
+      "visibility": [
+        "product",
+        "standalone"
+      ],
+      "path": "items/ikea_fagelfjallet_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_enkroken_desk_drawer",
+      "type": "drawer",
+      "name": "ENKROKEN Desk drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_enkroken_desk_drawer.json"
+    },
+    {
       "id": "ikea_eket_cabinet_1x1",
       "type": "furniture",
       "name": "EKET cabinet 35×25 cm",
@@ -476,6 +837,61 @@
       "path": "items/ikea_eket_cabinet_1x1.json"
     },
     {
+      "id": "ikea_brimnes_day_bed_drawer",
+      "type": "drawer",
+      "name": "BRIMNES Day-bed frame drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_brimnes_day_bed_drawer.json"
+    },
+    {
+      "id": "ikea_brimnes_bed_storage_drawer",
+      "type": "drawer",
+      "name": "BRIMNES Bed frame with storage drawer, white",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_brimnes_bed_storage_drawer.json"
+    },
+    {
+      "id": "ikea_blastasen_bedside_table_drawer",
+      "type": "drawer",
+      "name": "BLÄSTÅSEN Bedside table drawer, grey-beige",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_blastasen_bedside_table_drawer.json"
+    },
+    {
+      "id": "ikea_blankhallan_bedside_table_drawer",
+      "type": "drawer",
+      "name": "BLANKHÄLLAN Bedside table drawer, beige/pink",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_blankhallan_bedside_table_drawer.json"
+    },
+    {
+      "id": "ikea_bjorksnaes_bedside_table_drawer",
+      "type": "drawer",
+      "name": "BJÖRKSNÄS Bedside table drawer, birch",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_bjorksnaes_bedside_table_drawer.json"
+    },
+    {
       "id": "ikea_billy_bookcase_compartment",
       "type": "furniture",
       "name": "BILLY bookcase shelf compartment",
@@ -485,6 +901,17 @@
         "product"
       ],
       "path": "items/ikea_billy_bookcase_compartment.json"
+    },
+    {
+      "id": "ikea_balestrand_divan_drawer",
+      "type": "drawer",
+      "name": "BALESTRAND Divan base drawer (inside)",
+      "brand": "ikea",
+      "visibility": [
+        "standalone",
+        "component"
+      ],
+      "path": "items/ikea_balestrand_divan_drawer.json"
     },
     {
       "id": "ikea_alex_storage_unit_white",

@@ -1,0 +1,64 @@
+{
+  "id": "ikea_bjorksnaes_bedside_table_drawer",
+  "type": "drawer",
+  "name": "BJÖRKSNÄS Bedside table drawer, birch",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Drawer cavity inside BJÖRKSNÄS bedside table 48×38 cm.",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 330,
+    "y": 260,
+    "z": 80
+  },
+  "inner_size_in": {
+    "x": 12.992,
+    "y": 10.236,
+    "z": 3.15
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/bjoerksnaes-bedside-table-birch-70407360/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 330×260×80 mm (Width/Depth/Height of drawer inside)."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "704.073.60"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}

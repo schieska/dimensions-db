@@ -77,52 +77,52 @@
   },
   "similar_items": [
     {
+      "id": "ikea_smyga_bed_storage_box",
+      "name": "SMYGA Bed storage box, light grey",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_smyga_bed_storage_box.json"
+    },
+    {
+      "id": "ikea_relatera_drawer_white",
+      "name": "RELATERA Drawer, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_relatera_drawer_white.json"
+    },
+    {
+      "id": "ikea_malm_bed_storage_box_high",
+      "name": "MALM Bed storage box for high bed frame, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_malm_bed_storage_box_high.json"
+    },
+    {
+      "id": "ikea_komplement_drawer_100x58",
+      "name": "KOMPLEMENT Drawer 100×58, white",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_komplement_drawer_100x58.json"
+    },
+    {
+      "id": "ikea_gladstad_bed_storage_box",
+      "name": "GLADSTAD Upholstered bed storage box, light grey",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_gladstad_bed_storage_box.json"
+    },
+    {
       "id": "ikea_alex_storage_unit_white",
       "name": "ALEX Storage unit, white",
       "in_open_database": true,
       "completeness_score": 78,
       "fit_readiness": "candidate_fit",
       "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
-    },
-    {
-      "id": "ssi-schaefer_elb_6320",
-      "name": "ELB 6320",
-      "in_open_database": true,
-      "completeness_score": 78,
-      "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ssi-schaefer_elb_6320.json"
-    },
-    {
-      "id": "ssi-schaefer_elb_6220",
-      "name": "ELB 6220",
-      "in_open_database": true,
-      "completeness_score": 78,
-      "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ssi-schaefer_elb_6220.json"
-    },
-    {
-      "id": "ssi-schaefer_elb_6120",
-      "name": "ELB 6120",
-      "in_open_database": true,
-      "completeness_score": 78,
-      "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ssi-schaefer_elb_6120.json"
-    },
-    {
-      "id": "ssi-schaefer_elb_4220",
-      "name": "ELB 4220",
-      "in_open_database": true,
-      "completeness_score": 78,
-      "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ssi-schaefer_elb_4220.json"
-    },
-    {
-      "id": "ssi-schaefer_elb_4120",
-      "name": "ELB 4120",
-      "in_open_database": true,
-      "completeness_score": 78,
-      "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ssi-schaefer_elb_4120.json"
     }
   ],
   "actions": {

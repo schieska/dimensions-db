@@ -1,0 +1,64 @@
+{
+  "id": "ikea_gullaberg_bed_storage_drawer",
+  "type": "drawer",
+  "name": "GULLABERG Bed frame storage box (inside), grey",
+  "brand": "ikea",
+  "origin": null,
+  "description": "Storage-box cavity inside GULLABERG bed frame with 4 storage boxes (Standard King).",
+  "translations": null,
+  "inner_size_mm": {
+    "x": 950,
+    "y": 600,
+    "z": 130
+  },
+  "inner_size_in": {
+    "x": 37.402,
+    "y": 23.622,
+    "z": 5.118
+  },
+  "outer_size_mm": null,
+  "outer_size_in": null,
+  "visibility": [
+    "standalone",
+    "component"
+  ],
+  "materials": null,
+  "features": null,
+  "parts": null,
+  "sources": [
+    {
+      "kind": "manufacturer",
+      "url": "https://www.ikea.com/gb/en/p/gullaberg-bed-frame-with-4-storage-boxes-grey-loenset-s79614869/"
+    }
+  ],
+  "measurements": [
+    {
+      "by": "gh:schieska",
+      "type": "initial",
+      "method": "manufacturer-spec",
+      "tool": "unknown",
+      "date": "2026-11-11",
+      "notes": "Official IKEA GB inside 950×600×130 mm."
+    }
+  ],
+  "tolerance_mm": null,
+  "referenced_by_count": 0,
+  "added_by": "gh:schieska",
+  "status": "community",
+  "accuracy": "high",
+  "slug": null,
+  "verification_state": null,
+  "confidence": "high",
+  "evidence": null,
+  "identifiers": {
+    "mpn": [
+      "S796.148.69"
+    ]
+  },
+  "variant_of": null,
+  "variant": null,
+  "images": null,
+  "deprecated": null,
+  "replaced_by": null,
+  "updated_at": "2026-11-11"
+}
