@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_vihals_bed_storage_box_200",
+    "type": "drawer",
+    "name": "VIHALS Bed storage box drawer 2 (670×550), white (200 cm set)",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Second drawer compartment from VIHALS bed storage box set of 2 for 200 cm beds (IKEA: Width of drawer 2 inside = 67 cm). The set's drawer 1 compartment is 570×550×140 mm. Set-level outer omitted because it spans both drawers.",
+    "inner_size": {
+        "x": 670,
+        "y": 550,
+        "z": 140
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/vihals-bed-storage-box-set-of-2-white-30595117/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB article 305.951.17 (200 cm set): drawer 2 inside 670×550×140 mm. Same page: drawer 1 = 570×550×140. Different article from 806.024.60."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "305.951.17"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

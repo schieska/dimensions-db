@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_hemnes_day_bed_drawer_grey_green",
+    "type": "drawer",
+    "name": "HEMNES Day-bed frame drawer, grey-green",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside HEMNES day-bed frame with 3 drawers, grey-green, 80×200 cm.",
+    "inner_size": {
+        "x": 540,
+        "y": 700,
+        "z": 180
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-grey-green-80622892/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 540×700×180 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "806.228.92"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

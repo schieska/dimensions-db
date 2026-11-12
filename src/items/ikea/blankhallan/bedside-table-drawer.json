@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_blankhallan_bedside_table_drawer",
+    "type": "drawer",
+    "name": "BLANKHÄLLAN Bedside table drawer, beige/pink",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside BLANKHÄLLAN bedside table.",
+    "inner_size": {
+        "x": 218,
+        "y": 230,
+        "z": 50
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/blankhaellan-bedside-table-beige-pink-50620998/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 218×230×50 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "506.209.98"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

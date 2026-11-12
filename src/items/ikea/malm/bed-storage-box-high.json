@@ -1,0 +1,48 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_malm_bed_storage_box_high",
+    "type": "drawer",
+    "name": "MALM Bed storage box for high bed frame, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "IKEA MALM under-bed storage drawer for high bed frame, 200 cm.",
+    "inner_size": {
+        "x": 970,
+        "y": 590,
+        "z": 150
+    },
+    "outer_size": {
+        "x": 1000,
+        "y": 620,
+        "z": 290
+    },
+    "visibility": [
+        "product",
+        "standalone"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/malm-bed-storage-box-for-high-bed-frame-white-40249541/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 970×590×150 mm. Outer 1000×620×290 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "402.495.41"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

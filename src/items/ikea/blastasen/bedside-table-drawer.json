@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_blastasen_bedside_table_drawer",
+    "type": "drawer",
+    "name": "BLÄSTÅSEN Bedside table drawer, grey-beige",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside BLÄSTÅSEN bedside table 50×37×76 cm.",
+    "inner_size": {
+        "x": 290,
+        "y": 270,
+        "z": 100
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/blaestasen-bedside-table-grey-beige-70617570/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 290×270×100 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "706.175.70"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

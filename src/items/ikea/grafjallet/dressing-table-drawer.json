@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_grafjallet_dressing_table_drawer",
+    "type": "drawer",
+    "name": "GRÅFJÄLLET Dressing table drawer, anthracite",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside GRÅFJÄLLET dressing table 100×42 cm.",
+    "inner_size": {
+        "x": 580,
+        "y": 390,
+        "z": 70
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/grafjaellet-dressing-table-anthracite-30570225/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 580×390×70 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "305.702.25"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}

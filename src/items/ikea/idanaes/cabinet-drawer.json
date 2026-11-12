@@ -1,0 +1,43 @@
+{
+    "$schema": "../../../../schema/item.schema.json",
+    "id": "ikea_idanaes_cabinet_drawer",
+    "type": "drawer",
+    "name": "IDANÄS Cabinet drawer, white",
+    "brand": "ikea",
+    "added_by": "gh:schieska",
+    "description": "Drawer cavity inside IDANÄS cabinet with bi-folded glass doors 121×50×135 cm.",
+    "inner_size": {
+        "x": 530,
+        "y": 400,
+        "z": 80
+    },
+    "visibility": [
+        "standalone",
+        "component"
+    ],
+    "sources": [
+        {
+            "kind": "manufacturer",
+            "url": "https://www.ikea.com/gb/en/p/idanaes-cabinet-with-bi-folded-glass-doors-white-10496038/"
+        }
+    ],
+    "measurements": [
+        {
+            "by": "gh:schieska",
+            "type": "initial",
+            "method": "manufacturer-spec",
+            "tool": "unknown",
+            "date": "2026-11-11",
+            "notes": "Official IKEA GB inside 530×400×80 mm."
+        }
+    ],
+    "accuracy": "high",
+    "confidence": "high",
+    "status": "community",
+    "identifiers": {
+        "mpn": [
+            "104.960.38"
+        ]
+    },
+    "updated_at": "2026-11-11"
+}
