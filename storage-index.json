@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-11-12T18:28:06.443Z",
+  "generated_at": "2026-11-15T11:59:12.089Z",
   "items": [
     {
       "id": "allit_europlus_europlus_flex",
@@ -4016,20 +4016,18 @@
       "in_open_database": true,
       "derived_state": "in_open_database",
       "verification_status": "community",
-      "completeness_score": 58,
-      "completeness_class": "partial_data",
-      "fit_readiness": "compare_only",
-      "has_outer_size": false,
+      "completeness_score": 78,
+      "completeness_class": "review_candidate",
+      "fit_readiness": "candidate_fit",
+      "has_outer_size": true,
       "has_inner_size": true,
       "image": null,
       "page_path": "storage-pages/ikea_vihals_bed_storage_box_single_double.json",
       "badges": [
         "In open database",
-        "Needs outer size",
         "Needs evidence"
       ],
       "missing": [
-        "outer_size",
         "evidence"
       ],
       "actions": {

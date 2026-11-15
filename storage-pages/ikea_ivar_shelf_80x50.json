@@ -94,6 +94,14 @@
   },
   "similar_items": [
     {
+      "id": "ikea_vihals_bed_storage_box_single_double",
+      "name": "VIHALS Bed storage box drawer 1 (570×550), white (single/double set)",
+      "in_open_database": true,
+      "completeness_score": 78,
+      "fit_readiness": "candidate_fit",
+      "page_path": "storage-pages/ikea_vihals_bed_storage_box_single_double.json"
+    },
+    {
       "id": "ikea_smyga_bed_storage_box",
       "name": "SMYGA Bed storage box, light grey",
       "in_open_database": true,
@@ -132,14 +140,6 @@
       "completeness_score": 78,
       "fit_readiness": "candidate_fit",
       "page_path": "storage-pages/ikea_gladstad_bed_storage_box.json"
-    },
-    {
-      "id": "ikea_alex_storage_unit_white",
-      "name": "ALEX Storage unit, white",
-      "in_open_database": true,
-      "completeness_score": 78,
-      "fit_readiness": "candidate_fit",
-      "page_path": "storage-pages/ikea_alex_storage_unit_white.json"
     }
   ],
   "actions": {

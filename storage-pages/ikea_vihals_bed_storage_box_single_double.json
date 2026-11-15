@@ -13,20 +13,20 @@
     "body": "Published in Dimensions DB open exports (database.json / items). Review verification and sources before exact-fit use."
   },
   "completeness": {
-    "score": 58,
-    "class": "partial_data",
+    "score": 78,
+    "class": "review_candidate",
     "segments": {
       "identity": 30,
-      "geometry": 20,
+      "geometry": 40,
       "evidence": 8,
       "utility": 0
     }
   },
-  "fit_readiness": "compare_only",
+  "fit_readiness": "candidate_fit",
   "trust_summary": {
     "exact_fit_eligible": false,
     "lines": [
-      "May support rough comparison; not sufficient for exact-fit without more verification.",
+      "Strong metadata; confirm evidence before treating as exact-fit.",
       "Primary source kind: manufacturer."
     ]
   },
@@ -34,7 +34,7 @@
     "product_identity": true,
     "official_product_source": true,
     "image": false,
-    "outer_dimensions": false,
+    "outer_dimensions": true,
     "inner_dimensions": true,
     "measurement_evidence": true,
     "verification": false,
@@ -43,7 +43,6 @@
     "collections": false
   },
   "missing": [
-    "outer_size",
     "evidence"
   ],
   "record": {
@@ -52,11 +51,16 @@
     "name": "VIHALS Bed storage box drawer 1 (570×550), white (single/double set)",
     "brand": "ikea",
     "added_by": "gh:schieska",
-    "description": "First drawer compartment from VIHALS bed storage box set of 2 for single/double (IKEA: Width of drawer 1 inside = 57 cm). The set's drawer 2 compartment is 620×550×140 mm. Outer not listed on product page.",
+    "description": "First drawer compartment from VIHALS bed storage box set of 2 for single/double (IKEA: Width of drawer 1 inside = 57 cm). The set's drawer 2 compartment is 620×550×140 mm.",
     "inner_size": {
       "x": 570,
       "y": 550,
       "z": 140
+    },
+    "outer_size": {
+      "x": 600,
+      "y": 580,
+      "z": 240
     },
     "visibility": [
       "product",
@@ -75,7 +79,7 @@
         "method": "manufacturer-spec",
         "tool": "unknown",
         "date": "2026-11-11",
-        "notes": "Official IKEA GB article 806.024.60 (single/double set): drawer 1 inside 570×550×140 mm. Same page: drawer 2 = 620×550×140. Different article/widths from 305.951.17 (570/670)."
+        "notes": "Official IKEA GB article 806.024.60 (single/double set): drawer 1 inside 570×550×140 mm. Outer 600×580×240 mm. Same page: drawer 2 = 620×550×140. Different article/widths from 305.951.17 (570/670)."
       }
     ],
     "accuracy": "high",
@@ -86,7 +90,7 @@
         "806.024.60"
       ]
     },
-    "updated_at": "2026-11-11"
+    "updated_at": "2026-11-15"
   },
   "similar_items": [
     {
