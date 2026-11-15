@@ -16,7 +16,7 @@ You will need a few free programs installed on your computer:
 1. Open your terminal or command prompt.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/dimensions-db/dimensions-db.git
+   git clone https://github.com/schieska/dimensions-db.git
    cd dimensions-db
    ```
 3. Install dependencies (this sets up our tools):
@@ -83,7 +83,7 @@ When the tool asks "How is it sold?", choose:
 ## ❓ Need Help?
 
 If you get stuck or something doesn't work:
-1. Check the [Issues](https://github.com/dimensions-db/dimensions-db/issues) page.
+1. Check the [Issues](https://github.com/schieska/dimensions-db/issues) page.
 2. Open a new issue and ask your question!
 3. Don't worry about breaking things—we review everything before it goes live.
 
